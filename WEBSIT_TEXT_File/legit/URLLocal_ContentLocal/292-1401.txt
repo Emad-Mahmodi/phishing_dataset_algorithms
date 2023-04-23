@@ -1,0 +1,130 @@
+Unity 5Home
+Unity
+Industries
+Showcase
+Learn
+Community
+Asset Store
+Get Unity
+Unity Account
+You need a Unity Account to shop in the Online and Asset Stores, participate in the Unity Community and manage your license portfolio. Login Create account
+Navigation
+Home
+Unity
+Industries
+Showcase
+Learn
+Community
+Asset Store
+Get Unity
+Unity Account
+You need a Unity Account to shop in the Online and Asset Stores, participate in the Unity Community and manage your license portfolio. Login Create account
+Language
+??
+???
+???
+Portugués
+???????
+Espa?ol
+Intro
+Graphics
+Editor
+Multiplatform
+Efficiency
+Ecosystem
+Get Unity
+More beauty platforms players
+Unity 5 is the new edition of the best development platform for creating 2D/3D games and interactive experiences. Unity 5 brings you awesome new artistic power. Improved efficiency makes the hard work smoother and more fun, and with the industry’s most comprehensive multiplatform support, you can now launch your game on 21 platforms.
+Get Unity 5 Launch Trailer
+Get Unity 5
+A graphics powerhouse
+With an artistic toolset never before seen in Unity
+Physically-based Standard Shader
+The new Standard Shader will make your materials look consistent in any lighting environment, across mobile, high-end desktop, and consoles. Apply it across 95% of the materials in your game, such as metal, plastics, wood, ceramics and cloth. Use it together with the new HDR Skybox, Reflection Probes and Global Illumination System to create stunning visuals.
+Real-time Global Illumination
+Animate lighting with Real-time Global Illumination built on Geomerics Enlighten technology. Achieve dynamic lighting treatments on high-end mobile, desktop and consoles, and for lower-end devices, create beautifully detailed results with baked artwork.
+HDR Reflection Probes
+Enhance visual fidelity with our new HDR Reflection Probes. Add richer detail by having any object realistically reflect its surroundings. Reflection Probes are easy to implement—just place a probe at any location in your scene to sample reflections for its surrounding objects.
+A feature-rich and highly flexible Editor
+With the new audio mixer, enhanced animator workflows and PhysX 3.3 under the hood
+The Audio Mixer
+Now anyone can massively improve the audio in their game! Our new Audio Mixer brings nested mixing workflows, with snapshots to capture mixes in different areas of your project, plus industry-standard effects to add immersive new depths.
+New Physics Engine
+PhysX 3.3 brings massive performance improvements to 3D physics in Unity 5. New multithreaded simulation is available for platforms that support it, and there’s a new cloth component for character clothing. New wheel colliders bring better support for suspension and tire force simulation. Collision detection is improved and bake-free scaled MeshCollider support is added.
+A more powerful Animator
+We added more flexibility to the animation system. Add State Machine Behaviours to states to give precise control of script functions during animation. Anything in your game that requires some kind of State Machine-like logic can now use our visual editor live feedback. A new Asset Creation API is now exposed so animators can now create all sorts of tools to create and edit animation assets.
+Industry-leading multiplatform support
+With expanded deployment that frees you to confidently ship to 21 platforms
+iOS
+Android
+Windows Phone 8
+BlackBerry 10
+Tizen
+Windows
+Windows Store Apps
+Mac
+Linux/Steam OS
+Web Player
+WebGL
+PlayStation 3
+PlayStation 4 and Morpheus
+PlayStation Vita
+Xbox One
+Xbox 360
+Wii U
+Android TV
+Samsung SMART TV
+Oculus Rift
+Gear VR
+WebGL Preview
+A preview of the new deployment support for advanced 3D and 2D content in browsers. Take your content to any browser that supports WebGL without requiring a plugin, with Unity’s hallmark efficient deployment.
+Learn more
+Upcoming! Oculus Rift support
+Unity 5 will soon be bringing you integrated Oculus Rift support. The integrated support will mean that developers will only need to install the general Oculus driver, plug in the headset, switch the standard Unity camera to VR mode and press play, in order to run on the Oculus kit.
+Learn more
+iOS Metal rendering support
+Take full advantage of iOS hardware and achieve far greater detail, and interactivity in games, with much lower CPU usage and smoother performance.
+Unmatched efficiency boosted in the Cloud
+With new systems that make your work easier along the way
+Unity Cloud Build
+Unity Cloud Build brings the magic of build automation to all Unity developers. Unity Cloud Build automates the creation and distribution of builds, by monitoring your team’s source control, and when changes are detected, it builds your project for multiple platforms in the cloud. Your whole team is kept updated with email notifications, making it easy for them to install builds on their devices with the tap of a button.
+12 months of access to Unity Cloud Build Pro are included in a Unity 5 Professional license. Unity 5 Personal Edition users can access the Unity Cloud Build Pro for $25/month.
+Learn more
+Game Performance Reporting
+Game Performance Reporting is a new cloud service for Unity Professional customers that provides developers with new tools for improving game performance, starting with a preview of exception logging. Exception Logging captures exceptions in editor, development and release builds, and delivers detailed reports that can be read via a web dashboard.
+Learn more
+Unity Analytics
+Our new cloud-based analytics tool is currently in open beta. Unity Analytics provides you with powerful yet simple-to-understand tools that will help you understand your audience and get actionable insights into your players’ behavior. With that knowledge in hand, you can then improve your players’ gaming experience to boost retention, engagement and monetization.
+At its official launch coming soon in Unity 5, Unity Analytics Pro will be included for free in a Unity 5 Professional Edition license. Unity Personal Edition users will be able to purchase Unity Analytics Pro for $25/month.
+Learn more
+An ecosystem for your creative success
+The game engine used by over 4 million people.
+Learn more
+The Asset Store, for ready-made assets and production tools.
+Learn more
+The generosity of the Unity Community.
+Learn more
+New services to market your game and grow your audience.
+Learn more
+And wait! There’s more
+A 64-bit Editor to handle large projects
+iOS 64-bit support
+New Deferred Rendering
+Graphics Command Buffers
+Improved Linear lighting, HDR, Skybox and Cubemap workflows
+Improved job scheduling system, plus a new CPU Timeline Profiler lets you see and investigate multicore usage
+Improved NavMesh pathfinding system
+Integrated SpeedTree support to create lush, rich and dynamic vegetation
+New Frame Debugger to track down graphical issues in your projects
+Improved Project Wizard
+Updated Standard Assets
+New UI and scripting APIs for AssetBundle Build system
+Access to the new Asset Store Level 11 program: Available for free to Unity 5 Professional customers, and soon to be available to Unity Personal Edition users for $19/month.
+Release notes
+Democratization in action with an unbeatable licensing model
+Democratizing game development and success is still at the heart of what we do. One way we do that is to keep our licensing simple. Whether you download Unity 5 Personal Edition for free, or buy or subscribe to Unity 5 Professional Edition, you pay no royalties and the content you create as a Unity user is yours.
+Get Unity 5
+Unity 5 tutorials Upcoming Unity 5 live online training Documentation
+Got it
+The Unity Software License Agreement and Privacy Policy have been updated.
+We use cookies to ensure that we give you the best experience on our website. Click here for more information.  IE=edge,chrome=1 width=device-width, initial-scale=1.0 telephone=no text/html; charset=utf-8 Drupal 7 (http://drupal.org) #222c37 http://unity3d.com/profiles/unity3d/themes/unity/images/assets/favicons/tileicon-144x144.png

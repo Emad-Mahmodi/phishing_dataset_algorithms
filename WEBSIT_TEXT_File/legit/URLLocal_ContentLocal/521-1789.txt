@@ -1,0 +1,233 @@
+Welcome to Python.orgNotice: While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience.
+Skip to content
+? Close
+Python
+PSF
+Docs
+PyPI
+Jobs
+Community
+? The Python Network
+? Menu
+Search This Site GO
+A A
+Smaller
+Larger
+Reset
+Socialize
+Google+
+Facebook
+Twitter
+Chat on IRC
+Sign In
+Sign Up / Register
+Sign In
+About
+Applications
+Quotes
+Getting Started
+Help
+Downloads
+All releases
+Source code
+Windows
+Mac OS X
+Other Platforms
+License
+Alternative Implementations
+Documentation
+Docs
+Audio/Visual Talks
+Beginner's Guide
+Developer's Guide
+FAQ
+Non-English Docs
+PEP Index
+Python Books
+Community
+Diversity
+IRC
+Mailing Lists
+Python Conferences
+Special Interest Groups
+Python Wiki
+Python Logo
+Merchandise
+Community Awards
+Success Stories
+Arts
+Business
+Education
+Engineering
+Government
+Scientific
+Software Development
+News
+Python News
+Community News
+PSF News
+PyCon News
+Events
+Python Events
+User Group Events
+Python Events Archive
+User Group Events Archive
+Submit an Event
+>_ Launch Interactive Shell
+# Python 3: Fibonacci series up to n
+>>> def fib(n):
+>>>     a, b = 0, 1
+>>>     while a < n:
+>>>         print(a, end=' ')
+>>>         a, b = b, a+b
+>>>     print()
+>>> fib(1000)
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+Functions Defined
+The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3
+# Python 3: List comprehensions
+>>> fruits = ['Banana', 'Apple', 'Lime']
+>>> loud_fruits = [fruit.upper() for fruit in fruits]
+>>> print(loud_fruits)
+['BANANA', 'APPLE', 'LIME']
+
+# List and the enumerate function
+>>> list(enumerate(fruits))
+[(0, 'Banana'), (1, 'Apple'), (2, 'Lime')]
+Compound Data Types
+Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. More about lists in Python 3
+# Python 3: Simple arithmetic
+>>> 1 / 2
+0.5
+>>> 2 ** 3
+8
+>>> 17 / 3  # classic division returns a float
+5.666666666666667
+>>> 17 // 3  # floor division
+5
+Intuitive Interpretation
+Calculations are simple with Python, and expression syntax is straightforward: the operators +, -, * and / work as expected; parentheses () can be used for grouping. More about simple math functions in Python 3.
+# Python 3: Simple output (with Unicode)
+>>> print("Hello, I'm Python!")
+Hello, I'm Python!
+
+# Input, assignment
+>>> name = input('What is your name?\n')
+>>> print('Hi, %s.' % name)
+What is your name?
+Python
+Hi, Python.
+Quick & Easy to Learn
+Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. Whet your appetite with our Python 3 overview.
+# For loop on a list
+>>> numbers = [2, 4, 6, 8]
+>>> product = 1
+>>> for number in numbers:
+...    product = product * number
+... 
+>>> print('The product is:', product)
+The product is: 384
+All the Flow You’d Expect
+Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3
+Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More
+Get Started
+Whether you're new to programming or an experienced developer, it's easy to learn and use Python.
+Start with our Beginner’s Guide
+Download
+Python source code and installers are available for download for all versions! Not sure which version to use? Check here.
+Latest: Python 3.4.3 - Python 2.7.9
+Docs
+Documentation for Python's standard library, along with tutorials and guides, are available online.
+docs.python.org
+Jobs
+Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.
+jobs.python.org
+Latest News
+More
+2015-03-30 Python 3.5.0a3 has been released.   This is the third alpha release ...
+2015-03-03 Python 3.4.3 was released Wednesday, February 25th, 2015.   Python 3.4.3 has ...
+2015-01-13 IronPython 2.7.5 has been released.
+2014-12-10 Python 2.7.9 has been released. Download it for your platform.
+2014-12-05 The first release candidate of Python 2.7.9 has been released. ...
+Upcoming Events
+More
+2015-04-11 Being Pyooneers by GTU Python User Group
+2015-04-12 PyCon Sweden 2015
+2015-04-17 PyCon Italia 2015
+2015-04-29 Python Meeting Düsseldorf
+2015-05-01 Pythology Lecture Series: Data Science with Python
+Success Stories
+More
+Use Python for…
+More
+Web Programming: Django, Pyramid, Bottle, Tornado, Flask, web2py
+GUI Development: wxPython, tkInter, PyGtk, PyQt
+Scientific and Numeric: SciPy, Pandas, IPython
+Software Development: Buildbot, Trac, Roundup
+System Administration: Ansible, Salt, OpenStack
+>>> Python Enhancement Proposals (PEPs): The future of Python is discussed here. RSS
+>>> Python Software Foundation
+The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more
+Become a Member Donate to the PSF
+? Back to Top
+About
+Applications
+Quotes
+Getting Started
+Help
+Downloads
+All releases
+Source code
+Windows
+Mac OS X
+Other Platforms
+License
+Alternative Implementations
+Documentation
+Docs
+Audio/Visual Talks
+Beginner's Guide
+Developer's Guide
+FAQ
+Non-English Docs
+PEP Index
+Python Books
+Community
+Diversity
+IRC
+Mailing Lists
+Python Conferences
+Special Interest Groups
+Python Wiki
+Python Logo
+Merchandise
+Community Awards
+Success Stories
+Arts
+Business
+Education
+Engineering
+Government
+Scientific
+Software Development
+News
+Python News
+Community News
+PSF News
+PyCon News
+Events
+Python Events
+User Group Events
+Python Events Archive
+User Group Events Archive
+Submit an Event
+Contributing
+Developer's Guide
+Issue Tracker
+python-dev list
+Core Mentorship
+? Back to Top
+Help & General Contact
+Diversity Initiatives
+Submit Website Bug
+Copyright ©2001-2015.  Python Software Foundation  Legal Statements  Privacy Policy   IE=edge Python.org The official home of the Python Programming Language Python.org yes black width=device-width, initial-scale=1.0 True telephone=no on false /static/metro-icon-144x144-precomposed.png #3673a5 #3673a5 Python.org website Welcome to Python.org The official home of the Python Programming Language The official home of the Python Programming Language Python programming language object oriented web free open source software license documentation download community Python programming language object oriented web free open source software license documentation download community       

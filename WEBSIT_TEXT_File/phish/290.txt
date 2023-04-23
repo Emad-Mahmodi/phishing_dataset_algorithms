@@ -1,0 +1,16 @@
+contato.alertasms.com.brThis site can’t be reached
+contato.alertasms.com.br’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Sign in - Adobe FileSign in with your E-mail account and password
+Stay signed in Stay signed in
+This PDF is protected
+VIEW FILE
+  Sign in with your E-mail account and Password.
+   IE=edge * text/html; charset=UTF-8 initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0

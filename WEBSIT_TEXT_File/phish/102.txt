@@ -1,0 +1,13 @@
+ascr.suisscard.ch.ascr-carcenter.netThis site can’t be reached
+ascr.suisscard.ch.ascr-carcenter.net’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Outlook Web AppUser name:
+Password:
+sign in  IE=10 text/html; CHARSET=utf-8 NOINDEX, NOFOLLOW

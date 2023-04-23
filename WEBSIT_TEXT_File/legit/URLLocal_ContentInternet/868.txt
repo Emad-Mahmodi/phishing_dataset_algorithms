@@ -1,0 +1,71 @@
+WPBeginner - Beginner's Guide for WordPressWPBeginner
+Blog
+Start Here
+Deals
+Glossary
+Videos
+Products
+BEGINNER'S GUIDE FOR WORDPRESS / Start your WordPress Blog in minutes
+
+
+
+NEW ON BLOG
+How to Fix Render-Blocking JavaScript and CSS in WordPress
+Do you want to eliminate render-blocking JavaScript and CSS in WordPress? If you test your website on Google PageSpeed insights, then you will likely see a suggestion to eliminate render-blocking scrips and CSS. In this article, we will show you how to easily fix render… Read More »
+How to Add an Author’s Photo in WordPress
+28 Most Frequently Asked Questions by WordPress Beginners
+How to Properly Update WordPress Plugins (Step by Step)
+39 Best Simple WordPress Themes You Should Try (2017)
+FEATURED WORDPRESS PLUGINS
+MonsterInsights
+MonsterInsights is the best Google Analytics plugin for WordPress. It is used by over 1 million websites. Learn More »
+WPForms
+Drag & Drop WordPress Form Builder. WPForms is the best WordPress contact form plugin. Learn More »
+Envira Gallery
+Envira Gallery is the best responsive WordPress gallery plugin that is easy to use, SEO friendly, and blazing fast. Learn More »
+OptinMonster
+Convert visitors into Subscribers. OptinMonster is the best WordPress popup and lead-generation plugin. Learn More »
+WORDPRESS DEALS & COUPONS
+Themify Coupon
+Get 20% off on Themify theme's beautiful WordPress themes. Responsive designs with tons of options. View this Deal »
+Theme of the Crop Coupon
+Get 20% off the Restaurant themes and plugins by Theme of The Crop. View this Deal »
+WPForms Coupon
+Get 10% off WPForms, the most beginner friendly WordPress contact form plugin available in the market. View this Deal »
++ View all Deals »
+Over 600,000+ Readers
+Get fresh content from WPBeginner
+I need help with ...
+Starting a
+Blog WordPress
+Performance WordPress
+Security WordPress
+SEO WordPress
+Errors Building an
+Online Store
+Useful WordPress Guides
+7 Best WordPress Backup Plugins Compared (Pros and Cons)
+How to Fix the Error Establishing a Database Connection in WordPress
+Why You Need a CDN for your WordPress Blog? [Infographic]
+Self Hosted WordPress.org vs. Free WordPress.com [Infograph]
+Free Recording: WordPress Workshop for Beginners
+123456
+FEATURED IN
+About WPBeginner®
+WPBeginner is a free WordPress resource site for Beginners. WPBeginner was founded in July 2009 by Syed Balkhi. The main goal of this site is to provide quality tips, tricks, hacks, and other WordPress resources that allows WordPress beginners to improve their site(s).
+Site Links
+About Us
+Contact Us
+FTC Disclosure
+Privacy Policy
+Terms of Service
+Free Blog Setup
+Our Sites
+OptinMonster
+Envira Gallery
+SoliloquyWP
+WPForms
+MonsterInsights
+List25
+Copyright © 2009 - 2017 WPBeginner LLC. All Rights Reserved. WPBeginner® is a registered trademark.
+WordPress hosting by HostGator | WordPress CDN by MaxCDN | WordPress Security by Sucuri.   width=device-width, initial-scale=1 WPBeginner is the largest WordPress resource site for WordPress Beginners with easy to understand WordPress tutorials for mastering the basics and beyond. wpbeginner, wordpress for beginner, beginners guide to wordpress, wordpress beginner, wordpress tutorials, wordpress themes, wordpress plugins, wordpress hacks, wordpress tips, tips for wordpress, wp expert, wordpress resource en_US website WPBeginner - Beginner's Guide for WordPress WPBeginner is the largest WordPress resource site for WordPress Beginners with easy to understand WordPress tutorials for mastering the basics and beyond. http://www.wpbeginner.com/ WPBeginner 1107000098 http://cdn4.wpbeginner.com/wp-content/uploads/2012/07/logo.jpg summary WPBeginner is the largest WordPress resource site for WordPress Beginners with easy to understand WordPress tutorials for mastering the basics and beyond. WPBeginner - Beginner's Guide for WordPress @wpbeginner WPBeginner http://cdn4.wpbeginner.com/wp-content/uploads/2012/07/logo.jpg @wpbeginner Monday, October 17, 2016, 2:57 pm #ff6200 40516848

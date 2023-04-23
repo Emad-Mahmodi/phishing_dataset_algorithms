@@ -1,0 +1,85 @@
+GTmetrix | Website Speed and Performance OptimizationLogin | Sign Up
+GTmetrix
+Home
+Features
+Recommendations
+Top 1000
+FAQ
+API
+Locations
+Contact
+Analyze Performance of:
+Go!
+Everybody deserves a fast web experience.
+GTmetrix can help you develop a faster, more efficient, and all-around improved website experience for your users.
+Your users will love you for it.
+Create a free account instantly!
+Signup and get instant access to features like monitoring, graphing, ad blocking and more!
+Mobile Testing (beta)
+See how your site performs on an actual Android device. Ensure that your page loads optimally for mobile users!
+Throttle Connections
+Simulate your page load on a Dial-Up, 2G, 3G, DSL or Cable connection! Ensure your site is accessible to your target audience.
+Video Playback
+Pinpoint load issues, latency differences and see how your page loads in different regions. View your page load in the eyes of your users!
+Monitor your URLs
+Get reports on the performance of your URLs daily, weekly, or monthly.
+Keep close track of your URLs.
+Graph your performance
+View the performance history of 3 metrics through interactive graphs.
+Zoom, pan, set a date range and more!
+Advanced Options
+Test your URL in other locations, such as Dallas, Sydney and more.
+Use Adblock, HTTP Auth., and Cookie options.
+Save all your report data
+Save and track multiple URLs from one location.
+Keep your reports for as long as your want.
+Get more out of your reports. Register for an account today!
+Speed matters.
+Studies show that users leave a site if it hasn't loaded in 4 seconds; keep your users happy and engaged by providing a fast performing website!
+GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
+About the Developer
+GTmetrix was developed by Gossamer Threads as a tool for our managed hosting customers to easily determine the performance of their site.
+Bookmarklet
+Test with GTmetrix
+Drag this button onto your bookmarks toolbar to test any page easily! (IE user?).
+RSS feed Twitter
+Facebook
+Google Plus
+Latest News
+Check out the latest changes »
+And we're back!
+August 28, 2014
+GTmetrix down for maintenance, be back soon!
+August 28, 2014
+Happy to announce that our Sydney, Australia Test Region now has throttling support!
+August 14, 2014
+Tweet
+Powered by:
+Yahoo YSlow Google Page Speed
+Google Chrome Mozilla Firefox
+Firebug NetExport
+HTTP Archive Viewer mod_perl
+Gossamer Threads
+Contact
+Terms of Service
+© 1995-2015 Gossamer Threads, Inc.
+Login
+E-mail Password
+Keep me logged in
+I forgot my password
+Log in
+Don't have an Account?
+Register
+Close
+Create an Account
+First Name
+Last Name
+Nickname (do not fill out)
+E-mail* Password* Confirm Password* Create Account
+Already Have an Account?
+Log in to your Account
+Close
+Forgot your password?
+Enter your e-mail address below to begin the process of resetting your password.
+E-mail Send Password Close
+A password reset link has been e-mailed to you.  GTmetrix is a free tool that analyzes your page's speed performance.  Using Page Speed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them.

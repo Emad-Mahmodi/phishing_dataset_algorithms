@@ -1,0 +1,227 @@
+SEEK - Australia's no. 1 jobs, employment, career and recruitment site?
+AUNZ
+Jobs
+Courses
+Businesses for sale
+Volunteering
+Sign in
+Remember me
+Trouble signing in?
+or register
+SEEK homepage
+Job Search
+$150k+ Jobs
+Profile
+My Activity
+Advice & Tips
+Employers
+Keywords
+                Any Salary ($0 - $200k+)
+                
+                    You can't search by salary
+                    across multiple countries
+                    (eg. "All locations")
+                
+             Salary
+                        
+                 to
+                    
+                 Work Type 
+                   
+             
+             Show results from 
+                
+Any
+                Today
+                Last 3 Days
+                Last 7 Days
+                Last 14 Days
+                Last 30 Days
+             Classification (up to 4) 
+                    
+            
+             Sub-Classification (up to 10) 
+                   
+ 
+             Location (up to 4) 
+                  
+ 
+             Area 
+                  
+           
+             Show job ads that don't include an area
+More options Fewer options
+Select multiple items above by holding down while making your selection
+Search help
+?
+Keywords help you find exactly what you're looking for.
+How to use keyword search
+Enter the terms of your search in the Keywords field, for example the job title barista or kitchen hand/cook (without quotes).
+In addition to job title, you can include things like skill(s) and seniority (junior, senior, etc.) to make your search more targeted, for example junior barista or senior java developer oracle.
+To refine further, you can use the filters such as Classification, Location and Salary.
+You can choose multiple classifications and locations by using advanced search.
+How search behaves
+Job Search will always find a minimum of two words in a search query. For example, if your search query is HR and facilities administrator then Job Search will look for at least two matching words – i.e. jobs containing either 'HR administrator' or 'facilities administrator' (the 'and' in the query is ignored).
+You can alter this default behaviour using Boolean logic – see Search Techniques below for examples.
+Search techniques
+You can use Boolean logic to tailor your search query by using words like OR, NOT and brackets ().
+Techniques
+Example
+Use OR between each word if you want to search for individual words
+sales OR management (finds all jobs with 'sales' and all jobs with 'management' in the description)
+Use NOT to exclude certain words
+sales NOT management (finds only the jobs which have 'sales' in the description and not ones with just 'management')
+Use AND to broaden your search criteria
+sales AND management (finds only the jobs which have both 'sales' and 'management' in the job ad)
+Use a combination of techniques by using brackets
+management NOT (sales OR account) (finds all 'management' jobs but not with 'sales' or 'account')
+Use double quotation marks to search for a specific phrase (for example "search term")
+"sales management" (finds jobs only with this specific phrase 'sales management')
+Things to know about Keyword Search:
+It is not case sensitive
+It automatically ignores common words such as the, an, also
+It ignores special characters like %, /
+It interprets all spaces, commas, dashes and asterisks as AND
+It recognises common phrases regardless of the spelling such as part time, part-time, parttime
+General tips
+By default, results are sorted by keyword match, so the results most relevant to your search criteria appear at the top.
+To get the freshest results, sort by date – the most recently listed jobs will appear at the top.
+Jobs that contain all of your search terms will generally appear above those which match on fewer terms.
+If you don't get many results, try removing filters to widen your search
+
+
+  5Favourite Searches
+20 new
+Fashion, All Melbourne
+Accounting
+36 new
+Temp Agency Work, Melbourne
+Any Classification
+4 new
+Dance, All Melbourne
+Marketing & Communications
+12Shortlisted Jobs
+Fashion Police Officer
+Red & Green Agency
+Today
+Shopping Trolley Mechanic
+Carpark Logistics
+22 Jun
+Election Poll Dancer
+Vote 4 Media
+20 Jun
+34Applied Jobs
+High Heels Tester
+Stilettoes
+Today
+English to English Translator
+G'Day Yo
+25 Jun
+Imaginary Friend
+Milko
+24 Jun
+Make your time at work really count
+A SEEK Profile will connect you with the latest career opportunities
+Register Now
+Browse jobs by:
+Classifications
+Accounting
+Education & Training
+Government & Defence
+Healthcare & Medical
+Sales
+view all classifications
+Classifications
+Accounting (8,154)
+Administration & Office Support (6,317)
+Advertising, Arts & Media (1,018)
+Banking & Financial Services (3,851)
+Call Centre & Customer Service (3,066)
+CEO & General Management (343)
+Community Services & Development (2,662)
+Construction (5,377)
+Consulting & Strategy (471)
+Design & Architecture (1,588)
+Education & Training (4,268)
+Engineering (3,086)
+Farming, Animals & Conservation (451)
+Government & Defence (2,838)
+Graduate/Entry Level (2,000+)
+Healthcare & Medical (9,385)
+Hospitality & Tourism (7,157)
+Human Resources & Recruitment (2,617)
+Information & Communication Technology (14,094)
+Insurance & Superannuation (1,229)
+Legal (3,080)
+Manufacturing, Transport & Logistics (7,324)
+Marketing & Communications (3,055)
+Mining, Resources & Energy (1,616)
+Real Estate & Property (3,598)
+Retail & Consumer Products (6,059)
+Sales (8,942)
+Science & Technology (490)
+Self Employment (110)
+Sport & Recreation (683)
+Trades & Services (9,837)
+Volunteer (8000+)
+
+hide classifications
+Major Cities
+Sydney
+Melbourne
+Brisbane
+Gold Coast
+Perth
+Adelaide
+Hobart
+Darwin
+Canberra
+Salary
+Jobs paying more than $150k
+Advertisers
+Employers
+Recruiters
+
+Tools
+Profile
+My activity
+Favourite searches
+Shortlisted jobs
+Applied jobs
+Search for a job
+Advice & tips
+Company
+About SEEK
+Media
+Work for SEEK
+Investor centre
+International partners
+BDJobs.com – Bangladesh
+Br.jora.com – Brazil
+Catho.com.br – Brazil
+Manager.com.br – Brazil
+Zhaopin.com – China
+Brightermonday.com – E Africa
+OCC.com.mx – Mexico
+Nz.jora.com – New Zealand
+JobsDB.com – SE Asia
+Jobstreet.com – SE Asia
+Uk.jora.com – UK
+Jobberman.com – W Africa
+Jobseeker – Global
+Connect
+Contact us / FAQs
+Blogs by SEEK
+Insight Blog
+Product & Tech Blog
+Facebook
+Twitter
+Google+
+YouTube
+Employers
+Register for free
+Post a job ad
+Products & prices
+Corporate training
+Customer service
+Privacy Terms & Conditions SEEK safely Site Map Go Mobile © SEEK 2015. All rights reserved.  width=1024, user-scalable=1 IE=Edge;chrome=1 text/html; charset=utf-8 SEEK is Australia's number one jobs site. Search or browse jobs across Australia. Find work or recruit the ideal candidate.  SEEK and you shall find.   SEEK - Australia's no. 1 jobs, employment, career and recruitment site SEEK is Australia's number one jobs site. Search or browse jobs across Australia. Find work or recruit the ideal candidate.  SEEK and you shall find. http://www.seek.com.au/content/images/logos/logo-seek-share2.png JAKf2TPQfQ0lp6uoklgFUtQ3moN2_gBnuLFuisTa2kc c77761d4c9f481e0 D6B4F7BFBF0F89356B1FCC25AC4339F2

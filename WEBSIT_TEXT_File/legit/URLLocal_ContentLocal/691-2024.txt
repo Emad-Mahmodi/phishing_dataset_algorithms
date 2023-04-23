@@ -1,0 +1,72 @@
+CodePlex - Open Source Project HostingCodePlexProject Hosting for Open Source Software
+Register
+Sign In
+Code talks
+
+let your voice be heard
+Create Project
+start a project
+CodePlex is Microsoft's free open source project hosting site. You can create projects to share with the world, collaborate with others on their projects, and download open source software. Terms of Use
+Join a project
+find projects seeking help Learn More
+faq and documentation Sign In
+CodePlex Blog
+find out what's going on Improve Codeplex
+request features, log bugs Register
+register for an account
+most downloaded
+1
+2
+3
+4
+5
+Windows USB/DVD Download Tool (231997)
+Windows USB/DVD Download Tool allow you to easily create bootable DVD or USB Keys for Windows 7/8 installation from the ISO file downloaded from Mi...
+Python Tools for Visual Studio (67653)
+PTVS is a free & OSS add-in from Microsoft that turns VS into a Python IDE. It supports CPython, IronPython, Intellisense, debugging, profiling, A...
+Virtual Router - Wifi Hot Spot for Wi... (45456)
+The original, open source Wifi Hotspot for Windows 7, Windows 8 and Windows Server 2012!
+WBFS Manager (27459)
+This application basically provides a GUI for working with hard disk drives that have been formatted to the WBFS file system.
+within the last 7 days
+popular releases
+1
+2
+3
+4
+5
+Security Header Injection Module (SHIM)
+release: SHIM 1.0.0.1 - Apr 8, 2015
+SHIM project configuration has been updated to integrate with NuGet. No functional changes were made to the module.
+Black Camera Capture
+release: Black Camera Capture v1.0.0.0 - Apr 8, 2015
+This is the first version of the project with a client to test.
+CUDAfy.NET
+release: CUDAfy V1.29 - Apr 8, 2015
+V1.29 08-04-15 Add: Support for CUDA 7.0 Fix: 64-bit pointer for BLAS, SPARSE and RAND Chg: Remove x86 support for BLAS, SPARSE and RAND Chg: M...
+Helpfile 200
+release: Helpfile Ver 200_022 - Apr 7, 2015
+Minor changes to Macros, Hot keys and Programmable buttons Conversion of CW Machine
+within the last 7 days
+top followed projects
+1
+2
+3
+4
+5
+VeraCrypt
+An open source disk encryption tool with strong security for the Paranoid
+CodePlex Information and Discussion
+This area is used for providing information and discussions about the CodePlex website.
+Dynamic Data Display
+This is a library of WPF and Silverlight controls for dynamic data visualization. It features efficient binding mechanisms and real-time interactiv...
+Managed Extensibility Framework
+The Managed Extensibility Framework (MEF) is a library in .NET that enables greater reuse of applications and components. Using MEF, .NET applicati...
+within the last 7 days
+© 2006-2015 Microsoft
+Get Help
+Privacy Statement
+Terms of Use
+Code of Conduct
+Advertise With Us
+Version 3.31.2015.20983  IE=edge text/html; charset=utf-8 Microsoft's open source project hosting web site. You can use CodePlex to find open source software or create new projects to share with the world. summary @CodePlex http://www.codeplex.com/ CodePlex Project hosting for open source software. http://www.codeplex.com/Images/codeplex.png CodePlex http://www.codeplex.com/ object CodePlex Project hosting for open source software. http://www.codeplex.com/Images/codeplex.png

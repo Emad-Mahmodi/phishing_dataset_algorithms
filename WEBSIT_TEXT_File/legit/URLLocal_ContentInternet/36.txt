@@ -1,0 +1,992 @@
+Stack OverflowStack Overflow
+Questions
+Jobs
+Documentation
+BETA
+Tags
+Users
+Log In Sign Up
+x Dismiss
+Join the Stack Overflow Community
+Stack Overflow is a community of 7.0 million programmers, just like you, helping each other.
+Join them; it only takes a minute:
+Sign up
+Top Questions
+interesting
+389 featured
+hot
+week
+month
+0
+votes
+0
+answers
+1
+view
+SSRS Report is throws Hexadecimal error
+reporting-services ssrs-2012
+asked 4 secs ago Vignesh R 10
+0
+votes
+0
+answers
+2
+views
+how to pass sesstion value other page if condition true in php
+php
+asked 14 secs ago brij 17
+0
+votes
+0
+answers
+2
+views
+Embed iFrame in Android WebView not working
+android html iframe webview
+asked 19 secs ago Michael1009 8
+0
+votes
+1
+answer
+17
+views
+Is possible to extend from Twig_Lexer?
+twig
+answered 23 secs ago davidmpaz 46
+1
+vote
+1
+answer
+10
+views
+jquery / noscript to fade a page in
+jquery animation accessibility opacity fadein
+answered 24 secs ago SteamDev 1,933
+0
+votes
+0
+answers
+4
+views
+Hashing document's large array for MongoDB instead of indexing?
+mongodb search indexing hash heuristics
+modified 28 secs ago user7863717 1
+0
+votes
+2
+answers
+24
+views
+VueJS accessing data from component in root Vue instance
+javascript vue.js local-storage
+answered 40 secs ago Bert Evans 7,336
+1
+vote
+0
+answers
+2
+views
+Uploading picture from mobile is showing up sideways
+c#
+asked 40 secs ago Newbie 87
+0
+votes
+0
+answers
+2
+views
+Hi , I need to get auto notification to specific people whenever a specific cell is changed in google sheet
+email google-spreadsheet auto
+asked 44 secs ago Shiva Rama Krishna 1
+0
+votes
+0
+answers
+2
+views
+Parsing graphical interfaces of Windows based executables
+windows user-interface parsing
+asked 52 secs ago Ravikumar 1
+0
+votes
+0
+answers
+4
+views
+Why is the complexity of reverse algorithm O(n)
+javascript arrays algorithm reverse
+asked 1 min ago Maximus 12.3k
+0
+votes
+0
+answers
+2
+views
+get the calendar title of EKEvent
+ios swift xcode calendar
+asked 1 min ago Thoms 49
+0
+votes
+0
+answers
+2
+views
+Programming the configurator in django, generate PDF, survey
+django python-3.x pdf django-forms
+asked 1 min ago Kuba 26
+0
+votes
+1
+answer
+11
+views
+Can a child have multiple parents in google spanner?
+google-spanner
+answered 1 min ago samiz 31
+0
+votes
+0
+answers
+7
+views
+Is PHP editing the page just for the client?
+php html
+asked 1 min ago user7804967 3
+0
+votes
+0
+answers
+5
+views
+Show post views of all the authors in the last 7 days
+php wordpress post roles author
+asked 1 min ago Jay Bro 1
+0
+votes
+0
+answers
+3
+views
+Python RandomForestClassifier - How to improve recall?
+python random-forest precision-recall
+asked 1 min ago bithom 78
+0
+votes
+0
+answers
+5
+views
+Broken return type declarations in PHP7?
+php-7
+asked 1 min ago vladamx 11
+0
+votes
+0
+answers
+3
+views
+Binding multible dropdown lists from one source
+mysql sql asp.net vb.net
+asked 1 min ago DannyBoy 50
+0
+votes
+0
+answers
+5
+views
+typescript + redux: exclude redux props in parent component
+javascript reactjs typescript redux react-redux
+modified 1 min ago Felix Hagspiel 534
+0
+votes
+0
+answers
+3
+views
+Changing input_shape when copying Keras layers from one model to another
+keras
+asked 2 mins ago dhinckley 86
+3
+votes
+1
+answer
+25
+views
+how to get the data value of the registry value inside a key using powershell
+powershell
+answered 2 mins ago Frode F. 28.5k
+0
+votes
+0
+answers
+4
+views
+I have an issue with private variable scope
+c++11
+asked 2 mins ago Ethan Jones 1
+5
+votes
+1
+answer
+55
+views
+C# 7 Local Functions: are attributes / aspects allowed?
+c# .net attributes postsharp aspect
+answered 2 mins ago Jon S 73
+0
+votes
+0
+answers
+3
+views
+Modify Observable if values exist in another Observable
+angular rxjs
+asked 2 mins ago Mel Pacheco 8
+0
+votes
+1
+answer
+8
+views
+Single executable for both windows and linux?
+linux windows
+answered 2 mins ago Carter Brainerd 116
+0
+votes
+1
+answer
+9
+views
+How to do Row-wise calculations in a dataframe Without using for loop - R
+r shiny shinyapps shiny-server dt
+answered 2 mins ago ahly 316
+0
+votes
+0
+answers
+3
+views
+How do I obtain the file-name from an outlook message file, by using Apache Tika?
+java apache-tika
+asked 2 mins ago Coffee 1,006
+0
+votes
+0
+answers
+2
+views
+How to exclude junit.framework.TestCase from being intercepted by Bytebuddy's @Origin
+java unit-testing junit byte-buddy
+asked 2 mins ago Jacktraror 26
+0
+votes
+0
+answers
+6
+views
+Excel VBA - Calculate cumulative time..with a stipulation
+excel vba excel-vba
+asked 2 mins ago sbagnato 18
+0
+votes
+0
+answers
+2
+views
+Wrong sort with words with accents in a HTML table using the md-order-by attribute
+sorting angular-material accent-insensitive
+asked 2 mins ago Roby Sottini 114
+0
+votes
+0
+answers
+3
+views
+Shows error while starts the app ( Abi Incompitable )
+android opencv
+asked 3 mins ago Qahir Ahmad 1
+0
+votes
+0
+answers
+2
+views
+Edit multiple instances in Django admin
+python django
+asked 3 mins ago orange1 775
+0
+votes
+0
+answers
+4
+views
+How to do isomorphic types in TypeScript
+typescript type-systems
+asked 3 mins ago hgiesel 1,572
+1
+vote
+1
+answer
+19
+views
+Defining some configuration using only App.config
+c# wcf
+answered 3 mins ago Eugene Komisarenko 376
+0
+votes
+0
+answers
+2
+views
+How to get an access to Magento App code which is in Docker container
+magento docker docker-compose
+asked 3 mins ago Anton Kozytskyi 34
+0
+votes
+0
+answers
+8
+views
+How to write test with httprouter
+go
+modified 3 mins ago Flimzy 19.2k
+0
+votes
+0
+answers
+3
+views
+Read url of online-link(.url) with batch
+batch-file url steam
+asked 3 mins ago Xerus 46
+0
+votes
+0
+answers
+3
+views
+change the color in md-tab of angular2 material design
+html css angular angular-material2
+asked 3 mins ago skid 211
+0
+votes
+0
+answers
+3
+views
+Return path and selected file xamarin
+android xamarin
+asked 3 mins ago JOSE 31
+3
+votes
+5
+answers
+20k
+views
+Swift 3, URLSession dataTask completionHandler not called
+nsurlsession swift3
+answered 3 mins ago Ankit 1,376
+0
+votes
+0
+answers
+11
+views
+Is it possible to force Android Studio to compile using a previous jdk?
+android android-studio xamarin-studio jdk1.7 jdk1.8.0
+modified 3 mins ago Cristopher Garza 15
+0
+votes
+0
+answers
+5
+views
+Error when I compile my project with VB6. Can't find project or library
+crystal-reports vb6
+modified 3 mins ago pnet 116
+0
+votes
+0
+answers
+4
+views
+Weird behavior of Finder Sync Extension's tool bar item menu
+cocoa nsmenu nsmenuitem appstore-sandbox findersync
+modified 4 mins ago Alex Ling 472
+0
+votes
+0
+answers
+2
+views
+nginx webdav upload file premissions
+nginx webdav
+asked 4 mins ago user1492502 209
+0
+votes
+0
+answers
+4
+views
+Alter Microsoft.ReportingServices.PowerpointRendering.dll
+c# vb.net visual-studio powerpoint decompiling
+asked 4 mins ago Kassie 1
+0
+votes
+0
+answers
+2
+views
+HTML to PPT .Net Library
+html css .net export powerpoint
+asked 4 mins ago user327999 318
+0
+votes
+0
+answers
+6
+views
+Update query for LinqtoSql
+c# sql sql-server linq-to-sql
+asked 4 mins ago SQLserving 21
+0
+votes
+0
+answers
+4
+views
+Delphi android strings file localization
+delphi firemonkey
+asked 4 mins ago Raffaele Rossi 538
+0
+votes
+0
+answers
+3
+views
+ng-attr-title not working in kendo listview
+angularjs kendo-ui
+asked 5 mins ago USAZ 6
+0
+votes
+0
+answers
+4
+views
+I can't invoke function in constructor of a class on SAPUI5
+sapui5
+modified 5 mins ago Cesar Miguel 99
+0
+votes
+0
+answers
+9
+views
+Hadoop MapReduce mapper and reducer with multiple key types
+java hadoop mapreduce
+asked 5 mins ago Alessandro 1,309
+0
+votes
+1
+answer
+18
+views
+Unable to load transpiler
+javascript angularjs node.js
+answered 5 mins ago Robert Fulcher 1
+0
+votes
+0
+answers
+3
+views
+Issue with Python OpenCV custom buildpack on Heroku
+python-2.7 opencv heroku bottle
+asked 5 mins ago Indi 336
+0
+votes
+0
+answers
+3
+views
+Google Custom Search limit and layout
+google-custom-search
+asked 5 mins ago Hanna 3
+5
+votes
+1
+answer
+39
+views
+C++ Run .exe file and redirect cin and cout
+c++ c++11 redirect
+modified 5 mins ago Valy 174
+2
+votes
+2
+answers
+10
+views
+Replacing of regular Expression
+javascript jquery regex regexp-replace
+answered 5 mins ago Himanshu dua 532
+1
+vote
+0
+answers
+13
+views
+Vertical Align not working for each section
+html css vertical-alignment responsive
+asked 5 mins ago ckingchris 11
+0
+votes
+0
+answers
+5
+views
+How to display all posts while looping sub categories in a category view wordpress
+php wordpress
+asked 5 mins ago Temi 'Topsy' Bello 79
+0
+votes
+0
+answers
+3
+views
+How to create a background processing android app using MIT app Inventor
+android app-inventor
+asked 5 mins ago Dilakshan Sooriyanathan 1
+0
+votes
+0
+answers
+5
+views
+Database table for bus booking website
+django database sqlite
+asked 6 mins ago K. Grewal 8
+2
+votes
+0
+answers
+11
+views
+How to detect async function support without eval?
+javascript async-await
+asked 6 mins ago callum 5,172
+0
+votes
+0
+answers
+4
+views
+What happens to Personal Access Tokens when GitHub user converted to organization?
+github
+asked 6 mins ago prototype 2,974
+0
+votes
+0
+answers
+4
+views
+Chrome Native Messaging - Hanging Child Process
+node.js chrome-native-messaging
+asked 6 mins ago wrleskovec 151
+2
+votes
+1
+answer
+21
+views
+Q: How to run single test in multiple devices?
+android testing parallel-processing
+answered 6 mins ago ninjayoto 73
+0
+votes
+0
+answers
+3
+views
+How does Continous Integration work with large, inter-related changes?
+continuous-integration
+asked 7 mins ago Jay 20k
+0
+votes
+4
+answers
+37
+views
+How to make Loading div appear before all links and scripts are loaded
+javascript html
+answered 7 mins ago Tom Elmore 1,154
+0
+votes
+1
+answer
+9
+views
+Enable Multidex
+android android-gradle android-multidex
+modified 7 mins ago betorcs 1,656
+0
+votes
+0
+answers
+4
+views
+app.js not find after second build from Xcode
+ios
+asked 7 mins ago Eric Jean-Bart 1
+0
+votes
+0
+answers
+4
+views
+Loading all titles from database and show them in a popup Fullcalendar
+javascript jquery ajax fullcalendar
+asked 7 mins ago Nour Ben Arfa 2
+0
+votes
+0
+answers
+4
+views
+Transparency within instanced shapes
+three.js
+asked 8 mins ago TheJim01 387
+0
+votes
+0
+answers
+5
+views
+pyramid pserve in different root path than /
+pyramid waitress
+asked 8 mins ago QLands 662
+0
+votes
+0
+answers
+3
+views
+MQTT error after 5 minutes
+react-native mqtt iot
+asked 9 mins ago Antoine Grandchamp 103
+0
+votes
+0
+answers
+4
+views
+Error while importing XGBOOST in jupyter nb v5,win 10, p2.7. Installed via conda mndrake
+python machine-learning anaconda jupyter-notebook xgboost
+asked 10 mins ago Anirudh Bhardwaj 1
+0
+votes
+0
+answers
+3
+views
+load cordova plugins async
+cordova asynchronous cordova-plugins ngcordova
+asked 11 mins ago Fako Berkers 1
+0
+votes
+0
+answers
+4
+views
+Gauges Charts - multiple gauges java
+charts
+asked 11 mins ago Dominik Proky Proch?zka 1
+0
+votes
+0
+answers
+4
+views
+SQLite remove escaping characters in Swift 3
+sqlite swift3
+asked 11 mins ago Marco Antonio Uzcategui Pescoz 1,333
+0
+votes
+0
+answers
+3
+views
+Scaling Service Boundary (SOA)
+domain-driven-design nservicebus soa microservices
+asked 11 mins ago Rupesh Kumar Tiwari 356
+0
+votes
+0
+answers
+4
+views
+Graphic video card utilization with HDMI and display port together
+performance video
+asked 12 mins ago Gamer8373 1
+1
+vote
+0
+answers
+12
+views
+Include of Nvidia's nvapi.h causes compilation errors
+c++ nvidia nvapi
+asked 12 mins ago HEADLESS_0NE 927
+0
+votes
+0
+answers
+3
+views
+installshield warning 6248 Could not find dependent file
+c# visual-studio-2013 setup-deployment installshield-2011
+asked 12 mins ago Rana Sikandar 1
+0
+votes
+0
+answers
+3
+views
+PrimeNG Calendar dynamic placement/positioning
+angular primeng
+asked 13 mins ago Brett 774
+0
+votes
+0
+answers
+3
+views
+how to visit each Entity's property when `serializer.pre_serialize` event is raised
+symfony jmsserializerbundle symfony-2.8 jms-serializer
+modified 13 mins ago Bertuz 780
+1
+vote
+0
+answers
+9
+views
+editing prism models in emacs
+emacs
+modified 13 mins ago user2579326 21
+0
+votes
+0
+answers
+3
+views
+Accessing metadata from azure storage blob
+azure metadata
+asked 14 mins ago dinotom 1,533
+0
+votes
+0
+answers
+3
+views
+Google maps api clear direction on map
+angularjs google-maps
+asked 14 mins ago Ajiboye Adedeji 5
+0
+votes
+0
+answers
+3
+views
+Apple Watch interface strangely cropped/shifted
+xcode watchkit apple-watch
+asked 16 mins ago Marco Boschi 1,234
+1
+vote
+0
+answers
+7
+views
+What is an optimal way to send OPENCV Mat over MPI
+c++ opencv parallel-processing mpi
+asked 16 mins ago RicUfa 6
+0
+votes
+0
+answers
+2
+views
+node-forge how to read a private rsa key from file
+node.js encryption rsa
+asked 19 mins ago WABBIT0111 347
+1
+vote
+0
+answers
+6
+views
+Loading File in Extrnal Tomcat Container vs Bootrun
+java spring tomcat spring-boot rule-engine
+modified 22 mins ago user2110074 6
+1
+vote
+0
+answers
+5
+views
+SSRS Query Designer - Dictionary<string,string>
+soap reporting-services
+modified 22 mins ago Silas 6
+1
+vote
+0
+answers
+6
+views
+How can confidence intervals be numerically visualized in corrplot()?
+r correlation confidence-interval r-corrplot
+asked 30 mins ago AJMA 60
+1
+vote
+0
+answers
+4
+views
+Umbraco job feed rss
+c# razor rss umbraco
+modified 33 mins ago Tom Pegler 6
+1
+vote
+0
+answers
+7
+views
+Watson Discovery News - filter query to show a maximum of 1 result per domain
+watson watson-discovery
+asked 42 mins ago pwilmot 435
+1
+vote
+0
+answers
+7
+views
+Spring Boot transactional test allows to violate unique constraint on update
+jpa spring-boot integration-testing transactional
+asked 45 mins ago knesterovich 6
+1
+vote
+0
+answers
+5
+views
+How to display yarn globally installed packages?
+yarn
+asked 56 mins ago Haifeng Zhang 6,545
+
+Looking for more? Browse the complete list of questions, or popular tags. Help us answer unanswered questions.
+Ask Question
+Looking for a job?
+Software Engineer - Make a Difference to Our 3.5 Million Users
+Next JumpGreater London, UK
+£40K - £60K
+htmlcss
+C++ Research Engineer for Automated Factory of the Future
+CloudNCLondon, UK
+£60K - £90KRELOCATION
+c++gpgpu
+Hot Network Questions
+The meaning of "if any" in journal print charges description
+How can we transmit a date to another species?
+Best Way to create Custom Poll Web part in sharepoint 2013?
+How do I rename a category in Steam?
+Which parties would try to stop Brexit from happening after the "snap election"?
+What's the worst thing anyone could do in a fast-food restaurant?
+My coworker emailed me a root password that I'm not supposed to have. Should I tell my boss, and if so how do I tell without sounding petty?
+What happens to dying PCs when combat ends?
+Player may be manipulating die rolls, but I'm uncertain. How do I approach the situation?
+In burger menus, should "Logout" always at the bottom and why?
+photodiode current direction
+displaying fractions in line in equation mode
+A weapon(preferably hard scifi) that will limit velocity of space ships in a wide region temporarily
+Is there a term for metric equivalence analogous to "enharmonic" for pitch equivalence?
+Why do all commercial aircraft have carpets?
+Magento 1: model rewrite vs event dispatching, best strategy?
+What do you do when your players guess your plots?
+Why the snap election?
+What did Hermione see with her own eyes?
+How to Create Helper Data?
+Do snowballs snowball?
+How to handle a coworker pretending to be my boss?
+How can I tell whether this set is closed or open?
+Plus or minus polyglots!
+recent questions feed
+about us tour help blog chat data legal privacy policy work here advertising info developer jobs directory mobile contact us feedback
+TECHNOLOGY LIFE / ARTS CULTURE / RECREATION SCIENCE OTHER
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+Cryptography
+Code Review
+Magento
+Signal Processing
+Raspberry Pi
+Programming Puzzles & Code Golf
+more (7)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (8)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Motor Vehicle Maintenance & Repair
+more (17)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (3)
+Meta Stack Exchange
+Stack Apps
+Area 51
+Stack Overflow Talent
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2017.4.19.25712  summary stackoverflow.com website Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded Stack Overflow Q&A for professional and enthusiast programmers http://stackoverflow.com/

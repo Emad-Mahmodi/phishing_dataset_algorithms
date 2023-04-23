@@ -1,0 +1,4 @@
+404 Not FoundNot Found
+The requested URL /js/NatWest_2017/ was not found on this server.
+Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request. 
+  1; URL=http://dhalander.com.br/cadastro_cliente66/atendimento_pessoa_fisica/atualizar/index.php

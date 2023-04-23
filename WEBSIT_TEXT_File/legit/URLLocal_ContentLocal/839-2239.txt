@@ -1,0 +1,344 @@
+Sportnachrichten – aktuelle News & Livestreams | SPORT1.deJetzt im TV
+[[channel.title]]
+seit [[show.from | date: 'HH:mm']][[show.title]]
+ab [[show.from | date: 'HH:mm']][[show.title]]
+TV-Programm »
+[[fmEpg.meta.channel]]
+seit [[show.startzeit | date: 'HH:mm']][[show.titel]]
+ab [[show.startzeit | date: 'HH:mm']][[show.titel]]
+FM-Programm »
+Heute Live
+Alle News
+Fu?ball
+Int. Fu?ball
+US-Sport
+Motorsport
+Handball
+Basketball
+Darts
+Eishockey
+Tennis
+Radsport
+Volleyball
+Europaspiele 2015
+Boxen
+Golf
+Poker
+Wintersport
+Olympia
+Hockey
+Leichtathletik
+Triathlon
+Schwimmen
+Tischtennis
+Beachvolleyball
+Mehr Sport
+Boulevard
+Partner
+Bildergalerien
+Unternehmen
+Mehr
+Tickets
+SPORT1 zur Startseite machenX
+Update
+Stimmen zum Viertelfinale im DFB-Pokal
+"Tausend Mal bei ihm entschuldigt"
+Bayern empf?ngt BVB im DFB-Pokal
+Hammerlos: Klassiker im Halbfinale
+Sieg in Leverkusen im Elfmeterschie?en
+Bayern in hitzigem Duell am Ende cooler
+DFB-Pokal: Arminia wirft auch Gladbach raus
+Bielefeld schafft die n?chste Sensation
+Dreierpack gegen St. Etienne
+Ibrahimovic schie?t PSG ins Endspiel
+Update
+THW schl?gt Magdeburg klar
+Duvnjak bringt Kiel dem Titel n?her
+Erster Testtag von Mick Schumacher
+Riesiger Rummel um ein stilles Debüt
+ALBA empf?ngt Maccabi Tel Aviv
+Berlins historische Chance
+SPORT1 macht den Playoff-Check
+Harte Brocken für Dallas - Wahnsinn im Osten
+Aktion von SPORT1.fm und GUINESS World Records
+Max Herre versucht den #Torschrei-Weltrekord
+Stimmen
+Auslosung
+Leverkusen - FCB
+Bielefeld
+Ibrahimovic
+Kiel - SCM
+Mick Schumacher
+Euroleague
+NBA-Playoffs
+#Torschrei
+NEWSTICKER
+Alle News »
+um 00:07 Bayern gegen BVB im Halbfinale DFB-Pokal
+um 00:02 Thiago entschuldigt sich bei Kie?ling DFB-Pokal
+um 00:01 ALBA Berlin vor Spiel des Jahres Euroleague
+um 00:01 Taylor trifft auf van Barneveld Darts
+um 00:01 DEB-Team fordert Finnland heraus Nationalteam
+um 00:01 Rauchende Colts im Texas-Duell NBA
+Gestern Barthel zieht ins Achtelfinale ein WTA
+Gestern Jubil?um für Ronaldo - Barca marschiert Primera Divisi?n
+Gestern La Coruna feuert Trainer Fernandez Primera Divisi?n
+Gestern Bayern schl?gt Bayer nach Elferkrimi DFB-Pokal
+Gestern Ibrahimovic schie?t PSG ins Finale Ligue 1
+Gestern Achtelfinal-Aus für Witth?ft WTA
+Gestern Klose mit Lazio im Pokalfinale Serie A
+Gestern Liverpool erreicht Halbfinale Premier League
+Gestern UEFA bestraft Kroatien EM 2016
+Gestern Darmstadt verl?ngert mit Schuster 2. Bundesliga
+Gestern Friedrichshafen im Finale Volleyball
+Gestern Skyliners siegen in Crailsheim Beko BBL
+Gestern Bielefeld wirft Gladbach raus DFB-Pokal
+Gestern Duvnjak bringt Kiel dem Titel n?her DKB HBL
+[[ item.headline || item.title ]] [[ item.channel.title ]]
+Top Themen
+Das bringt der Sport-Tag
+ALBA Berlin steht in der Euroleague vor dem Spiel des Jahres. Das deutsche Eishockeyteam testet gegen Finnland. Beim Darts ist der 10. Spieltag der Premier League angesetzt. mehr »
+Jubil?um für Ronaldo - Barca marschiert
+Update Der Portugiese erzielt sein 300. Liga-Tor für Real Madrid. In der Tabelle bleiben die K?niglichen weiter am FC Barcelona dran. Die Katalanen schie?en UD Almeria ab. mehr »
+Klose stürmt mit Lazio ins Finale
+Exklusiv Nach dem Remis im Hinspiel genügt dem Weltmeister mit den R?mern ein knapper Sieg beim SSC Neapel zum Weiterkommen. Nun wartet Meister Juventus Turin. mehr »
+Darmstadt verl?ngert mit Trainer Schuster
+Der Aufsteiger treibt seine Planungen weiter voran. Nach dem Kapit?n wird nun auch der Coach mit einem neuen Vertrag ausgestattet. Und der 47-J?hrige hat noch viel vor. mehr »
+Fussball
+DFB-Pokal
+mehr zu DFB-Pokal »
+Wirbel um Kung-Fu-Thiago
+Bayerns Thiago erhitzt gegen Leverkusen mit einem b?sen Tritt die Gemüter. Bielefeld feiert Elfmeterheld Alexander Schwolow. Die Bilder der DFB-Pokal-Viertelfinals. mehr »
+Kehl macht seinen Sohn glücklich
+Mit seinem Dropkick l?sst Sebastian Kehl einen Fan im Stadion besonders jubeln. Trainer Jürgen Klopp verr?t, wie er seine Mannschaft in der Halbzeit angestachelt hat. mehr »
+Elfmeterpfiff erhitzt die Gemüter
+Christian Streich und Dieter Hecking sind nach Freiburgs Pokalaus in Wolfsburg unterschiedlicher Meinung. Grund ist der entscheidende Elfmeter, der Streich auf die Palme bringt. mehr »
+"Heute haben wir die beiden besten Torhüter gesehen. Der beste steht bei den Bayern im Tor."Leverkusens Trainer Roger Schmidt
+Fu?ball
+mehr zu Fu?ball »
+?berzeugender H?rtetest gegen Brasilien
+Trotz gro?er Personalsorgen setzt sich die Mannschaft von Bundestrainerin Silvia Neid im vorletzten Testspiel vor der WM nach schwachem Beginn gegen die Selecao durch. mehr »
+Russland siegt am Grünen Tisch
+Nach dem abgebrochenen Skandalspiel in der EM-Qualifikation wertet die UEFA die Partie nachtr?glich zugunsten der Sbornaja und bestraft Montenegro mit einem Geisterspiel. mehr »
+Liverpool erreicht Halbfinale
+Die Reds erreichen im FA Cup bei den Blackburn Rovers im Nachsitzen die Runde der letzten Vier. Dort wartet ein Ligakonkurrent. Ein Brasilianer erzielt das Tor des Tages. mehr »
+"Ein Spiel revidiert nicht die letzten Monate"
+SPORT1-Experte Christian Beeck warnt St. Pauli nach dem Sieg gegen Düsseldorf vor falschen Schlüssen. Der Abstiegskampf gehe weiter - auch für Fürth. mehr »
+Odegaard probt den Aufstand bei Real
+Martin Odegaard wird nachgesagt, eines der gr??ten Talente der Welt zu sein - und weigert sich offenbar in Reals Reserve zu trainieren. Trainer Zinedine Zidane greift durch. mehr »
+Eigene Suchmaschine für Ibrahimovic
+Eine Werbeagentur hat eine etwas andere Suchmaschine entworfen. Diese ist komplett auf Stürmer-Star Zlatan Ibrahimovic abgestimmt. S?mliche Ergebnisse sind "zlatanisiert". mehr »
+Der Fu?ball-Transfermarkt 2015
+Wolfsburg vor n?chster Transfer-Offensive
+Jetzt folgen ... und keine News mehr verpassen!
+FacebookTwitterGoogleYoutube
+Motorsport
+mehr zu Motorsport »
+Schumacher-Managerin hofft auf Nachsicht
+Managerin Sabine Kehm bittet im Interview mit SPORT1 um Rücksicht für Schützling Mick Schumacher. Sie spricht über seine erste Eindrücke und den Teamkollegen. mehr »
+SPORT1 freut sich auf die Stars von morgen
+Hermann Tomczyk und SPORT1-Chefredakteur Olaf Schr?der freuen sich auf Motosport LIVE bei SPORT1. Mit dabei: Mick Schumacher und der Sohn eines Vettel-Meistermachers. mehr »
+Van der Linde will Titel verteidigen
+Kelvin van der Linde geht voller Selbstbewusstsein ins Unternehmen Titelverteidigung im ADAC GT Masters. Den gestiegenen Druck nimmt der junge Südafrikaner locker. mehr »
+Ecclestone: "Regeln sind Müll"
+Chefpromoter Bernie Ecclestone fordert eine drastische Revolution in der Formel 1. Ecclestone will die alten Motoren wieder und die Fahrer mehr in den Vordergrund stellen. mehr »
+Angestachelt zur Revanche
+Nach Vettels Sieg schrillen die Alarmglocken bei Mercedes. Mit neuen Teilen will man in China kontern. Sogar die Rivalen Nico Rosberg und Lewis Hamilton rücken enger zusammen. mehr »
+Test des ADAC GT Masters in Oscherleben
+Mick Schumacher startet Formel-Karriere
+US-Sport
+mehr zu US-Sport »
+Schr?der meldet sich spektakul?r zurück
+Update Nach seiner Zehenverletzung spielt Dennis Schr?der wieder und stellt mit den Atlanta Hawks gegen die Suns eine neue Bestmarke auf. Phoenix' Bledsoe wird ausfallend und fliegt. mehr »
+Vier deutsche St?dte wollen NFL-Spiel
+Nach Berlin bemühen sich offenbar auch drei weitere St?dte darum, schon bald ein regul?res Saisonspiel der NFL auszurichten. München ist mit dem Olympiastadion in der Spur. mehr »
+Copeland und Frau bei Messerstecherei verletzt
+Update Chris Copeland wird vor einem Nachtclub in New York attackiert. Der Forward der Indiana Pacers wird in die Klinik eingeliefert, zwei weitere NBA-Spieler festgenommen. mehr »
+Nowitzki mit Dallas sicher in den Playoffs
+Dirk Nowitzki und die Dallas Mavericks ziehen trotz Spielpause in die Postseason der NBA ein. Damit setzten die Texaner eine beeindruckende Serie mit nur einem Ausrutscher fort. mehr »
+Pelicans überflügeln Thunder - Pop hat Mitleid
+Update Anthony Davis führt New Orleans zum Sieg gegen die überm?chtigen Warriors und auf einen Playoff-Platz. OKC f?llt durch die Klatsche gegen San Antonio zurück. mehr »
+US-Sport News
+00:01 Rauchende Colts im Texas-Duell
+08.04. Erste Frau als Schiedsrichterin in NFL
+08.04. Copeland bei Messerstecherei verletzt
+08.04. Vier deutsche St?dte wollen NFL-Spiel
+08.04. Deutsche NHL-Stars müssen zittern
+08.04. Bhullar schreibt Geschichte
+08.04. Nowitzki mit Dallas sicher in Playoffs
+08.04. Pelicans überflügeln Thunder
+08.04. Schr?der bei Rekordsieg zurück
+07.04. NBA plant Event auf Kuba
+alle News »
+[[title|competitionDashboardTitle:competition]]
+[[date]]
+zum Spieltag »zur Tabelle »
+[[title|competitionDashboardTitle:competition]]
+[[date]]
+zum Spieltag »zur Tabelle »
+Handball
+mehr zu Handball »
+Langhans schockt Füchse
+Im Kampf um einen Europapokal-Platz kassiert Berlin gegen Lübbecke in der letzten Sekunde den Ausgleich. GWD Minden setzt im Abstiegskampf gegen Balingen ein Ausrufezeichen. mehr »
+Stenzel fordert Hannings Rücktritt
+Der frühere Nationaltrainer Vlado Stenzel kritisiert DFB-Vizepr?sident Bob Hanning scharf und fordert seinen Rücktritt. "Alle St?rfaktoren müssen weg", sagt der 80-J?hrige. mehr »
+Bohmann: Playoffs für mehr Attraktivit?t
+Frank Bohmann will die Dominanz des THW Kiel in der Bundesliga eind?mmen. Der Gesch?ftsführer der Liga schl?gt deshalb einen neuen Spielmodus im Meisterrennen vor. mehr »
+Handball News
+08.04. Duvnjak bringt Kiel dem Titel n?her
+08.04. Füchse verpassen Sieg
+08.04. Djordjic verl?sst den HSV
+08.04. Stenzel fordert Rücktritt von Hanning
+08.04. Bohmann will Playoffs um den Titel
+08.04. Kiel in Magdeburg gefordert
+07.04. L?wen bleiben Kiel auf den Fersen
+07.04. DHB st?rkt Hanning den Rücken
+07.04. HSV gibt Mehrkens Profivertrag
+07.04. L?wen gegen Melsungen unter Druck
+alle News »
+[[title|competitionDashboardTitle:competition]]
+[[date]]
+zum Spieltag »
+[[title]]
+zur Tabelle »
+Boulevard
+mehr zu Boulevard »
+Die SPORT1 Bilder des Tages
+Einh?ndig beim US Masters
+Die ewige Jagd nach dem Ball und der NCAA Krimi von Indianapolis - die besten Sportfotos des Tages auf SPORT1. mehr »
+Wozniacki spielt mit Obama
+Tennis-Beauty Caroline Wozniacki liefert sich ein Duell mit dem m?chtigsten Mann der Welt im Wei?en Haus. Am Abend sch?kert die D?nin dann mit einem Football-Star. mehr »
+Treffsichere ManUnited-Stars
+Robin van Persie und Daley Blind wechseln die Sportart - sie liefern sich ein Match mit den Darts-Helden Michael van Gerwen und Raymond van Barneveld. Socialmedia-Highlights. mehr »
+Mehr Sport
+Top Themen
+Golf
+Woods vor dem Masters in Augusta
+Die Nation leidet mit dem Tiger
+Nationalteam
+Tomlinson unterstützt Cortina bei WM
+Rund vier Monate nach seiner Entlassung bei den Eisb?ren Berlin soll der 44-J?hrige dem Bundestrainer bei der Weltmeisterschaft in Tschechien zur Seite stehen. mehr »
+WRC
+Rallye Dakar 2016 nicht in Chile
+Nach den tagelangen ?berschwemmungen im Norden des Landes wird die Rallye im kommenden Jahr keine Station in Chile machen. Das Land war seit 2009 fester Bestandteil des Rennens. mehr »
+Beko BBL
+ALBA kritisiert Termin für Final Four
+Marco Baldi bem?ngelt die kurze Verschnaufspause für seine Spieler. Der Manager von ALBA Berlin fordert die Liga auf, sich an eigene Regen zu halten und will Taten sehen. mehr »
+WTA
+Petkovic und Kerber mit Mühe weiter
+Beim Turnier in Charleston ziehen Andrea Petkovic und Angelique Kerber ins Achtelfinale ein. Die beiden Deutschen brauchen in ihrem Zweitrunden-Match fast zwei Stunden. mehr »
+ATP
+Kein Start in Monte Carlo
+Haas schiebt Comeback erneut auf
+Tipps
+TV-Tipps Die Highlights aus den TV-Kan?len SPORT1, SPORT1+ und SPORT1 US
+Livestreams Alle Streaming-Angebote von SPORT1, SPORT1+ und SPORT1 US im ?berblick
+Liveticker Alle Events des Tages in der aktuellen ?bersicht
+SPORT1.fm Das Sport-Radio! Fu?ball LIVE - im Web und als App
+Bildergalerien Die sch?nsten Bilder aus der Welt des Sports im ?berblick
+Bundesliga-Manager Der neue SPORT1 Bundesliga-Manager. Jetzt mitspielen !
+Community Deutschlands gr??tes Sportportal. Diskutiere kostenlos in der SPORT1-Community
+Darts-Shop Darts und Dartszubeh?r online kaufen im neuen SPORT1 Darts-Shop
+Shop Das SPORT1 Phrasenschwein und weitere Artikel zu den Sendungen
+Games Sportspiele, Fu?ball-, Online- und Browsergames sowie Tests aktueller Spiele
+Legenden des Fu?balls SPORT1 pr?sentiert: 70 Jahre internationale Fu?ballgeschichte
+Video-Highlights
+Fu?ball / Pokal
+Nach Traumtor im Pokal: Kehl best?tigt Karriereende
+DFB-Pokal
+Experten glauben an gro?e ?berraschung
+Sportradio SPORT1.fm
+Der alte Mann und das unfassbare Tor
+DKB HBL
+L?wen trotz Trainer-KO siegreich
+Fu?ball / Pokal
+Gro?e Personalsorgen beim FC Bayern
+mehr Videos »
+Meistgelesene Artikel
+DFB-Pokal
+Thiago entschuldigt sich bei Kie?ling
+DFB-Pokal
+Bayern schl?gt Bayer nach Elferkrimi
+DFB-Pokal
+Bielefeld wirft Gladbach raus
+Primera Divisi?n
+Odegaard rebelliert bei Real Madrid
+ADAC Formel 4
+Riesiger Rummel um ein stilles Debüt
+X
+Update
+Die sport1.de Startseite wurde gerade aktualisiert!
+Neu laden?
+abbrechen » weiter »
+SPORT1 ist die Nummer 1-Plattform, wenn es um Livesport geht. Livestreams, Liveticker und aktuelle Berichterstattung aus allen Bereichen des Sports finden Sie immer zuerst bei uns.
+Im Fu?ball stehen bei uns die Fu?ball-Bundesliga, die 2. Bundesliga sowie viele weitere Ligen aus Deutschland im Fokus. Zudem gibt es alle Infos zu den internationalen Vereinswettbewerben, der Champions League und der Europa League. Natürlich finden Sie auch alle News zu den ausl?ndischen Fu?ballligen. Ob die spanische Primera Division, die englische Premier League, die italienische Serie A oder die Ligue 1 aus Frankreich. Alle Ligen finden ihren Platz bei SPORT1.de.
+Highlights sind neben der Fu?ball-WM und der Fu?ball-EM die Olympischen Spiele im Sommer sowie im Winter, die European Games aus Baku und vieles mehr.
+Im US Sport finden Sie bei uns alles aus den gro?en vier Ligen, der NBA, der NFL , der NHL und der MLB.
+Auch alle weiteren Sportarten, wie Handball mit der DKB HBL und den Gro?ereignissen Handball-WM und Handball-EM, Basketball mit der Beko BBL sowie der Basketball-WM und der Basketball-EM, Darts, Tennis, Boxen, Motorsport wie der Formel 1 oder der Rallye-Weltmeisterschaft WRC, Wintersportarten wie Biathlon, Skispringen, Ski Alpin, Nordische Kombination oder Eisschnelllauf haben ihren festen Platz auf SPORT1.de.
+Sport in all seinen Facetten: Neben Livetickern, Livestreams und Ergebnissen im Datencenter bietet SPORT1 alle Hintergrundberichte in Sachen Fu?ball-Transfermarkt, Infos aller Vereine der Fu?ball-Bundesliga, im Handball und Basketball und der gro?en Welt des Sports.
+Top Themen
+Fu?ball
+1. Bundesliga
+2. Bundesliga
+3. Liga
+Regionalliga
+Champions League
+Europa League
+DFB-Pokal
+WM 2014
+EM 2016
+FC Bayern München
+Borussia Dortmund
+Hamburger SV
+Schalke 04
+SV Werder Bremen
+Borussia M?nchengladbach
+VfB Stuttgart
+RB Leipzig
+Mediathek
+Bundesliga Ergebnisse
+Bundesliga Tabelle
+Handball
+NBA
+NFL
+MLB
+NHL
+Motorsport
+Formel 1
+Bildergalerien
+Basketball
+Euroleague
+Wintersport
+Ski Alpin
+Biathlon
+Skispringen
+WRC
+Eishockey
+Tennis
+Radsport
+Darts
+Boxen
+Golf
+Leichtathletik
+Schwimmen
+Olympia
+Livestream
+Liveticker
+Videos
+Fernsehprogramm
+Doppelpass
+Bundesliga Aktuell
+Hattrick
+Bundesliga Manager
+Spiele
+Sport Quiz
+          Unternehmen
+Presse
+Media
+Jobs
+Kontakt
+Impressum
+AGB
+Datenschutz
+Nutzungsbedingungen
+Copyright © 2015 Sport1 GmbH. Alle Rechte vorbehalten.   IE=edge width=1310 Aktuelle Nachrichten, Liveticker und Videos zur Fu?ball-Bundesliga, Champions League, Formel 1 und weiteren Sportereignissen, sowie das SPORT1 TV-Programm. Sport1.de Sport,Live,Ticker,Kicker,News,Artikel,Fu?ball,Bundesliga,Handball,US-Sport,Tennis,Motorsport, Formel1,Basketball,Wintersport,Golf,Boxen,Extremsport,Leichtathletik,Olympia,Radsport,Segeln,Tischtennis,Darts, Transfermarkt http://assets.sport1.de/bundles/sport1portal/images/favicons/browserconfig.xml news.sport1://pages/180 news.sport1://pages/180 news.sport1://pages/180 SPORT1 Sportnachrichten Aktuelle Nachrichten, Liveticker und Videos zur Fu?ball-Bundesliga, Champions League, Formel 1 und weiteren Sportereignissen, sowie das SPORT1 TV-Programm. website http://www.sport1.de/ de_DE Sport1.de

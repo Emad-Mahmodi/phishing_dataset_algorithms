@@ -1,0 +1,334 @@
+Welcome to The Apache Software Foundation!Home
+About
+Projects
+People
+Get Involved
+Download
+Support Apache
+The Apache Way
+Contribute
+ASF Sponsors
+OPEN.
+THE APACHE SOFTWARE FOUNDATION
+provides support for the Apache Community of open-source software projects, which provide software products for the public good.
+INNOVATION.
+THE APACHE PROJECTS ARE DEFINED
+by collaborative consensus based processes, an open, pragmatic software license and a desire to create high quality software that leads the way in its field.
+COMMUNITY.
+WE CONSIDER OURSELVES
+not simply a group of projects sharing a server, but rather a community of developers and users.
+APACHE PROJECTS
+The all-volunteer ASF develops, stewards, and incubates more than 350 Open Source projects and initiatives that cover a wide range of technologies. From Abdera to Zookeeper, if you are looking for a rewarding experience in Open Source and industry leading software, chances are you are going to find it here. Are you powered by Apache?
+FEATURED PROJECTS
+Apache VXQuery
+Apache PDFBox
+Apache Commons OGNL
+APACHE VXQUERY
+Apache VXQuery will be a standards compliant XML Query processor implemented in Java. The focus is on the evaluation of queries on large amounts of XML data. Specifically the goal is to evaluate queries on large collections of relatively small XML documents. To achieve this queries will be evaluated on...
+Learn More...
+LATEST NEWS
+Keep up with the ASF's news and announcements by subscribing to the Apache Announcements List, and following the Foundation Blog and @TheASF on Twitter.
+
+[ANN] APACHE TOMCAT 8.5.14 AVAILABLE
+The Apache Tomcat team announces the immediate availability of Apache Tomcat 8.5.14.
+ 
+Tomcat 8.x users should normally be using 8.5.x releases in preference to 8.0.x releases.
+ 
+Apache Tomcat...
+[ANN] APACHE TOMCAT 9.0.0.M20 AVAILABLE
+The Apache Tomcat team announces the immediate availability of Apache Tomcat 9.0.0.M20.
+ 
+Apache Tomcat 9 is an open source software implementation of the Java Servlet, JavaServer Pages, Java Unified...
+[ANNOUNCE] APACHE KUDU 1.3.1 RELEASED
+The Apache Kudu team is happy to announce the release of Kudu 1.3.1.
+ 
+Kudu is an open source storage engine for structured data which supports low-latency random access together...
+LATEST ACTIVITY
+@ TheASF: Support your favorite Apache project, category or BarCamp at @ApacheCon by becoming an Apache Community Sponsor! https://t.co/4G2pECMjSI
+@ TheASF: #ApacheBigData projects incl. @HBase @apachekafka @ApacheKylin @ApacheMahout @ApacheParquet ... Join us! https://t.co/DnSA0nYXQh #conference
+@ TheASF: #ApacheBigData projects incl @ApacheApex @ApacheBeam @ApacheCalcite @cassandra @ApacheFlink @hadoop @ApacheIgnite... https://t.co/DnSA0nYXQh
+APACHE BLOGS
+APACHE OPENWEBBEANS-1.7.3 HAS BEEN RELEASED
+The Apache OpenWebBeans Team is proud to announce the release of Apache OpenWebBeans-1.7.3
+Apache OpenWebBeans is an Apache License v2 licensed implementation of the JSR-346 CDI-1.2 specification. OpenWebBeans has a...
+THE APACHE® SOFTWARE FOUNDATION RECOGNIZES APACHE INNOVATIONS INTEGRAL TO THE PULITZER PRIZE-WINNING PANAMA PAPERS INVESTIGATION
+Apache Open Source library, search, and document management tools used in investigating the biggest leak in journalism history.
+
+Forest Hill, MD —17 April 2017— The Apache Software Foundation (ASF), the...
+THE APACHE NEWS ROUND-UP: WEEK ENDING 14 APRIL 2017
+The Apache community salutes the ASF's 18 years of Open Source leadership with ongoing productivity:
+Support Apache –Apache projects benefit billions of users worldwide for less than $5K/project/year. Please consider making...
+APACHE PROJECT LIST
+BY CATEGORY
+Overview
+All Projects
+Attic
+Big Data
+Build Management
+Cloud
+Content
+Databases
+FTP
+Graphics
+HTTP
+HTTP-module
+Incubating
+JavaEE
+Labs
+Libraries
+Mail
+Mobile
+Network-client
+Network-server
+OSGi
+RegExp
+Retired
+Search
+Security
+SQL
+Testing
+Virtual-machine
+Web-framework
+XML
+FAQ
+BY NAME
+HTTP Server
+A
+Accumulo
+ACE
+ActiveMQ
+Airavata
+Allura
+Ambari
+Ant
+Any23
+Apex
+APR
+Archiva
+Aries
+Arrow
+AsterixDB
+Aurora
+Avro
+Axis
+B
+Bahir
+Beam
+Bigtop
+Bloodhound
+BookKeeper
+Brooklyn
+Buildr
+BVal
+C
+Calcite
+Camel
+Cassandra
+Cayenne
+Celix
+Chemistry
+Chukwa
+Clerezza
+CloudStack
+Cocoon
+Commons
+Cordova
+CouchDB
+Creadur
+Crunch
+cTAKES
+Curator
+CXF
+D
+DB
+DeltaSpike
+Directory
+Drill
+E
+Eagle
+Empire-db
+F
+Falcon
+Felix
+Flex
+Flink
+Flume
+Forrest
+G
+Geode
+Geronimo
+Giraph
+Gora
+Groovy
+Gump
+H
+Hadoop
+Hama
+HBase
+Helix
+Hive
+HttpComponents
+I
+Isis
+Ignite
+J
+Jackrabbit
+James
+jclouds
+Jena
+JMeter
+JSPWiki
+Johnzon
+jUDDI
+K
+Kafka
+Karaf
+Knox
+Kudu
+Kylin
+L
+Lens
+Libcloud
+Logging
+Lucene
+Lucene.Net
+Lucy
+M
+Mahout
+ManifoldCF
+Marmotta
+Maven
+Mesos
+MetaModel
+MINA
+MyFaces
+N
+Nutch
+Nifi
+O
+ODE
+OFBiz
+Olingo
+Oltu
+OODT
+Oozie
+Open Climate Workbench
+OpenJPA
+OpenMeetings
+OpenNLP
+OpenOffice
+OpenWebBeans
+ORC
+P
+Parquet
+PDFBox
+Perl
+Phoenix
+Pig
+Pivot
+POI
+Polygene
+Portals
+Q
+Qpid
+R
+Ranger
+REEF
+River
+Roller
+S
+Samza
+Santuario
+Sentry
+Serf
+ServiceMix
+Shiro
+SIS
+Sling
+SpamAssassin
+Spark
+Sqoop
+Stanbol
+STeVe
+Storm
+Struts
+Subversion
+Synapse
+Syncope
+T
+Tajo
+Tapestry
+Tcl
+Tez
+Thrift
+Tika
+Tiles
+Tinkerpop
+Tomcat
+TomEE
+Traffic Server
+Turbine
+Twill
+U
+UIMA
+Usergrid
+V
+VCL
+Velocity
+VXQuery
+W
+Web Services
+Whimsy
+Wicket
+Wink
+X
+Xalan
+Xerces
+XMLBeans
+XML Graphics
+Y
+Yetus
+Z
+Zeppelin
+ZooKeeper
+
+COMMUNITY
+Overview
+Conferences
+Summer of Code
+Getting Started
+The Apache Way
+Travel Assistance
+Get Involved
+Community FAQ
+Memorials
+INNOVATION
+Incubator
+Labs
+Licensing
+Licensing FAQ
+Trademark Policy
+Contacts
+TECH OPERATIONS
+Developer Information
+Infrastructure
+Security
+Status
+Contacts
+PRESS
+Overview
+ASF News
+Announcements
+Twitter Feed
+Contacts
+LEGAL
+Legal Affairs
+Licenses
+Trademark Policy
+Public Records
+Privacy Policy
+Export Information
+License/Distribution FAQ
+Contacts
+Copyright © 2017 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.
+Apache and the Apache feather logo are trademarks of The Apache Software Foundation.   IE=edge width=device-width, initial-scale=1 Home page of The Apache Software Foundation #603cba /favicons/mstile-144x144.png /favicons/browserconfig.xml #303284

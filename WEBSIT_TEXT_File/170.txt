@@ -1,0 +1,11 @@
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.fsqipgcezkhv8rk3tgkslgrim9dmwkl3crbsydmndtjabu4uqdnbk5kx4dzp.lidlmeritisaosugi.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.fsqipgcezkhv8rk3tgkslgrim9dmwkl3crbsydmndtjabu4uqdnbk5kx4dzp.lidlmeritisaosugi.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Santander S/A   IE=edge

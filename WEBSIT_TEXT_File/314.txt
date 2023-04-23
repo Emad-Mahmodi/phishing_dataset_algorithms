@@ -1,0 +1,21 @@
+santandr.emprsarial.com.brThis site can’t be reached
+santandr.emprsarial.com.br’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Documento sem t?tuloPessoa F?sica
+Pessoa Jur?dica
+Santander
+Santander
+Van Gogh
+Santander
+Select
+Santander
+Private Banking
+Santander
+Universidades  text/html; charset=utf-8

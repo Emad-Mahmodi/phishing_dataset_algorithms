@@ -1,0 +1,66 @@
+ASP.NET | The ASP.NET SiteRegister for the ASP.NET Core sessions presented by Scott Hunter, Jeff Fritz, and Dan Roth from the .NET/ASP.NET team at DEVintersection 2017! Learn more >
+Blog
+Language
+ASP.NET
+Home
+Get Started
+Learn
+Hosting
+Downloads
+Community
+Forums
+Help
+Get building
+ASP.NET
+ASP.NET is an open source web framework for building modern web apps and services with .NET. ASP.NET creates websites based on HTML5, CSS, and JavaScript that are simple, fast, and can scale to millions of users.
+Download
+Visual Studio 2017
+Free, powerful IDE for ASP.NET on Windows
+Download
+.NET Core
+Free .NET command-line tools for Windows, Mac, and Linux
+Free courses
+Start learning ASP.NET and ASP.NET Core for free with videos, interactive tutorials, code samples and more.
+Learn more
+Community spotlight RSS Feed
+Announcing New ASP.NET Core and Web Development Features in Visual Studio 2017
+Jeff Fritz announces the release of Visual Studio 2017 and describes top new features for ASP.NET developers, including ASP.NET Core tooling, Docker support, publishing enhancements and more!
+Reloading strongly typed options in ASP.NET Core 1.1.0
+Mar 7, 2017
+Andrew Lock explains how to use the new IOptionsSnapshot interface in ASP.NET Core 1.1.0 to reload changes to strongly typed options.
+Project.json to MSBuild conversion guide
+Mar 7, 2017
+Nate McMaster provides an indepth guide to converting project.json projects to MSBuild.
+Working with Multiple .NET Core SDKs - both project.json and msbuild/csproj
+Mar 6, 2017
+Scott Hanselman shows how to work with more than one version of .NET Core installed.
+Working with a Distributed Cache in ASP.NET Core
+Mar 6, 2017
+Jignesh Trivedi shows how to implement a distributed cache in ASP.NET Core using both Redis and SQL Server backends.
+New Year, New Blog
+Mar 3, 2017
+Wolfgang Ziegler describes how he built a custom blogging engine with ASP.NET Core and static pages generated from Markdown.
+Custom Project Templates Using dotnet new
+Mar 3, 2017
+Muhammad Rehan Saeed explores the upcoming dotnet new experience and shows how to create additional templates.
+A File Upload API with Nancy, .NET Core in a Shockingly Small Amount of Code
+Mar 2, 2017
+Fernando Rodriguez builds out a file upload API using Nancy, .NET Core, Dapper, and Azure.
+See more
+Announcements
+Visual Studio 2017 Launch: March 7-8
+ASP.NET Documentation Now on docs.microsoft.com
+Announcing the Fastest ASP.NET Yet, ASP.NET Core 1.1 RTM
+Visual Studio 2015 Update 3
+Visual Studio Code
+Open Source
+This site is managed for Microsoft by Neudesic, LLC. | © 2017 Microsoft. All rights reserved.
+Privacy Statement|
+Terms of Use|
+Contact Us|
+Advertise With Us|
+CMS by Umbraco|
+Hosted on Microsoft Azure
+Feedback on ASP.NET|
+File Bugs|
+Support Lifecycle   IE=edge,chrome=1 width=device-width, initial-scale=1 Microsoft ASP.NET Site Microsoft ASP.NET Home of the Microsoft ASP.NET development community. Download Visual Studio, post to the forums, read ASP.NET blogs and learn about ASP.NET. summary @aspnet asp.net https://www-asp.azureedge.net/v-2017-03-27-001/images/ui/asplogo-square.png The Official Microsoft ASP.NET Site ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript. website The Official Microsoft ASP.NET Site ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript. https://www-asp.azureedge.net/v-2017-03-27-001/images/ui/asplogo-square.png https://www.asp.net/ The Official Microsoft ASP.NET Site scott.hanselman jon.galloway robmcm

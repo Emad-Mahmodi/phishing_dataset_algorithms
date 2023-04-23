@@ -1,0 +1,144 @@
+An integrated suite of cloud products, services and solutions | Alibaba CloudTRY IT FREE
+View here to log in or access your console
+OK
+Free Trial
+New to Alibaba Cloud? Get hands on experience with a 60-day, $270 Free Trial
+Free trial
+Free Trial
+Getting Started
+ChinaConnect
+Starter Packages
+Products and Services
+View all products
+Elastic Computing
+Elastic Compute Service
+Deploy your virtual cloud servers
+Auto Scaling
+Adjust and automate computing resources
+Server Load Balancer
+Distribute traffic across resources
+Container Service
+Manage your Dockerized applications
+Storage & Networking
+Object Storage Service
+Table Store
+CDN
+Virtual Private Cloud
+Database Services
+ApsaraDB for RDS
+ApsaraDB for Memcache
+ApsaraDB for Redis
+Analytic DB
+Security
+Anti-DDoS Basic
+Anti-DDoS Pro
+Mobile Security
+Web Application Firewall
+Solutions
+Gaming
+Web Hosting
+E-commerce
+Multimedia
+Gaming
+End-to-end solutions that enable businesses to develop advanced and unique games with a better built-in user experience and lower response time.
+Learn more
+Browser Gaming Solution
+Mobile Gaming Solution
+Cloud Gaming Security
+Why Alibaba Cloud
+Trusted by over 2.3 million customers worldwide, including cloud provider to the Olympic Games.
+Learn more
+Cloud Without Borders
+Cut down latency and deploy globally on Alibaba Cloud’s international network of 14 data centers and manage all regions via a single global account.
+Safeguard Your Data
+As a Singapore registered company, Alibaba Cloud complies with high-level international certifications to guarantee data security.
+Record-breaking Performance
+Alibaba Cloud has broken records in data sorting technology, anti-DDoS protection, and processing of transactions per second.
+China's Largest Cloud Provider
+Access China’s largest cloud network, including 5 deployment regions and multiple Availability Zones in each region. See ChinaConnect
+Develop globally on the Alibaba Cloud network
+No.1
+Public cloud vendor in China (IDC 2014)
+14
+International data centers
+530+
+CDN nodes around the world
+2.3 million
+Customers worldwide
+Europe
+Dubai data center
+North China
+South China
+East China
+Hong Kong
+Japan
+Singapore
+Australia
+US West
+US East
+Customer Success Stories
+View more customers
+Notice
+Alibaba Cloud Releases SSH Key Pair Authentication
+Apr 20
+Real-name Registration for purchase of China Mainland ECS
+Apr 12
+Apr. 11 Alicloud SLB upgrade notice
+Apr 5
+Press
+Alibaba Cloud Launches "Apsara Stack Agility" Integrated with Docker Enterprise Edition
+Alibaba Cloud
+Apr 20
+Alibaba Cloud Joins the EU Code of Conduct for Cloud Service Providers
+Alibaba Cloud
+Apr 03
+Alibaba Cloud Announces Machine Learning platform PAI 2.0, Driving Innovations in Life Sciences and Manufacturing
+Alibaba Cloud
+Mar 29
+Forum
+How to update credit card information
+Mar 13
+Alibaba Cloud Tech Share Result
+Mar 2
+Getting Started with Alibaba Cloud
+Feb 13
+Test out Alibaba Cloud before you buy
+Try it free
+Explore Alibaba Cloud
+Why Alibaba Cloud
+Free Trial
+Products
+Customers
+Partners
+Startups
+Marketplace
+ChinaConnect
+Cloud Focus
+Press Room
+Sitemap
+Service and Support
+Alibaba Cloud Support
+Documentation
+Getting Started
+Forum
+ICP Support
+WHOIS
+Refer a Friend
+Training & Certification
+Pricing
+Pricing Models
+Contact Us
+Contact Sales
+Report Abuse
+User Center
+Console
+Billing Management
+Account Management
+Ticket Management
+Message Center
+A comprehensive suite of global cloud computing services to power your business
+About Us Privacy Policy Legal Notice List
+International
+English
+Alibaba Group Taobao Marketplace Tmall Juhuasuan AliExpress Alibaba.com 1688 Alimama Alitrip YunOS AliTelecom AutoNavi UCWeb Umeng Xiami TTPod DDChong DingTalk Alipay UC Union
+© 2009-2017 Copyright by Alibaba Cloud All rights reserved   a3c0i Alibaba Cloud (Aliyun) Official Website - Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free. cloud services,cloud solutions,cloud hosting,cloud hosting provider,cloud web hosting,server hosting,cloud servers,cloud computing services,cloud service provider webkit IE=edge,chrome=1 webkit webkit no-siteapp width=device-width,initial-scale=1

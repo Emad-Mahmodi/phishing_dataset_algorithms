@@ -1,0 +1,257 @@
+Ask UbuntuUbuntu
+Community
+Ask!
+Developer
+Design
+Discourse
+Hardware
+Insights
+Juju
+Shop
+More â€?
+Apps
+Help
+Forum
+Launchpad
+MAAS
+Canonical
+current community
+chat blog
+Ask Ubuntu
+Ask Ubuntu Meta
+your communities
+Sign up or log in to customize your list.
+more stack exchange communities
+Stack Exchange
+sign up log in tour help
+Tour Start here for a quick overview of the site
+Help Center Detailed answers to any questions you might have
+Meta Discuss the workings and policies of this site
+
+Ask Ubuntu
+Questions
+Tags
+Users
+Badges
+Unanswered
+Ask Question
+_
+Ask Ubuntu is a question and answer site for Ubuntu users and developers. It's 100% free, no registration required.
+
+Take the 2-minute tour
+Here's how it works:
+Anybody can ask a question
+Anybody can answer
+The best answers are voted up and rise to the top
+Explore Our Questions
+active 11 featured hot week month
+12.0414.04installationbootunitycommand-linenetworkingwirelessdual-bootdrivers more tags
+0
+votes
+1
+answer
+11
+views
+Cant access Google and facebook
+networking internet google facebook
+answered 3 mins ago gyropyge 1,036
+4
+votes
+2
+answers
+6k
+views
+How can I let Unity WebApps always run in Chromium?
+unity webapps
+modified 7 mins ago craig lerr 11
+0
+votes
+0
+answers
+8
+views
+I'm using DHCP.I Cannot ping to local network. but can ping to public Ip .
+networking dhcp localhost
+asked 10 mins ago Aneesh 1
+13
+votes
+2
+answers
+625
+views
+Wrong behavior of sort command?
+command-line sort
+modified 10 mins ago muru 27k
+2
+votes
+0
+answers
+23
+views
+Eduroam on Aquaris E4.5 (Ubuntu edition)
+wireless ubuntu-touch smartphone
+modified 33 mins ago varsop 13
+0
+votes
+1
+answer
+25
+views
+can't access wireless,files and usb in Ubuntu
+14.04 boot data-recovery recovery-mode
+modified 38 mins ago kashminder 97
+1
+vote
+1
+answer
+13
+views
+Bash script: command not found
+command-line bash scripts environment-variables
+answered 44 mins ago MrMookie 11
+1
+vote
+0
+answers
+4
+views
+Ubuntu on external drive does not boot once it is removed and plugged back in
+dual-boot grub2 external-hdd
+asked 53 mins ago boris 6
+0
+votes
+0
+answers
+3
+views
+Bluetooth won't turn on on Lenovo G510 with Ubuntu 14.04 LTS
+14.04 bluetooth lenovo
+modified 1 hour ago A.B. 1,182
+1
+vote
+0
+answers
+10
+views
+Cannot install Ubuntu - stuck at 'Installation Type'
+dual-boot partitioning system-installation hard-drive raid
+asked 1 hour ago zilfondel 6
+0
+votes
+0
+answers
+11
+views
+ubuntu 14.04 can not rotate 90 degree with Intel GMA3600
+14.04 rotate gma3600
+modified 1 hour ago A.B. 1,182
+0
+votes
+0
+answers
+11
+views
+Print crashes often
+networking printing
+asked 1 hour ago Beni Bogosel 456
+2
+votes
+1
+answer
+1k
+views
+tcpdump permissions problem
+14.04 permissions tcpdump
+modified 1 hour ago A.B. 1,182
+1
+vote
+2
+answers
+33
+views
+How to access my /home partition?
+14.04 partitioning gparted
+modified 1 hour ago A.B. 1,182
+Browse More Questions
+Hot Network Questions
+Do not understand the source code of Arrays.copyOf
+How to build a city surrounded by giant spiders?
+Generate MathJax for the Golden Ratio Continued Fraction
+Is there no crossover point where shutter speed overtakes flash duration?
+What are the possible downsides of answering an "anonymous" employee survey truthfully?
+How to display zero percent of progress?
+What is the purpose of using a very dark color for text instead of a pure black?
+Can malware change the website visited by browser?
+Why does Trinity's kiss revive Neo in The Matrix?
+Which airlines with routes connecting Vietnam and China have free cancellations and can be booked online?
+How would cities be designed that were threatened by dragons?
+Is it necessary for one to understand analysis?
+How to report a "toxic" player in Heroes of the Storm?
+Would 100-200 years be sufficient to "erase" past atrocities?
+How to nurture my child to be fearless
+Programming Languages Through The Years
+Start inparaenum-numeration with another letter than "a)"
+How to draw a cyclic sequence in latex
+How can the contact point of rolling body have zero velocity?
+Pedals hits the ground too often while turning at relatively high speed
+Project Euler -problem 1
+Drying clothes with the sun's heat, without any air
+To what extent is reviewing work beneficial for young researcher's career?
+Why, although these functions have the same derivative, do they not differ by a constant?
+more hot questions
+recent questions feed
+tour help blog chat data legal privacy policy work here advertising info mobile contact us feedback
+Technology Life / Arts Culture / Recreation Science Other
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Programmers
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+more (14)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (10)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+Arqade (gaming)
+Bicycles
+Role-playing Games
+more (21)
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+MathOverflow
+more (7)
+Stack Apps
+Meta Stack Exchange
+Area 51
+Stack Overflow Careers
+site design / logo © 2015 stack exchange inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2015.4.8.2455
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.  summary @AskUbuntu askubuntu.com website http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955&a Ask Ubuntu Q&A for Ubuntu users and developers http://askubuntu.com/

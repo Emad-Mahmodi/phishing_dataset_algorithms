@@ -1,0 +1,21 @@
+mirror.enha.kr | 526: Invalid SSL certificateRetry for a live version
+This page (https://mirror.enha.kr/wiki/FrontPage) is currently offline. However, because the site uses Cloudflare's Always Online™ technology you can continue to surf a snapshot of the site. We will keep checking in the background and, as soon as the site comes back, you will automatically be served the live version. Always Online™ is powered by Cloudflare | Hide this Alert
+Error 526 Ray ID: 3526b0f69a53643f • 2017-04-20 08:21:39 UTC
+Invalid SSL certificate
+You
+Browser
+Working
+Frankfurt
+Cloudflare
+Working
+mirror.enha.kr
+Host
+Error
+What happened?
+The origin web server does not have a valid SSL certificate.
+What can I do?
+If you're a visitor of this website:
+Please try again in a few minutes.
+If you're the owner of this website:
+The SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server. Additional troubleshooting information here.
+Cloudflare Ray ID: 3526b0f69a53643f • Your IP: 2606:f180:3:138:138:f74d:2c42:3840 • Performance & security by Cloudflare  cf_use_ob=0; expires=Thu, 20-Apr-17 08:22:09 GMT; path=/  text/html; charset=UTF-8 IE=Edge,chrome=1 noindex, nofollow width=device-width,initial-scale=1,maximum-scale=1

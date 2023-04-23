@@ -1,0 +1,187 @@
+World Wide Web Consortium (W3C)W3C
+W3C By Region
+All
+Australia
+?sterreich
+(Austria)
+België
+(Belgium)
+Botswana
+Brasil
+(Brazil)
+??
+(China)
+Suomi (Finland)
+Deutschland
+(Germany)
+?????? (Greece)
+France
+Magyarorsz?g
+(Hungary)
+???? (India)
+?ire (Ireland)
+????? (Israel)
+Italia (Italy)
+?? (Japan)
+?? (Korea)
+Lesotho
+Lëtzebuerg
+(Luxembourg)
+ÇáãÛÑÈ
+(Morocco)
+Namibia
+Nederland
+(Netherlands)
+?????? (Russia)
+Sénégal
+Espa?a (Spain)
+South Africa
+Swatini
+(Swaziland)
+Sverige
+(Sweden)
+United Kingdom
+Views:
+desktop
+mobile
+print
+STANDARDS
+PARTICIPATE
+MEMBERSHIP
+ABOUT W3C
+TECHNICAL REPORTS
+By date
+By group
+WEB AND INDUSTRY
+Automotive
+Publishing
+Entertainment (TV and Broadcasting)
+Web and Telecommunications
+Web of Data
+Web of Things
+Web Payments
+Web Security
+WEB FOR ALL
+Accessibility
+Internationalization
+W3C A to Z
+COMMUNITY AND BUSINESS GROUPS
+Current Groups
+Proposed Groups
+WORKING GROUPS
+Specifications by group
+Participant guidebook
+DEV RESOURCES
+More ways to participate
+MEMBER-ONLY HOME
+Join a Group
+Get Member Account
+Skip
+
+Sir Tim Berners-Lee named recipient of the ACM A.M. Turing Award
+4 April 2017 | Archive
+Today, Tuesday 4 April, the ACM, the Association for Computing Machinery, named Sir Tim Berners-Lee, inventor of the Web and Director of the World Wide Web Consortium, as the recipient of the 2016 ACM A.M. Turing Award.
+The Turing award is recognized as the highest distinction in Computer Science and is sometimes referred to as the “Nobel Prize of Computing.” Sir Tim is being given this award for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale. The Web is considered one of the most influential computing innovations in history.
+Sir Tim’s development and guardianship of the building blocks of the Web, the standards upon which it is built upon, continues at W3C. Jeff Jaffe, CEO of W3C, stated: “The Web has had an immense impact on the world; transforming every part of society: how we communicate, how we learn, how we acquire information, and how we engage in commerce. Tim’s soaring vision of what was possible in the world is anchored on breakthrough contributions to computing – which is what is recognized by the Turing Award.”
+For more information on the award, Sir Tim, and the W3C, see the W3C press release.
+Call for Review: XSL Transformations (XSLT) Version 3.0 Proposed Recommendation Published
+18 April 2017 | Archive
+QB4ST: RDF Data Cube extensions for spatio-temporal components Note Published
+18 April 2017 | Archive
+W3C Invites Implementations of Encoding
+14 April 2017 | Archive
+First Public Working Draft: CSS Fill and Stroke Module Level 3
+14 April 2017 | Archive
+W3C Invites Implementations of ActivityPub
+14 April 2017 | Archive
+W3C responds to UNESCO concerns about Encrypted Media Extensions
+6 April 2017 | Archive
+More news…
+TALKS AND APPEARANCES
+2017
+11 MAY
+WebVR Panel at VRX Europe conference
+by Dominique Hazael-Massieux
+Park Plaza Victoria London
+London, United Kingdom
+2017
+31 MAY
+Spatial Data on the Web
+by Phil Archer
+Geonovum, Amersfoort
+Amersfoort, Netherlands
+EVENTS
+2017
+19 APR
+21 APR
+CSS Working Group Meeting
+Tokyo, Japan
+BPS/Keio
+2017
+20 APR
+PubTechConnect: Where Publishing and Technology Intersect
+New York, USA
+Hosted by NYU SPS Center for Publishing and Publishers Weekly
+2017
+20 APR
+Web Awards for Horizontal and Vertical Writings
+Tokyo, Japan
+Tategaki Web Committee
+2017
+23 APR
+25 APR
+AC Beijing 2017
+Beijing, China
+2017
+27 APR
+29 APR
+TAG face-to-face
+Tokyo, Japan
+Google
+2017
+15 MAY
+19 MAY
+Web of Things Interest Group/Working Group Joint Meeting
+Osaka, Japan
+Panasonic
+2017
+18 MAY
+19 MAY
+Permissions & Obligations Expression WG
+London
+Thomson Reuters
+The World Wide Web Consortium (W3C) is an international community that develops open standards to ensure the long-term growth of the Web.
+W3C operates under our Code of Ethics and Professional Conduct.
+Become a Friend of W3C to support the W3C mission and free developer tools.
+W3C BLOG
+How W3C checks its specifications for accessibility support: APA review
+18 April 2017 by Michael Cooper
+WCAG Accessibility Conformance Testing (ACT)
+6 April 2017 by Shadi Abou-Zahra
+EC Web Accessibility Directive Expert Group (WADEX)
+13 March 2017 by Shadi Abou-Zahra
+JOBS
+Open positions for a Web Accessibility Engineer (China), Web Standard Expert (China)
+VALIDATORS, MORE SOFTWARE
+More validators: Unicorn, HTML, CSS
+W3C cheatsheet
+More Open Source Software
+WEB STANDARDS FOR THE FUTURE (VIDEO)
+Check out our short video on Web standards!
+W3C MEMBER TESTIMONIAL
+Institut National de Recherche en Informatique et en Automatique (INRIA)
+Inria is a founding member of W3C. Inria is the french national research institute dedicated to digital sciences, addressing scientific and technological challenges in IT and playing an active role in technology transfer. Inria was also the European host of W3C until 2002 and actively contributes to W3C groups and activities.
+NAVIGATION
+Home
+Standards
+Participate
+Membership
+About W3C
+CONTACT W3C
+Contact
+Help and FAQ
+Sponsor / Donate
+Site Map
+Feedback
+W3C UPDATES
+Copyright © 2017 W3C ® (MIT, ERCIM, Keio, Beihang) Usage policies apply.  text/html; charset=utf-8 width=device-width The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.

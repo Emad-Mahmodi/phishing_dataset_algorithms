@@ -1,0 +1,161 @@
+Search Engine Watch
+ClickZ ClickZ Intelligence ClickZ Learn ClickZ Live
+April 20, 2017
+Industry
+SEO
+PPC
+Analytics
+Social
+Local
+Mobile
+Video
+Content
+Development
+Reports
+A guide to setting up Google Analytics for your WordPress site
+If you are an enthusiast who is setting up a website or a new blog using WordPress as your CMS, it is highly recommended to set up Google Analytics. This guide will show you exactly how.
+Analytics Content 19 Apr 17 | Lucy Barret |
+The State of Schema.org: What are the biggest challenges surrounding Schema markup?
+A recent survey carried out by Schema App, a provider of tools to help with implementing Schema markup, has shed some light on the question of why adoption of Schema.org is so low among marketers despite its considerable benefits.
+SEO 18 Apr 17 | Rebecca Sentance
+How to use Search Console for quick SEO wins
+SEO doesn’t have to be complicated or technical. Laura Hogan, Head of Search at Rice Media, shared her tips at Brighton SEO on how to use Search Console to achieve quick SEO wins.
+Events SEO 17 Apr 17 | Tereza Litsa
+Test your knowledge! The Search Engine Watch Easter trivia quiz
+Industry |
+Interview: Why marketers shouldn’t waste their time with Google Posts
+Content Industry Social |
+4 things to note when optimizing for local SEO in 2017
+Local SEO |
+How can marketers optimize for Google’s new “similar items” feature?
+Industry News |
+Mobile-First Indexing: Everything we know, and how it could affect you
+Mobile SEO |
+Google launches Fact Check in search results worldwide
+Industry News |
+Five most interesting search marketing news stories of the week
+Industry News |
+Want to stay on top of the latest search trends?
+Get top insights and news from our search experts.
+Subscribe
+Reports
+Email and the Age of First-Person Marketing 17 Mar 17
+A Marketer’s Guide to Review Response 16 Mar 17
+Conquering the Web: Tips for your Small Business to Get Discovered & Chosen 23 Jan 17
+Older Posts
+“Ubiquitous and seamless”: The future of voice search
+These are interesting times for voice search, both in terms of its adoption among consumers and its technological development. We have moved ... read more
+Development Industry Mobile 06 Apr 17 | Clark Boyd
+How to capitalize on Facebook mobile traffic – even with a poor mobile experience
+We all know that Facebook is a viable source of huge amounts of mobile traffic with relatively cheap CPCs). It’s too good an opportunity to ignore in today’s digital landscape - even if your mobile landing-page experience isn’t up to snuff.
+Mobile Social 05 Apr 17 | Sana Ansari
+Site speed tactics in a mobile-first world: Why ecommerce brands need to step up their site speed game
+A study of 700 top ecommerce brands found that the majority are underperforming when it comes to optimizing their sites for speed. Find out how you can avoid the same mistakes.
+Development Mobile 04 Apr 17 | Pete Campbell
+5 easy ways to launch a local email marketing strategy
+If your company's email marketing campaign isn’t seeing success, you might want to rethink your strategy. Creating or updating your campaign to focus more on local marketing could be the answer you’ve been looking for.
+Industry Local 03 Apr 17 | Amanda DiSilvestro
+Google Chrome SSL certificate proposal could affect millions of websites
+Millions of websites that use SSL certificates issued by Symantec and affiliated resellers could find that their certificates are effectively worthless as far as Chrome is concerned, after a member of the Chrome team published a proposal that would make them untrusted over the next 12 months.
+Industry News 31 Mar 17 | Al Roberts
+Five most interesting search marketing news stories of the week
+This week, the Google SERP has got a bit more interactive with the addition of rich results for podcasts, Google has launched a new website for its open-source projects, and Google and Baidu have teamed up to bring faster mobile web pages to a wider user base.
+Industry News 31 Mar 17 | Rebecca Sentance
+Study: Why do marketers still struggle with innovative search tactics?
+A new study commissioned by Microsoft's Bing and search agency Catalyst may have some light to shed onto why many marketers aren’t realizing the full potential of search.
+Industry SEO 30 Mar 17 | Rebecca Sentance
+Google adds rich results for podcasts to SERPs
+On its Developers blog, Google stealthily launched some new guidelines for structured data to bring rich results for podcasts to search results. What does it look like, and how can you get your podcasts indexed?
+Industry SEO 30 Mar 17 | Clark Boyd
+More..
+Sign up for SEW Daily
+Daily news and insights about search engine marketing, SEO and paid search.
+Subscribe
+VISIT US ON:
+Bren Great article. To put it simply, it comes down to two things. 1. Expectations 2. Return on investment. One of the biggest mistakes is trying to rank for a keyword that's too competitive. (especially if you're fairly new to SEO). If you're expecting a top 3 position for a...
+How Much Should You Spend on SEO Services? · 17 hours ago
+green_manalishi It's not a ranking factor. That's pretty much the long and short of it. SEOs are the people who would be pushing for this and it doesn't benefit their results when it comes time for reporting.
+The State of Schema.org: What are the biggest challenges surrounding Schema markup? · 17 hours ago
+Sumit Kumar I think its not safe, why to take risk when we have alternate methods like White Hat SEO.
+The Private Blog Network Purge – Are You at Risk? · 22 hours ago
+Cherry Iley Great article, thank you.
+How to use Search Console for quick SEO wins · 23 hours ago
+Tiffany from PLRUpdates.com Thanks for this informative post.Can someone please share me a working tool that checks internal content for duplicates post/page of a website in bulk?
+Does your website suffer from one of these five content gaps? · 1 day ago
+Masscomedia Noida thank for posting useful seo information
+Five quick tips to boost your SEO in 2017 · 1 day ago
+Aaren Thanks for the tips! It sounds so easy and effortless. I'm using GetResponse for my email marketing and email now. I guess I'll need to integrate the social media marketing with my email strategy and see how it works.
+5 easy ways to launch a local email marketing strategy · 1 day ago
+Darren Revell F-Secure by Freedom reports their site as a harmful site. Not a great user experience to have to turn off security software to visit a vendors site.
+Interview: can you forecast SEO? Sastry Rachakonda says you can · 1 day ago
+jean wells Thank you for sharing this great blog. It’s really good and very usable.
+Matt Cutts on Blog Comments, Links & Spam: Use Your Name, Not Keywords · 1 day ago
+Sandeep Sitoke Internal linking is good way to take some authority through your own blog. You can use related keyword to Internal linking.Thanks for sharing this amazing tips.
+Guide to Google ranking factors – Part 8: internal links · 1 day ago
+Rochell Marco Great publish, very informative. I am glad that I have found something new here worth adding to my favorites. Can you suggest any other blogs/websites that cover the same subjects? Thank you!
+How to write meta title tags for SEO (with good and bad examples) · 2 days ago
+Shahzaib Sultan Thank You.
+How to write meta title tags for SEO (with good and bad examples) · 2 days ago
+Prague Taxi - Martin Stich It is difficult to change the habits, but I started to use the duck duck go recently and it works ok for me.
+Say goodbye to Google: 14 alternative search engines · 2 days ago
+Pedro Anselmo Nice insights
+How to use Search Console for quick SEO wins · 2 days ago
+Get it Fixed thanks for the info this is something to consider, i usually do the same, do some kind of testing and to be honest I'm very skeptical of cost per click campaigns after all who knows who is clicking in your ad, ever since i know about some really bad advertisement companies...
+Know Your Platforms: AdWords vs. AdWords Express · 2 days ago
+ÑÌíã great
+Say goodbye to Google: 14 alternative search engines · 2 days ago
+matt Obviously nobody read this article because you are a victim of answer box just like the rest of the planet. Google is evil pure and simple. Look at Alexa rankings for almost all sites since it's become widespread. Nobody is benefitting from answer box , traffic is down across...
+Google Answer Boxes: The What, Why and How · 3 days ago
+Ana from Audience Finders Blogs are important for SEO to get your content crawled. And
+Without structure, you might come crumbling down!
+Ecommerce blogging: five proven reasons why it should be part of your SEO strategy · 3 days ago
+Raymond This is what I am looking for. What you shared here are best practices we should take in mind before hitting the publish button. What you shared here are combinations of On Page and Off Page SEO Optimizations. I actually try and implement some of the tips you mentioned on this...
+Optimization at the intersection of search, content, social, mobile and local in 2017 · 4 days ago
+Raymond Great On Page SEO tips!These tips will help people who are looking what On Page SEO is and what they can do about their website or blog in order to rank.Off Page Optimization is another thing. Check seodataservice and see if they can help you.More power to your blog!
+How to create SEO-friendly content · 4 days ago
+Jordan Kasteler Thanks for the mention! :)
+4 things to note when optimizing for local SEO in 2017 · 5 days ago
+Darren Revell Very good info, shame Google has no desire for what the user wants. I make websites for recruiters and mostly job seekers hit the sites on mobile and they don't want the full site experience they want the fastest way to jobs, they could care less our your about us, our team,...
+Mobile-First Indexing: Everything we know, and how it could affect you · 5 days ago
+AXS2 Marketing Good Job, excellent article, i loved it the way that you explained,
+30 quick and easy SEO tips for small businesses · 5 days ago
+AXS2 Marketing Informative blog. thank you for sharing with us..
+8 SEO Tips That Take 15 Minutes or Less · 5 days ago
+Nadia Your posts are always fantastic. We learn more and more following you. Tank you
+Matt Cutts on Blog Comments, Links & Spam: Use Your Name, Not Keywords · 5 days ago
+MOST POPULAR
+Say goodbye to Google: 14 alternative search engines
+Going over to the duck side: a week using DuckDuckGo
+How to write meta title tags for SEO (with good and bad examples)
+How to use Search Console for quick SEO wins
+Want to stay on top of the latest search trends?
+Get top insights and news from our search experts.
+Subscribe
+Click here to advertise with us
+Powered By
+ClickZ Group Limited
+All rights reserved
+1 Hammersmith Broadway
+London, W6 9DL
+chris.williams@contentive.com
+sam.lawson@clickz.com
+CATEGORIES
+Industry
+SEO
+PPC
+Analytics
+Social
+Local
+Mobile
+Video
+Content
+Development
+Home
+About SEW
+Contact SEW
+Advertise on SEW
+Site Map
+Website Terms of Use
+Copyright & Licensing
+Privacy policy
+Cookie & Privacy Policy  text/html; charset=UTF-8 IE=edge Global Document True 320 width=device-width News articles, guides, reviews and commentary about Search, PPC, Social, Mobile, Analytics and more. search engine marketing, search engine optimization, ppc, paid search, web analytics, meta tags, top search engines, search engine submission, searchenginewatch Search Engine Marketing (SEM/SEO) & Paid Search (PPC) | Search Engine Watch website https://searchenginewatch.com/ https://searchenginewatch.com/wp-content/themes/search-engine-watch/img/search-engine-watch-logo.png?fbrefresh=1 Search Engine Watch The authoritative guide to search engine marketing (SEM), search engine optimization (SEO), paid search advertising (PPC) and social media marketing. News, how-to and marketing strategy guides to succeed on search engines. summary @sewatch  SearchEngineWatch.com 339395460816 799985116 380241636702 WordPress 4.7.3 0iXZmW1EQM1mgBkv25MOI1Is5jmKhY-Epkn1gE4nDc4 A1B7CB550A813BCA5125257784A6B5C3 c046e7b3790c #2b5797 https://searchenginewatch.com/wp-content/themes/search-engine-watch/img/icons/mstile-144x144.png

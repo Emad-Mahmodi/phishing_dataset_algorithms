@@ -1,0 +1,31 @@
+Gravatar - Globally Recognized AvatarsG
+What is Gravatar?
+How to Use Gravatar
+Help
+WordPress.com
+Sign In
+Gravatar.com
+A Globally Recognized Avatar
+Your Gravatar is an image that follows you from site to site appearing beside your name when you do things like comment or post on a blog. Avatars help identify your posts on blogs and web forums, so why not on any site?
+Matt
+embarcadero and townsend, sf ca
+In 2002 I started contributing to Open Source software, and life has just gotten better from there. Co-founder of WordPress, founder Automattic.
+View Complete Profile
+  Introducing Gravatar
+?
+FOR SITE OWNERS
+Setting up Gravatars on your site is easy; you don't even need an account! Plugins are available for leading blog software and content management systems, and our tutorials will have you running Gravatars in no time.
+Example Plugins and Code ?
+
+Millions of avatar images are being served over 8.6 billion times per day. Join some of the other sites that use Gravatar:
+Gravatar Users
+Blog
+Developer Resources
+Technical Support
+AN AUTOMATTIC TEAM
+Languages
+Privacy Policy
+WordPress.com
+VaultPress
+Akismet
+Polldaddy  text/html; charset=utf-8 en width=device-width, initial-scale=1, maximum-scale=1

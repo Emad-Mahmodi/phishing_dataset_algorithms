@@ -1,0 +1,8 @@
+smiles-resgate.comThis site can’t be reached
+The webpage at http://smiles-resgate.com/ might be temporarily down or it may have moved permanently to a new web address.
+ERR_NAME_RESOLUTION_FAILED   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+trilliumstafflng.comThis site can’t be reached
+The webpage at http://trilliumstafflng.com/file/plx might be temporarily down or it may have moved permanently to a new web address.
+ERR_NAME_RESOLUTION_FAILED   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

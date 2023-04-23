@@ -1,0 +1,881 @@
+Forex FactoryForex Factory
+Forums
+Trades
+News
+Calendar
+Market
+Brokers
+Login
+Username: Password:Remember
+12:48am
+Search
+Online Now
+7,323 Traders
+779 Members
+20 High Impact
+110 w/ Trade Explorers
+16 w/ Posted Systems
+Forex Broker Activity
+Real-Time Spreads
+Broker Guide Updates
+Liquidity is 42% ‹ Avg
+Scanner
+Settings
+Live
+(live data expired)
+As of Apr 10 5:00pm
+Block Name:
+Rows Displayed:
+1
+2
+3
+4
+5
+Metrics
+Columns Displayed:
+3
+4
+5
+6
+7
+8
+Instruments
+Show Pippettes:
+No
+Yes
+Default Settings
+This application requires websocket support. Please feature upgrade to a modern browser.
+EUR/USD
+GBP/USD
+USD/JPY
+USD/CHF
+USD/CAD
+AUD/USD
+NZD/USD
+GBP/JPY
+Bid
+Bid
+Ask
+Bid | Ask
+Broker Bid | Ask
+Midpoint
+Chart
+Pip Change
+Percent Change
+High | Low
+Pip Spread
+Average Spread
+Broker Pip Spread
+Last 5 Minutes
+Last 10 Minutes
+Last 15 Minutes
+Last 20 Minutes
+Last 25 Minutes
+Last 30 Minutes
+Last 60 Minutes
+Last 2 Hours
+Last 3 Hours
+Last 4 Hours
+Last 5 Hours
+Last 6 Hours
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Candle
+OHLC
+Line
+Line (dotted)
+Area
+Chart: Last 6 hr
+Bid
+Ask
+Bid | Ask
+Broker Bid | Ask
+Midpoint
+Chart
+Pip Change
+Percent Change
+High | Low
+Pip Spread
+Average Spread
+Broker Pip Spread
+Last 5 Minutes
+Last 10 Minutes
+Last 15 Minutes
+Last 20 Minutes
+Last 25 Minutes
+Last 30 Minutes
+Last 60 Minutes
+Last 2 Hours
+Last 3 Hours
+Last 4 Hours
+Last 5 Hours
+Last 6 Hours
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Candle
+OHLC
+Line
+Line (dotted)
+Area
+Pip Chg: 6 hr
+Bid
+Ask
+Bid | Ask
+Broker Bid | Ask
+Midpoint
+Chart
+Pip Change
+Percent Change
+High | Low
+Pip Spread
+Average Spread
+Broker Pip Spread
+Last 5 Minutes
+Last 10 Minutes
+Last 15 Minutes
+Last 20 Minutes
+Last 25 Minutes
+Last 30 Minutes
+Last 60 Minutes
+Last 2 Hours
+Last 3 Hours
+Last 4 Hours
+Last 5 Hours
+Last 6 Hours
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Candle
+OHLC
+Line
+Line (dotted)
+Area
+% Chg: 6 hr
+Bid
+Ask
+Bid | Ask
+Broker Bid | Ask
+Midpoint
+Chart
+Pip Change
+Percent Change
+High | Low
+Pip Spread
+Average Spread
+Broker Pip Spread
+Last 5 Minutes
+Last 10 Minutes
+Last 15 Minutes
+Last 20 Minutes
+Last 25 Minutes
+Last 30 Minutes
+Last 60 Minutes
+Last 2 Hours
+Last 3 Hours
+Last 4 Hours
+Last 5 Hours
+Last 6 Hours
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Candle
+OHLC
+Line
+Line (dotted)
+Area
+Bid | Ask:
+Bid
+Ask
+Bid | Ask
+Broker Bid | Ask
+Midpoint
+Chart
+Pip Change
+Percent Change
+High | Low
+Pip Spread
+Average Spread
+Broker Pip Spread
+Last 5 Minutes
+Last 10 Minutes
+Last 15 Minutes
+Last 20 Minutes
+Last 25 Minutes
+Last 30 Minutes
+Last 60 Minutes
+Last 2 Hours
+Last 3 Hours
+Last 4 Hours
+Last 5 Hours
+Last 6 Hours
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Candle
+OHLC
+Line
+Line (dotted)
+Area
+<
+Today: Apr 9
+<
+Filter
+Today
+Default View:
+Yesterday
+Today
+Tomorrow
+This Week
+Up Next
+Begin Date
+End Date (none)
+This Week
+Next Week
+Last Week
+This Month
+Next Month
+Last Month
+Expected Impact (all, none)
+Currencies (all, none)
+AUD
+CAD
+CHF
+CNY
+EUR
+GBP
+JPY
+NZD
+USD
+Event Types (all, none)
+Growth
+Inflation
+Employment
+Central Bank
+Bonds
+Housing
+Consumer Surveys
+Business Surveys
+Speeches
+Misc
+Date 12:48am Currency Impact   Detail Actual Forecast Previous Graph
+ThuApr 9  1:00am JPY BOJ Monthly Report
+2:00am EUR German Industrial Production m/m 0.1% 0.6%
+EUR German Trade Balance 20.3B 19.7B
+JPY Prelim Machine Tool Orders y/y 28.9%
+3:00am GBP Halifax HPI m/m 0.1% -0.3%
+4:30am GBP Trade Balance -8.9B -8.4B
+Tentative EUR Spanish 10-y Bond Auction 1.02|1.7
+7:00am GBP Official Bank Rate 0.50% 0.50%
+GBP Asset Purchase Facility 375B 375B
+Tentative GBP MPC Rate Statement
+8:30am CAD Building Permits m/m 3.4% -12.9%
+CAD NHPI m/m 0.1% -0.1%
+USD Unemployment Claims 283K 268K
+10:00am USD Wholesale Inventories m/m 0.2% 0.3%
+10:30am USD Natural Gas Storage 10B -18B
+1:01pm USD 30-y Bond Auction 2.68|2.2
+7:50pm JPY Bank Lending y/y 2.5%
+9:30pm AUD Home Loans m/m 3.1% -3.5%
+CNY CPI y/y 1.3% 1.4%
+CNY PPI y/y -4.7% -4.8%
+More
+All Forums / Last Replied
+Show Forum
+All Forums
+Interactive Trading
+Trading Systems
+Trading Discussion
+Platform Tech
+Broker Discussion
+Trading Journals
+Rookie Talk
+Commodities and Stocks
+Grayed forums are not included when sorted by
+'Last Replied.'
+Display Format
+Threads
+Replies
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Replied
+Most Replied
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show replies from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show posts from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Dragon Riders GBP/JPY Started by
+FX-Ray
+| 10,049 replies | Last reply 4 min ago
+EURUSD Started by
+snprr
+| 979,124 replies | Last reply 5 min ago
+Basket Trading EA Started by
+seller9
+| 8,787 replies | Last reply 10 min ago
+Ratios & Harmonics: a Different Way to Trade Started by
+Mr. Pip
+| 13,528 replies | Last reply 12 min ago
+Cable Update (GBPUSD) Started by
+Qu|cksilver
+| 413,094 replies | Last reply 13 min ago
+More
+All Forums / Hottest
+Show Forum
+All Forums
+Interactive Trading
+Trading Systems
+Trading Discussion
+Platform Tech
+Broker Discussion
+Trading Journals
+Rookie Talk
+Commodities and Stocks
+Grayed forums are not included when sorted by
+'Last Replied.'
+Display Format
+Threads
+Replies
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Replied
+Most Replied
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show replies from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show posts from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Dashboard Trading Started by
+Gvc
+| 709 replies | Last reply 6 hr ago
+Lets Automate a Simple Renko Strategy! Started by
+shreyash
+| 900 replies | Last reply 1 hr 47 min ago
+Weighted Coin Toss Trading Started by
+Magix
+| 87 replies | Last reply 21 min ago
+5 minute binary option trading with good win ratio Started by
+us fantasy
+| 142 replies | Last reply 2 hr 52 min ago
+Come Surfing Fx With Me System Started by
+sriloba
+| 1,089 replies | Last reply 1 hr 26 min ago
+More
+All Forums / Most Replied 12H
+Show Forum
+All Forums
+Interactive Trading
+Trading Systems
+Trading Discussion
+Platform Tech
+Broker Discussion
+Trading Journals
+Rookie Talk
+Commodities and Stocks
+Grayed forums are not included when sorted by
+'Last Replied.'
+Display Format
+Threads
+Replies
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Replied
+Most Replied
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show replies from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show posts from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+EURUSD Started by
+snprr
+| 979,124 replies | Last reply 5 min ago
+Alien's Extraterrestrial Visual Systems Started by
+forexalien
+| 11,198 replies | Last reply 1 hr 39 min ago
+Gordon Gekko's real-time Forex trading calls Started by
+EarnPipsNow
+| 534 replies | Last reply 2 hr 58 min ago
+Dragon Riders GBP/JPY Started by
+FX-Ray
+| 10,049 replies | Last reply 4 min ago
+Let's Trade Options! Started by
+The Fool
+| 8,107 replies | Last reply 2 hr 23 min ago
+More
+Trade Feed / Live Accounts
+Filter
+Stream
+(live data expired)
+Trade Type
+All Trades
+Entries
+Exits
+Winning Exits
+Losing Exits
+Brokerage Account Type
+Live Accounts
+Demo Accounts
+Trade feed excludes Explorers that are set to private or traded by a commercial member.
+Impact Hurdle
+Off
+Only show trades from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show trades from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Currency Pairs (all, none, majors)
+AUD/CAD
+AUD/CHF
+AUD/DKK
+AUD/GBP
+AUD/JPY
+AUD/NZD
+AUD/SGD
+AUD/USD
+  CAD/CHF
+CAD/CZK
+CAD/HKD
+CAD/JPY
+CAD/SGD
+  CHF/AUD
+CHF/JPY
+CHF/SEK
+CHF/ZAR
+EUR/AUD
+EUR/CAD
+EUR/CCK
+EUR/CHF
+EUR/DKK
+EUR/GBP
+EUR/HKD
+EUR/HUF
+EUR/JPY
+EUR/MXN
+EUR/NOK
+EUR/NZD
+EUR/PLN
+EUR/SEK
+EUR/SGD
+EUR/TRY
+EUR/USD
+EUR/ZAR
+GBP/AUD
+GBP/CAD
+GBP/CHF
+GBP/DKK
+GBP/HUF
+GBP/JPY
+GBP/NOK
+GBP/NZD
+GBP/PLN
+GBP/SGD
+GBP/USD
+GBP/ZAR
+  HKD/JPY
+  NOK/SEK
+  NZD/CAD
+NZD/CHF
+NZD/HUF
+NZD/JPY
+NZD/MXN
+NZD/PLN
+NZD/SGD
+NZD/USD
+NZD/ZAR
+USD/CAD
+USD/CHF
+USD/CNH
+USD/CNY
+USD/DKK
+USD/HKD
+USD/HUF
+USD/INR
+USD/JPY
+USD/MXN
+USD/NOK
+USD/PLN
+USD/RUB
+USD/SEK
+USD/SGD
+USD/TRY
+USD/ZAR
+SGD/JPY
+  TRY/JPY
+ZAR/JPY
+  Non-Forex
+Trade Trader Return Pips
+EUR/USD SELL 1.0774
+Closed Long | 2 min ago
+momobobo88 -3.8% -2
+NZD/USD SELL 0.7558
+Closed Long | 3 min ago
+jemboeth 0.3% 3
+EUR/JPY SELL 129.54
+Opened Short | 5 min ago
+wmhafiz 0.0%MTM -2MTM
+AUD/NZD SELL 1.0179
+Opened Short | 5 min ago
+asimsattar -0.3%MTM -5MTM
+USD/JPY SELL 120.22
+Opened Short | 5 min ago
+likemot -0.1%MTM -3MTM
+More
+All News / Latest
+Show Category
+All News
+Breaking News
+Fundamental Analysis
+Technical Analysis
+Entertainment News
+Forex Industry News
+Educational News
+Display Format
+Stories
+Large Stories
+Comments
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Commented
+Most Commented
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show comments from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show comments from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Demographic structure and the macroeconomy From voxeu.org | 15 min ago
+Great Graphic: The Dollar and Stocks From marctomarket.com | 52 min ago
+Auction Result of 30-Year JGBs on April 9, 2015 From go.jp | 1 hr 3 min ago
+The Oil Industry's $26 Billion Life Raft From bloomberg.com | 1 hr 27 min ago
+EUR/USD: Risk/Reward & How Low Can It Go? - UBS From efxnews.com | 2 hr 1 min ago | 2 comments
+How to stop worrying about negative yields and learn to love them From marketwatch.com | 2 hr 39 min ago
+Bernanke Has Courage To Call Upcoming Memoir The "Courage To... From zerohedge.com | 3 hr ago
+More
+All News / Hottest
+Show Category
+All News
+Breaking News
+Fundamental Analysis
+Technical Analysis
+Entertainment News
+Forex Industry News
+Educational News
+Display Format
+Stories
+Large Stories
+Comments
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Commented
+Most Commented
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show comments from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show comments from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Minutes of the Federal Open Market Committee From federalreserve.gov | 10 hr ago | 60 comments
+In a joint session of the Federal Open Market Committee (FOMC) and the Board of Governors of the Federal Reserve System, the manager of the System Open Market ...
+Fed Officials Were Divided Over June Liftoff, FOMC Minutes Show From bloomberg.com | 10 hr ago
+Federal Reserve policy makers last month were split over whether they would raise interest rates in June, a debate that occurred before recent disappointing payroll ...
+EUR/USD: Trading the US Unemployment Claims From forexcrunch.com | 9 hr ago
+US Unemployment Claims is released weekly, and measures the number of people filing for unemployment for the first time. It is considered an important measure of ...
+More
+All News / Most Commented 24H
+Show Category
+All News
+Breaking News
+Fundamental Analysis
+Technical Analysis
+Entertainment News
+Forex Industry News
+Educational News
+Display Format
+Stories
+Large Stories
+Comments
+Text preview
+Display Items
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sort By
+Latest
+Hottest
+Last Commented
+Most Commented
+Most Viewed
+Sort Period
+Last 12 Hours
+Last 24 Hours
+Last 48 Hours
+Last 7 Days
+Last 30 Days
+Impact Hurdle
+Off
+Only show comments from members ranked at least:
+Low Impact
+Medium Impact
+High Impact
+Subscriptions
+Off
+Only show comments from members you are subscribed to
+You must be a member to have member subscriptions (join now).
+Minutes of the Federal Open Market Committee From federalreserve.gov | 10 hr ago | 60 comments
+Dudley says Fed not taking 'huge' signal from March jobs report From forexlive.com | 14 hr ago | 37 comments
+EIA crude oil inventories 10.95m vs 3.28m expected From forexlive.com | 14 hr ago | 20 comments
+More
+Positions / Live Accounts
+Dual Traders Lots
+Instrument Long Traders Long Lots Long Traders/Lots Short Traders Short Lots Short Traders/Lots Detail
+EUR/USD
+38% 238 Traders
+385 Traders 62%
+29% 116.9 Lots
+283.6 Lots 71%
+Open
+GBP/USD
+46% 109 Traders
+128 Traders 54%
+34% 35.3 Lots
+67.9 Lots 66%
+Open
+USD/JPY
+56% 136 Traders
+106 Traders 44%
+29% 25.3 Lots
+62.2 Lots 71%
+Open
+More
+Sessions
+Live
+Liquidity: 42% ‹ Avg
+(live data expired)
+chart goes here
+6pm 8pm 10pm 12am 2am 4am 6am 8am 10am 12pm 2pm 4pm
+Sydney  2:48pm local
+Tokyo  1:48pm local
+London  5:48am local
+New York  12:48am local
+Top of Page Default Page
+©2015 Forex Factory, Inc. / Terms of Service
+Forex Factory® is a registered trademark.
+Connect
+Facebook
+Twitter
+RSS
+Company
+About FF
+FF Blog
+Careers at FF
+Media Kit
+Contact FF
+Products
+Forums
+Trades
+Calendar
+News
+Market
+Brokers
+Trade Explorer
+Website
+Homepage
+Search
+Members
+User Guide
+Report a Bug   width=device-width forex news, forex forum, forex calendar, economic calendar Forex Factory provides information to professional forex traders; lightning-fast forex news; bottomless forex forum; famously-reliable forex calendar; aggregate forex market data. http://assets.forexfactory.net/images/misc/ff_fb_logo.gif?v=0.1

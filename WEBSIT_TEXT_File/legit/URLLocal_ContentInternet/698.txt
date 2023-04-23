@@ -1,0 +1,262 @@
+Ask UbuntuUbuntu
+Community
+Ask!
+Developer
+Design
+Hardware
+Insights
+Juju
+Shop
+More ›
+sign up log in tour help
+
+Ask Ubuntu
+Questions
+Tags
+Users
+Badges
+Unanswered
+Ask Question
+_
+Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute:
+
+Sign up
+Here's how it works:
+Anybody can ask a question
+Anybody can answer
+The best answers are voted up and rise to the top
+Explore Our Questions
+active
+21 featured
+hot
+week
+month
+14.0412.04bootcommand-linenetworking16.04dual-bootdriversunityserver more tags
+0
+votes
+1
+answer
+28
+views
+White noise in headphones after returning from suspend when laptop is plugged in 220v
+16.04 sound suspend power-management headphones
+answered 1 min ago NUTsTUN 11
+0
+votes
+3
+answers
+4k
+views
+Brightness options in Ubuntu 12.04 desktop missing
+12.04 brightness
+modified 1 min ago Community? 1
+0
+votes
+2
+answers
+1k
+views
+How to add MP3 encoder in sound Converter ubuntu 15.10, 14.10 or 14.04
+sound mp3 mp4 mp3-player soundconverter
+answered 6 mins ago Invention1 38
+0
+votes
+1
+answer
+16
+views
+Python Dependency Issue
+python dpkg dependencies
+answered 6 mins ago Z Tab 1
+0
+votes
+1
+answer
+42
+views
+How do I autostart and use openvpn cli on Ubuntu 16.04 after suspend / resume?
+suspend openvpn
+modified 18 mins ago Nicholas Stommel 56
+11
+votes
+3
+answers
+22k
+views
+Why is Eclipse Luna dark theme ugly?
+12.04 eclipse-cdt
+answered 23 mins ago Marcelo Ruiz 196
+0
+votes
+1
+answer
+8
+views
+Modify keyboard layout/settings to accommodate jelly comb ultra slim
+keyboard keyboard-layout
+answered 29 mins ago chbchb55 101
+0
+votes
+0
+answers
+5
+views
+Install Ubuntu 17.04 on separate drive
+dual-boot bootloader
+asked 30 mins ago SDR019 1
+17
+votes
+5
+answers
+29k
+views
+Search for duplicate file names within folder hierarchy?
+command-line bash search
+modified 56 mins ago wjandrea 2,937
+0
+votes
+0
+answers
+5
+views
+Encrypted Ubuntu
+encryption reinstall
+asked 59 mins ago Terhi V?lke 1
+0
+votes
+1
+answer
+38
+views
+Could I have black bars (a.k.a. overscan) on my monitor please?
+graphics display display-resolution monitor
+modified 1 hour ago b_laoshi 720
+0
+votes
+0
+answers
+14
+views
++50
+Remove Decoration of single window in Gnome 3
+gnome window-manager mutter
+modified 1 hour ago user41209 26
+0
+votes
+1
+answer
+7
+views
+How to do command line search for duplicate downloads within downloads folder?
+command-line downloads search duplicate
+answered 1 hour ago wjandrea 2,937
+4
+votes
+1
+answer
+18k
+views
+Intel HD graphics driver for 15.04
+15.04 intel-graphics intel
+modified 1 hour ago Community? 1
+Browse More Questions
+Computer Science Educators Q&A
+75% committed
+Hot Network Questions
+How can the rest-frame spectrum of redshifted light be determined?
+What could be a valid reason for an entire section of a continent to remain unexplored and undiscovered, by the rest of the world in medieval times?
+Server wiped after "yum remove python"
+ParallelMap vs Map performance comparsion
+Why are radio buttons circles?
+Can a bard use a greatsword?
+What does Photoshop's "High Pass" filter actually do under the hood?
+Nested piped grep results in a string saying "(standard input)"
+What is the difference between a generalization and an extension?
+Distinction between pixel-based and object based classification?
+Can I still contribute to a traditional IRA if it is not deductible? Should I?
+How do I install a Windows program (written in C) downloaded from GitHub?
+What could cause the Earth to be so endangered that mankind needs to relocate to another system?
+Using a home oven for solder paste
+What exactly is calculus?
+Player may be manipulating die rolls, but I'm uncertain. How do I approach the situation?
+Side effects of using large resistances
+A player always wants to recruit NPCs into the party. How do I handle this?
+What's the worst thing anyone could do in a fast-food restaurant?
+I saw a colleague - my ex tutor - spying on my conversation with CEO about salary
+How do you push a cable through a standard conduit inside the wall?
+What is python .. ("dot dot") notation syntax?
+Threatening swerving by driver - should I report it? (Canada)
+Train from Brussels to Dusseldorf
+recent questions feed
+about us tour help blog chat data legal privacy policy work here advertising info mobile contact us feedback
+TECHNOLOGY LIFE / ARTS CULTURE / RECREATION SCIENCE OTHER
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+Cryptography
+Code Review
+Magento
+Signal Processing
+Raspberry Pi
+Programming Puzzles & Code Golf
+more (7)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (8)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Motor Vehicle Maintenance & Repair
+more (17)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (3)
+Meta Stack Exchange
+Stack Apps
+Area 51
+Stack Overflow Talent
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2017.4.20.25723
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.  summary @AskUbuntu askubuntu.com website Q&A for Ubuntu users and developers https://cdn.sstatic.net/Sites/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955 Ask Ubuntu Q&A for Ubuntu users and developers https://askubuntu.com/

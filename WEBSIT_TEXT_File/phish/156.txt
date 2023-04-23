@@ -1,0 +1,20 @@
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.6wr4lugr7npjcmhr0suboaxgfbww4vczhjsi4z1cfzfhhmhp8je8ldyxzrir.lidlmeritisaosugi.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.6wr4lugr7npjcmhr0suboaxgfbww4vczhjsi4z1cfzfhhmhp8je8ldyxzrir.lidlmeritisaosugi.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+santander.santanders.com.brThis site can’t be reached
+santander.santanders.com.br’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

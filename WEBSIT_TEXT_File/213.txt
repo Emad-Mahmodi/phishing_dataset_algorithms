@@ -1,0 +1,20 @@
+santander.santanderm.com.brThis site can’t be reached
+santander.santanderm.com.br’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.8xnk9w4woym5zh1vwg3jxpjypfaxwc4tqhuouokicxd3unrbfrzuanafeysh.zonacentrala.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.8xnk9w4woym5zh1vwg3jxpjypfaxwc4tqhuouokicxd3unrbfrzuanafeysh.zonacentrala.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

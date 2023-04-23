@@ -1,0 +1,8 @@
+            404  text/html; charset=windows-1251
+Sign in to verify your Microsoft accountSign in to verify your
+account
+Use your Microsoft account.
+What's this?
+Keep me signed in
+Forgot my password
+Sign in with a single-use code  text/html; charset=UTF-8 IE=Edge

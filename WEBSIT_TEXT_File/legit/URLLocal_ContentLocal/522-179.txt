@@ -1,0 +1,91 @@
+W3Schools Online Web TutorialsSearch w3schools.com:
+HTML/CSS
+Learn HTML
+Learn HTML5
+Learn CSS
+Learn CSS3
+Learn Bootstrap
+JavaScript
+Learn JavaScript
+Learn jQuery
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn AJAX
+Learn JSON
+HTML Graphics
+Learn Canvas
+Learn SVG
+Learn Google Maps
+Server Side
+Learn SQL
+Learn PHP
+Learn ASP
+Learn ASP.NET
+Learn VBScript
+XML Tutorials
+Learn XML
+Learn DTD
+Learn Schema
+Learn XML DOM
+Learn XPath
+Learn XSLT
+Learn XQuery
+Learn RSS
+Learn WSDL
+WEB Building
+Web Building
+Web Statistics
+Web Certificates
+HTML
+HTML Tutorial
+HTML Tag Reference
+CSS
+CSS Tutorial
+CSS Reference
+JavaScript
+JavaScript Tutorial
+JavaScript Reference
+SQL
+SQL Tutorial
+SQL Reference
+PHP
+PHP Tutorial
+PHP Reference
+JQuery
+JQuery Tutorial
+JQuery Reference
+Learn Web Building
+Learn how to create a website on your own computer
+Learn the basics of web building in less than a day
+Learn how to add a database to your website
+Web Building Tutorial
+References
+HTML/HTML5 Tags
+HTML Colors
+HTML Characters
+HTML Symbols
+
+CSS 1,2,3
+CSS3 Support
+
+JavaScript
+HTML DOM
+jQuery
+jQuery Mobile
+Google Maps
+
+PHP
+SQL
+ASP.NET
+
+XML DOM
+XSLT
+XPath
+SVG
+Web Certificates
+1000+ Examples
+Color Picker
+FORUM | ABOUT
+W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.
+Copyright 1999-2015 by Refsnes Data. All Rights Reserved.   HTML,CSS,DOM,JavaScript,jQuery,XML,AJAX,ASP.NET,W3C,tutorials,programming,learning,guide,primer,lessons,school,howto,reference,examples,source code,demos,color tables,Cascading Style Sheets,Active Server Pages,Programming,Development.Webbuilder,Sitebuilder,Webmaster HTML CSS JavaScript jQuery AJAX XML ASP.NET SQL Tutorials References Examples width=device-width

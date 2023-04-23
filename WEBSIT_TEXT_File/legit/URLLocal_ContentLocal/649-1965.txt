@@ -1,0 +1,116 @@
+ASP.NET | The ASP.NET SiteThe ASP.NET Site
+Language
+Sign In|Join
+Home
+Get Started
+Learn
+WEB APPLICATIONS
+Web Forms
+MVC
+Web Pages/Razor
+Mobile
+Single Page Apps
+WEB SERVICES / API's
+Web API
+REAL TIME
+SignalR
+DATA ACCESS
+Entity Framework
+ONE ASP.NET
+Latest Release (2013.4)
+Common ASP.NET Features
+Security / Identity
+Tooling/IDE
+Deployment
+Future Release
+Hosting
+Downloads
+Community
+Overview
+Community Spotlight
+Articles of the Day
+What's new
+Community Blogs
+ASP.NET Team
+Events
+Hall Of Fame
+MSDN Samples
+Forums
+Community Websites
+Community Support
+Forums
+Help
+Follow us on
+Learning ASP.NET
+ASP.NET is a free web framework for building web sites,
+apps and services with HTML, CSS and JavaScript.
+Learn more
+Web Sites
+ASP.NET is great for building standards-based websites with HTML5, CSS3, and JavaScript.
+Learn more
+ASP.NET powered Web APIs
+You can write ASP.NET Web APIs and Services that produce JSON or XML to talk to connected devices!
+Learn more
+Real-time ASP.NET
+With ASP.NET SignalR you can enable real-time bi-directional communication between client and server with web sockets.
+Learn more
+Mobile Apps & Sites with ASP.NET
+ASP.NET can power your mobile apps with responsive design or mobile frameworks like jQuery Mobile and more.
+Learn more
+Meet ASP.NET
+Web Sites
+APIs
+Real-time
+Mobile
+Get Started
+Learn
+Forums
+Announcements
+Watch Free dotnetConf March 18-19
+Visual Studio 2015 CTP 6
+Open Source
+ASP.NET vNext
+Take the Web Developers and Tooling Survey
+Community spotlight RSS Feed View all
+Microsoft AppFabric 1.1 for Windows Server Ends Support 4/2/2016
+Wednesday, April 1, 2015
+Important post from Erica Mohler detailing the end of support for AppFabric and recommending migration options.
+Using Gulp for ASP.NET 5 & Visual Studio 2015
+Tuesday, March 31, 2015
+Shayne Boyer demonstrates how to use Gulp in the current preview of ASP.NET 5 with sample gulpfile.
+ASP.NET 5 Middleware, Or Where Has My HttpModule Gone?
+Monday, March 30, 2015
+Mike Brind explains how ASP.NET 5 middleware relates to HttpModules in previous versions of ASP.NET.
+LocalDB for Database Integration Testing in ASP.NET 5 project and XUnit.net
+Friday, March 27, 2015
+Radenko Zec shows how to set up database integration tests using XUnit and LocalDB in an ASP.NET 5 project.
+Diagnosing dependency issues with ASP.NET 5
+Thursday, March 26, 2015
+Great post from David Fowler explaining everything you need to know to fix problems with dependencies in ASP.NET 5 projects.
+Introducing the Azure API Apps Tools for Visual Studio 2013
+Wednesday, March 25, 2015
+Nice overview from Brady Gaster of the Azure API Apps Tools for Visual Studio 2013.
+Announcing the new Azure App Service
+Tuesday, March 24, 2015
+Scott Guthrie announces the release of Azure App Service with a concise overview of Web Apps, Mobile Apps, Logic Apps and API Apps.
+What's new RSS Feed View all
+Unstructured Blob Storage (Building Real-World Cloud Apps with Azure)
+Monday, March 30, 2015
+The Building Real World Cloud Apps with Azure e-book is based on a presentation developed by Scott Guthrie. It explains 13 patterns and practices that can help you be successful developing web apps...
+SignalR Connection Density Testing with Crank
+Sunday, February 22, 2015
+This article describes how to use the Crank tool to test an application with multiple simulated clients.
+Using SignalR Performance Counters in an Azure Web Role
+Monday, January 12, 2015
+This article describes how to install and use SignalR performance counters in an Azure Web Role.
+This site is managed for Microsoft by Neudesic, LLC. | © 2015 Microsoft. All rights reserved.
+Privacy Statement|
+Terms of Use|
+Contact Us|
+Advertise With Us|
+CMS by Umbraco|
+Hosted on Microsoft Azure
+Microsoft
+Feedback on ASP.NET|
+File Bugs|
+Support Lifecycle   IE=edge,chrome=1 width=device-width, initial-scale=1 Microsoft ASP.NET Site Microsoft ASP.NET Home of the Microsoft ASP.NET development community. Download Visual Studio, post to the forums, read ASP.NET blogs and learn about ASP.NET. summary @aspnet asp.net //i2.asp.net/images/ui/asplogo-square.png?cdn_id=2015-04-01-001 The Official Microsoft ASP.NET Site ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript. website The Official Microsoft ASP.NET Site ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript. //i2.asp.net/images/ui/asplogo-square.png?cdn_id=2015-04-01-001 http://www.asp.net/ The Official Microsoft ASP.NET Site scott.hanselman jon.galloway robmcm

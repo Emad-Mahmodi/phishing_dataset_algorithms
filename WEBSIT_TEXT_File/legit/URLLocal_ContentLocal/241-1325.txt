@@ -1,0 +1,45 @@
+CodePen - Front End Developer Playground & Code Editor in the BrowserCodePen
+New Pen
+Search
+Log In Sign Up
+Search
+Picks Popular Recent Jobs
+CodePen is for Web Designers and Front End Developers.
+It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people's creations. A place to troubleshoot, to teach, to learn, to test, and to grow.
+CodePen PRO Unlocks the full power of CodePen with features like Asset Hosting and Collab Mode.
+Learn More • Play Video
+Store Podcast
+Posts Collections Tags
+View More Popular Collections ?
+Creating a Real Estate Polygon Tool
+Recently I did some work for a company which needed some polygons drawn on Google Maps that would drill down over a series of pages starting large and narrowing in size as...
+Jeremy Hawes
+0 495 9
+"Async" CSS without JavaScript
+Keith Clark posted recently about loading CSS as early as possible, without the browser refusing to render anything until the downloaded it. Like <script async>, but...
+Taylor Hunt
+4 415 3
+docker deployment without downtime
+Problem
+You have a container serving traffic on port 80 via an exposed port. You build a new image and want to launch it as a new container. But, you don't want any downtime...
+Tim Sabat
+0 256 5
+View More Recently Picked Posts ?
+CodePen
+Front End Designer Playground
+CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
+CodePen
+About CodePen
+Email Support
+Documentation / API
+Twitter / Flickr
+Design Patterns
+Community
+CodePen Meetups
+CodePen Blog
+CodePen Radio - iTunes
+Picked Pens - RSS
+Picked Blog Posts - RSS
+Code of Conduct
+©2015 CodePen Demo or it didn't happen.
+About Store Support Docs Blog Stats PRO   width=device-width authenticity_token 62H/X/Zc0J3e2P4/FqPdrEy2CGRiYfMznKyqOE/3Thg= #603cba /favicons/mstile-144x144.png /favicons/browserconfig.xml http://assets.codepen.io/assets/social/facebook-default.png CodePen A front end web development playground.

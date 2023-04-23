@@ -1,0 +1,10 @@
+www.mysigndesigner.co.ukThis site can’t be reached
+www.mysigndesigner.co.uk took too long to respond.
+Try:
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_TIMED_OUT
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

@@ -1,0 +1,20 @@
+0 - E:\Wamp\wamp64\www\Phish\dlweb_phish\10156\URL\URL.txt,http://cash4cartitle.com/presidentatedviews/art/index.php,1
+2 - 2 - facebook.com,facebook.com,0
+7 - 7 - amazon.com,amazon.com,0
+8 - 8 - tmall.com,tmall.com,0
+1 - 1 - youtube.com,youtube.com,0
+2 - 2 - facebook.com,facebook.com,0
+1 - 1 - youtube.com,youtube.com,0
+1 - 1 - youtube.com,youtube.com,0
+2 - 2 - facebook.com,facebook.com,0
+7 - 7 - amazon.com,amazon.com,0
+1 - 1 - youtube.com,youtube.com,0
+2 - 2 - facebook.com,facebook.com,0
+4 - 4 - yahoo.com,yahoo.com,0
+7 - 7 - amazon.com,amazon.com,0
+12 - 12 - taobao.com,taobao.com,0
+14 - 14 - vk.com,vk.com,0
+15 - 15 - twitter.com,twitter.com,0
+18 - 18 - 360.cn,360.cn,0
+20 - 20 - sina.com.cn,sina.com.cn,0
+2 - 2 - facebook.com,facebook.com,0

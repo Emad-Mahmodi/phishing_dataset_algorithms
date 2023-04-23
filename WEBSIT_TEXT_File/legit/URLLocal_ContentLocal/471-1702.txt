@@ -1,0 +1,175 @@
+Drupal - Open Source CMS | Drupal.orgSkip to main content
+Skip to search
+Drupal
+Come for the software, stay for the community
+Drupal is an open source content management platform powering millions of websites and applications. It’s built, used, and supported by an active and diverse community of people around the world.
+Search form
+Search Drupal.org
+Refine your search
+All Modules Themes Documentation Forums & Issues Groups
+Drupal Homepage
+Log in / Register
+Why Choose Drupal?
+Use Drupal to build everything from personal blogs to enterprise applications. Thousands of add-on modules and designs let you build any site you can imagine. Join us!
+Get Started with Drupal
+Drupal Distributions
+Distributions are a collection of pre-configured themes and modules for feature-rich web sites giving you a head start on building your site. Build your own online communities, media portal, online store, and more!
+Learn about Distributions
+Sites Made with Drupal
+KSS Architects
+Drupal is used by some of the biggest sites on the Web, like The Economist, Examiner.com and The White House. Read more Drupal case studies.
+Develop with Drupal
+Drupal 8 is in beta. Get regular updates about the process or volunteer as a developer, designer or tester.
+30,217 Modules
+2,126 Themes
+923 Distributions
+37,869 Developers
+This week
+2,515 Code commits
+4,251 Issue comments
+Drupal Core
+Security Info
+Developer Docs
+API Docs
+1,169,159 people in 229 countries* speaking 180 languages power Drupal.
+4.598595 -74.076658
+DrupalCon Latin America
+10-12 February 2015
+37.7627224 -89.3439873
+mikeryan updated Migrate module FAQ
+38.8951 -77.0364
+drupalfriend123 posted How to cross out a field in view
+47.5836714 -122.1321743
+mikeytown2 committed Issue #2112067...
+48.9106466 2.2777588
+lolandese updated Date Field Types
+43.604652 1.444209
+canardesign posted Commerce : change status value from orders...
+19.0759837 72.8776559
+Sharique committed Adding shop name filter, correcting typo,...
+51.0704569 13.7658569
+fuerst updated Configuring
+52.3852756688626 4.93047094196683
+meez posted Multilingual site and Google Analytics best...
+45.3107015351453 -75.8833406137792
+minorOffense committed Merge branch &#039;...
+-33.8566299 151.207039
+RdeBoer updated Installation
+38 -122.3
+J. Cohen posted Finding Drupal Work
+45.3107015351453 -75.8833406137792
+minorOffense committed fix(logging): Ensure log update data errors
+39.7 -75.7
+rj updated Syslog: using the operating system's...
+-23.506229 -47.45591
+alan posted Publish control
+43.3315107 -72.7251383
+Jon Pugh committed wrong default port for jetty
+43.0759525 -89.3763983
+xjm updated Allowed changes during the Drupal 8 beta...
+51.2153701 2.9045962
+smissiaen posted Update.php stuck on finished loading system
+47.5836714 -122.1321743
+mikeytown2 committed Issue #2467675...
+55.7088682 12.5222637
+andershal updated Peytz & Co
+41.3717904 2.1155786
+i2c2 posted drush and array declaration
+53.9472848 27.718259500000002
+Spleshka committed Issue #2465465...
+52.2105987 5.2802726
+nielsdefeyter updated Related contributed modules
+38.8951 -77.0364
+drupalfriend123 posted How to modify rewrite results in views?
+59.995517899999996 30.3883977
+Konstantin Komelin committed Issue #2465849...
+28.7040592 77.10249019999999
+himanshupathak3 updated 1. Basic Form
+28.635308 77.22496
+ravi_admec posted 500 internal server error on only particular...
+53.9472848 27.718259500000002
+Spleshka committed Added KZT icon.
+40.3272387 -76.8076365
+David_Rothstein updated Backport policy
+41.3717904 2.1155786
+i2c2 posted Catching language selected from language...
+53.9472848 27.718259500000002
+Spleshka committed Removed legacy files.
+News
+Docs Updates
+Forum Posts
+Commits
+Drupal 7.36 released
+April 2, 2015
+Drupal 7.36, a maintenance release with numerous bug fixes (no security fixes) and several new features, is now available for download. Read more
+Aaron Winborn Community Spotlight
+Announcing The Aaron Winborn Award to honor amazing community members
+More news…
+Views exposed form layout
+Submitted by korgik on April 8, 2015 - 13:25
+Virtual sites: Create multiple sites based on one Drupal installation without using Drupal's multi-site feature
+Submitted by eiriksm on April 8, 2015 - 12:38
+Configuring
+Submitted by fuerst on April 8, 2015 - 10:07
+Authorization flows and grant types
+Submitted by oleg chemerys on April 8, 2015 - 09:59
+Process the Block Config Form
+Submitted by sidharrell on April 8, 2015 - 04:37
+More documentation…
+"Site Off-line" -- Aging Drupal 6 site
+Posted by uzuri on April 8, 2015 at 7:09pm.
+Is Drupal right for us?
+Posted by ang262 on April 8, 2015 at 5:54pm.
+List of terms split to multiple pages with "double" entries
+Posted by Tino on April 8, 2015 at 5:30pm.
+How to make a custom HTML form act like defualt contact form?
+Posted by dres85 on April 8, 2015 at 5:29pm.
+How to make a custom HTML form act like defualt contact form?
+Posted by dres85 on April 8, 2015 at 5:29pm.
+More forums…
+Issue #2465849 by konstantin.komelin: Fixed bug with double set of tabledrag con…
+Posted by Konstantin Komelin on April 8, 2015 at 7:20pm
+Issue #2112067 by paranojik, mikeytown2: Paths embedded in CSS are unnecessarily…
+Posted by paranojik on April 8, 2015 at 7:16pm
+Merge branch '7.x-1.x' of git.drupal.org:sandbox/mvdijk/2123977 into 7.x-1.x Co…
+Posted by mvdijk on April 8, 2015 at 7:16pm
+Fixed field id regression introduced by core issue #1734716.
+Posted by ufku on April 8, 2015 at 7:16pm
+Adding shop name filter, correcting typo, catagory to category
+Posted by Sharique on April 8, 2015 at 7:09pm
+More commit messages…
+News Items
+Drupal News
+Planet Drupal
+Association News
+Social Media Directory
+Security Announcements
+Jobs
+Our Community
+Community
+Getting Involved
+Services, Training & Hosting
+Groups & Meetups
+DrupalCon
+Code of Conduct
+Online Documentation
+Get Started
+Documentation Home
+Installation Guide
+Site Building Guide
+Support
+api.drupal.org
+Drupal Code Base
+Download & Extend
+Drupal Core
+Modules
+Themes
+Distributions
+Governance of Community
+About
+Web accessibility
+The Drupal Association
+About Drupal.org
+Terms of Service
+Privacy Policy
+Drupal is a registered trademark of Dries Buytaert.  true width=device-width width text/html; charset=utf-8

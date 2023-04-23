@@ -1,0 +1,50 @@
+PHP: Hypertext PreprocessorDownloads
+Documentation
+Get Involved
+Help
+
+PHP is a popular general-purpose scripting language that is especially suited to web development.
+Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+Download
+5.6.30·Release Notes·Upgrading
+7.0.18·Release Notes·Upgrading
+7.1.4·Release Notes·Upgrading
+13 Apr 2017
+PHP 7.1.4 Released
+The PHP development team announces the immediate availability of PHP 7.1.4. Several bugs have been fixed. All PHP 7.1 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.1.4 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+13 Apr 2017
+PHP 7.0.18 Released
+The PHP development team announces the immediate availability of PHP 7.0.18. Several bugs have been fixed. All PHP 7.0 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.0.18 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+16 Mar 2017
+PHP 7.1.3 Released
+The PHP development team announces the immediate availability of PHP 7.1.3. Several bugs have been fixed. All PHP 7.1 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.1.3 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+16 Mar 2017
+PHP 7.0.17 Released
+The PHP development team announces the immediate availability of PHP 7.0.17. Several bugs have been fixed. All PHP 7.0 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.0.17 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+17 Feb 2017
+PHP 7.1.2 Released
+The PHP development team announces the immediate availability of PHP 7.1.2. Several bugs have been fixed. All PHP 7.1 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.1.2 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+16 Feb 2017
+PHP 7.0.16 Released
+The PHP development team announces the immediate availability of PHP 7.0.16. Several bugs have been fixed. All PHP 7.0 users are encouraged to upgrade to this version.
+For source downloads of PHP 7.0.16 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.
+Older News Entries
+Conferences calling for papers
+ConFoo Vancouver 2017 Calling for Papers
+PNWPHP 2017 CfP
+Madison PHP Conference 2017
+Upcoming conferences
+Conferência PHPRS 2017
+Madison PHP Conference 2017
+CakeFest 2017 NYC, the Official CakePHP Conference
+php[tek] 2017: Atlanta
+User Group Events
+Special Thanks
+Social media
+@official_php
+Copyright © 2001-2017 The PHP Group My PHP.net Contact Other PHP.net sites Mirror sites Privacy policy   width=device-width, initial-scale=1.0

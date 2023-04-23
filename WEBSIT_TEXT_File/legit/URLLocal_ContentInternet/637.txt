@@ -1,0 +1,82 @@
+Bitbucket | The Git solution for professional teamsBitbucket logo
+Features
+Integrations
+Server
+Data Center
+Pricing
+Log in
+Get started
+Code, Manage, Collaborate
+Bitbucket is the Git solution for professional teams
+Get started for free
+Or host it yourself with Bitbucket Server
+Built for professional teams
+Distributed version control system that makes it easy for you to collaborate with your team. The only collaborative Git solution that massively scales.
+Code collaboration on steroids
+Approve code review more efficiently with pull requests. Hold discussions right in the source code with inline comments. 
+Git that massively scales
+Have uninterrupted access with Bitbucket Data Center. Fast performance wherever you are in the world.
+Flexible deployment models
+Enjoy flexible deployment models for teams of all sizes and needs. Host it in our cloud or manage it on your servers.
+Bitbucket Pipelines
+One tool for all your needs, from code to deployment
+Learn more
+Unlimited private repositories
+Get unlimited private and public repositories with Bitbucket. Bitbucket Cloud is free for small teams of 5.
+Git Large File Storage (LFS)
+Learn how to use Git LFS to store large assets for game development
+Learn more
+Secure your workflow
+Prevent errors by controlling the actions users can perform with branch permissions. Get granular permissions at the project, repository, or branch level.
+Bitbucket Server
+Bitbucket Server gives you secure, fast, enterprise-grade controls, like fine-grained permissions and powerful management features.
+SourceTree
+SourceTree is Atlassian's free desktop client for Bitbucket. Harness the full power of Git and Mercurial in a beautifully simple application.
+Integrations that matter
+Work with the tools that help your teams build better software
+JIRA Software integration
+Work efficiently by connecting commits and pull requests to JIRA Software issues
+Connect framework
+Customize Bitbucket Cloud your way using add-ons built with Atlassian Connect for Bitbucket
+Trigger webhooks
+Integrate easily with HipChat for team chat, Bamboo for continuous integration, or other systems using Bitbucket webhooks
+The Atlassian stack helps us plan, communicate and collaborate, so that we can focus more on what we do best: creating great special effects software.”
+— Nate Sparks, Product Manager
+Watch Red Giant story
+MORE THAN 1 MILLION TEAMS AND 6 MILLION DEVELOPERS LOVE BITBUCKET
+Simple plans hosted in the cloud
+SMALL TEAMS
+FREE
+for up to 5 users
+Get started
+LARGE TEAMS
+$10
+per month
+10 users
+ 10 users
+ 25 users
+ 50 users
+ 100 users
+ Unlimited users
+  Get this plan
+Want to host on your own server?
+Learn Git for free
+Visit Getting Git right and get free tutorials, news and tips
+Let's go!
+Bitbucket
+Blog
+API
+Site status
+Resources
+Technical support
+Documentation
+Plans & pricing
+Connect with us
+Sign up for Git articles and resources:
+Connect with Bitbucket
+Atlassian logo
+Privacy policy
+Terms of use
+Trust & security
+Copyright © 2017
+View all Atlassian products   IE=edge, chrome=1 width=device-width, initial-scale=1 Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team. Atlassian Bitbucket Bitbucket #205081 #205081 https://bitbucket-marketing-cdn.atlassian.com/assets/img/bitbucket/bitbucket_white-transparent_256x256.png Bitbucket | The Git solution for professional teams Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team. website https://bitbucket.org https://bitbucket-marketing-cdn.atlassian.com/dam/jcr:1437c132-1dbc-410d-b6a6-cb7fce8f2775/bitbucket_rgb_darkblue_atlassian_1200x630.png 1200 630 Bitbucket summary https://bitbucket-marketing-cdn.atlassian.com/dam/jcr:a7a6a501-1329-4543-b204-093584908134/Bitbucket_navy.png @Bitbucket

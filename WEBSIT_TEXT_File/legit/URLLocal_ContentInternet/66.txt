@@ -1,0 +1,94 @@
+The world's leading software development platform · GitHubSkip to content
+Features
+Business
+Explore
+Pricing
+Sign in or Sign up
+Built for developers
+GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.
+Pick a username
+Enter your email address
+Create a password
+Use at least one letter, one numeral, and seven characters.
+Sign up for GitHub
+By clicking "Sign up for GitHub", you agree to our terms of service and privacy policy. We’ll occasionally send you account related emails.
+Check out GitHub Satellite, in orbit around London on May 22-23.
+Learn more
+GitHub for teams
+A better way to work together
+GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way.
+See how teams work together on GitHub
+Sign up your team
+Write better code
+Collaboration makes perfect. The conversations and code reviews that happen in Pull Requests help your team share the weight of your work and improve the software you build.
+Manage your chaos
+Take a deep breath. On GitHub project management happens in Issues and Projects, right alongside your code. All you have to do is mention a teammate to get them involved.
+Security and administration
+Boxes? Check.
+We worried about your administrative and security needs so you don’t have to. From flexible hosting to authentication options, GitHub can help you meet your team’s requirements.
+Code security
+Prevent problems before they happen. Protected branches, signed commits, and required status checks protect your work and help you maintain a high standard for your code.
+Access controlled
+Encourage teams to work together while limiting access to those who need it with granular permissions and authentication through SAML/SSO and LDAP.
+Hosted where you need it
+Securely and reliably host your work on GitHub.com. Or, deploy GitHub Enterprise on your own servers or in a private cloud using Amazon Web Services, Azure or Google Cloud Platform.
+GitHub for Business
+Integrations
+Perfect the way you work
+Customize your process with hundreds of integrations and an intuitive API. Integrate the tools you already use or discover new favorites to create a happier, more efficient way of working.
+Learn more about integrations
+Sometimes, there’s more than one tool for the job. Why not try something new?
+Explore integrations
+Community
+Welcome home, developers
+GitHub is home to the world’s largest community of developers and their projects. Whether you’re making your first commit or sending a Rover to Mars, there’s room for you here, too.
+21M
+Developers worldwide
+Developers use GitHub for personal projects, from experimenting with new programming languages to hosting their life’s work.
+See how developers use GitHub
+57M
+Repositories worldwide
+GitHub’s users create and maintain influential technologies alongside the world's largest open source community.
+Learn about open source
+117K
+Businesses worldwide
+Businesses of all sizes use GitHub to support their development process and to securely build software.
+See how businesses use GitHub
+More than a million teams use GitHub
+Get started for free
+Join the millions of developers already using GitHub to share their code, work together, and build amazing things.
+Sign up for GitHub
+© 2017
+Features
+Code review
+Project management
+Integrations
+Community
+Documentation
+Code hosting
+Platform
+Atom
+Electron
+GitHub Desktop
+Developers
+Community
+Personal
+Open source
+For Business
+For Education
+Sponsorships
+Company
+About
+Blog
+Customers
+Careers
+Press
+Shop
+Resources
+Contact GitHub
+Help
+Status
+Terms
+Privacy
+Security
+Training   origin-when-cross-origin width=device-width 1401488693436528 https://github.com GitHub Build software better, together GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 57 million projects. https://assets-cdn.github.com/images/modules/open_graph/github-logo.png image/png 1200 1200 https://assets-cdn.github.com/images/modules/open_graph/github-mark.png image/png 1200 620 https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png image/png 1200 620 1000 9032:1620:9C6505:F7B5D5:58F7A3A4  KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA UA-3769691-2 collector.githubapp.com github https://collector.githubapp.com/github-external/browser_event 9032:1620:9C6505:F7B5D5:58F7A3A4 Logged Out github.com  github.com OTgzOTM5NDAxZGUyMTllMmI4MWEwYWEyNzJjZjM0NjhmODhhZmJjMDBhNGFkMWFjMDEyMGZjNTVjMDVmMzUzMXx7InJlbW90ZV9hZGRyZXNzIjoiMTkzLjEwOS4xOTYuMjQ3IiwicmVxdWVzdF9pZCI6IjkwMzI6MTYyMDo5QzY1MDU6RjdCNUQ1OjU4RjdBM0E0IiwidGltZXN0YW1wIjoxNDkyNjI0MjkyLCJob3N0IjoiZ2l0aHViLmNvbSJ9 dbfde12531730a5309249b6126179ed0c1d9b03c 3bc3ecd15e0703d82eda46f696e355ee width=device-width https://api.github.com/_private/browser/stats https://api.github.com/_private/browser/errors #1e2327 true

@@ -1,0 +1,262 @@
+TechRepublic - A Resource for IT ProfessionalsTechRepublic
+U.S.
+Australia
+United Kingdom
+United States
+Membership
+Membership
+My Profile
+People
+Subscriptions
+My stuff
+Purchases
+Preferences
+Send a message
+Log Out
+Menu
+Topics
+CXO
+Software
+Startups
+Cloud
+Data Center
+Mobile
+Microsoft
+Apple
+Google
+Sections
+All Topics
+Newsletters
+Photos
+Forums
+Resource Library
+Research
+Editions
+Australia
+United Kingdom
+United States
+All Topics
+Newsletters
+Photos
+Forums
+Resource Library
+Research
+Search
+CXO
+Software
+Startups
+Cloud
+Data Center
+Mobile
+Microsoft
+Apple
+Google
+Microsoft open source experiments are paying off
+Microsoft open source experiments are paying off
+The software giant talks about how it has doubled community engagement since it went "fully open source" with a key Microsoft technology. Read more ?
+The next step in mobile device security evolution
+The next step in mobile device security evolution
+Cyber security technologies might be the next technology joining MAM to close security gaps in MDM. Read more ?
+Open source risks being devoured by the cloud
+Open source risks being devoured by the cloud
+Open source powers the cloud, but it may also be killed by it. Matt Asay explains. Read more ?
+Latest
+Most Popular
+Tony Bradley // April 8, 2015, 12:46 PM PST
+The one thing Microsoft's Project Spartan browser needs to succeed
+Internet Explorer has its issues, but there is really just one thing Microsoft needs to do to drive adoption of the new Project Spartan web browser.
+0
+Michael Kassner // April 8, 2015, 11:57 AM PST
+Fiber-optic ribbon cables: Factors you can't afford to ignore
+Migrating to 40G/100G fiber-optic ribbon-cable infrastructure requires careful planning for current load conditions and those expected in the future. Here's what data center managers need to know.
+0
+Keith Townsend // April 8, 2015, 10:17 AM PST
+Do your SDN homework: Read about solutions from Cisco, Brocade, Juniper, Arista
+This list of software-defined networking (SDN) solutions from Cisco, Juniper, Arista, and Brocade highlights each option's key attributes.
+0
+Matt Asay // April 8, 2015, 8:21 AM PST
+Etsy goes retro to scale big data
+Forget streaming. Forget the cloud. Etsy goes with the tried-and-true to gain confidence in the data infrastructure behind its business.
+0
+Erin Carson // April 8, 2015, 5:33 AM PST
+4 mistakes your brand might be making on Facebook
+We all make mistakes. Here are 4 your brand might be making on Facebook.
+0
+Tech Pro Research Staff
+Virtual reality spotlight: What can VR bring to the enterprise?
+Virtual reality has been largely confined to the consumer space, but VR devices are increasingly being targeted at the enterprise. This guide examines VR technology and its potential for business use.
+from Tech Pro Research
+Erin Carson // April 8, 2015, 5:31 AM PST
+The 4 worst mistakes brands make on Facebook
+Check yourself -- your brand might be making on of these mistakes on Facebook.
+0
+Conner Forrest // April 8, 2015, 5:30 AM PST
+From Mac Portable to the new Macbook: A history of Apple laptops in photos
+With the public release of the new MacBook imminent, we're taking a look back at the history of portable Apple computers. Here's how the designs have changed over time.
+0
+Conner Forrest // April 8, 2015, 5:00 AM PST
+Use these multi-monitor options to customize your Mac experience
+Many users are opting for multiple screens to increase productivity. Here are some best practices for using external monitors with your Mac.
+0
+Cory Bohon // April 8, 2015, 4:39 AM PST
+Navigate your way through Apple Maps with three iOS 8 tips
+Apple Maps has made many improvements in iOS 8. Cory Bohon shows you three new features and how they can increase your mapping and transportation abilities.
+0
+Erin Carson // April 8, 2015, 4:30 AM PST
+10 ways virtual reality is revolutionizing medicine and healthcare
+Virtual reality isn't just about gaming. Here are 10 ways VR is, and has been, seeping into the way medical professionals train, diagnose, and treat.
+0
+Jack Wallen // April 8, 2015, 3:37 AM PST
+Disable notification content on Lollipop lock screen for better privacy
+If you've found the Android Lollipop lock screen to be a security issue, Jack Wallen shows you how to regain control over sensitive data being displayed.
+0
+Alex Howard // April 7, 2015, 9:09 AM PST
+Government data is fuel for job creation, says Commerce Department CDO
+Ian J. Kalin, the first chief data officer (CDO) at the Commerce Department, is figuring out how to tie data products and science to a core mission of his agency: enhancing business and commerce.
+0
+Teena Hammond
+Research: 57% using or planning to use industry cloud services
+Industry cloud is a growing element within cloud computing. A recent Tech Pro Research survey revealed that 57% of respondents are either using, or planning to use, industry cloud services within the ...
+from Tech Pro Research
+Jack Wallen // April 7, 2015, 9:07 AM PST
+Pro Tip: Expand your Chromebook by changing the ChromeOS Downloads location
+If you feel like your Chromebook internal storage limitation is an issue, Jack Wallen offers up one easy to implement solution that will save you from having to constantly clean out the local Download...
+0
+Will Kelly // April 7, 2015, 9:01 AM PST
+Threat management platforms are next step in mobile device security evolution
+Cyber security technologies might be the next technology joining MAM to close security gaps in MDM.
+0
+Scott Matteson // April 7, 2015, 8:52 AM PST
+Stop Android Lollipop from killing your battery
+Learn some tips and tricks for resolving battery life issues after an Android Lollipop upgrade.
+0
+Lyndsey Gilpin // April 7, 2015, 12:00 AM PST
+Photos: The best tech and science museums in the world
+Summer break is around the corner. Check out these 10 tech and science museums to entertain and educate the whole family.
+0
+Nick Heath // March 26, 2015, 9:11 AM PST
+Hacking the Nazis: The secret story of the women who broke Hitler's codes
+Of the 10,000-plus staff at the Government Code and Cypher School during World War II, two-thirds were female. Three veteran servicewomen explain what life was like as part of the code-breaking operat...
+0
+Conner Forrest // March 2, 2015, 5:00 AM PST
+Photos: 10 hardware startups to watch in 2015
+The popularity of software startups means that hardware startups often get left behind. Here are 10 startups building useful tools, interesting gadgets, and exciting products.
+0
+Nick Heath // November 4, 2014, 9:08 AM PST
+Bringing back the first computers: The world's greatest restoration projects
+Rebuilds of computers ranging from the IBM 1401 to the World War II-era Z1 that are in the running for a prestigious computer conservation award.
+0
+Jack Wallen // March 3, 2015, 11:53 AM PST
+Five useful Android apps you probably never heard of
+If you don't have time to scout around the Play Store in search of obscure-but-handy apps, check out this list of lesser-known tools.
+0
+Tech Pro Research Staff
+Virtual reality spotlight: What can VR bring to the enterprise?
+Virtual reality has been largely confined to the consumer space, but VR devices are increasingly being targeted at the enterprise. This guide examines VR technology and its potential for business use.
+from Tech Pro Research
+Nick Heath // March 6, 2012, 5:05 AM PST
+Alan Turing: Exhibition offers rare glimpse of the man behind the enigma
+An exhibition at Bletchley Park, the home of British codebreaking during WWII, brings together the possessions that defined the life of the father of computing, Alan Turing.
+0
+Erin Carson // November 5, 2014, 4:30 AM PST
+Photos: The life of Alan Turing
+Before you head to the theater to see the Alan Turing movie, "The Imitation Game," here's a primer on his life.
+0
+Conner Forrest // March 12, 2015, 1:00 AM PST
+Google's biggest 'moonshots' in photos
+Google is known for taking big risks with its unconventional projects known as "Moonshots." Here are the biggest moonshots from the search giant.
+0
+Greg Shultz // April 3, 2015, 12:13 PM PST
+This is Spartan! Windows 10 Technical Preview, Build 10049
+With Build 10049 of Windows 10 Technical Preview, Greg Shultz gets his hands on the Project Spartan browser. Take a look at some of the changes you can expect to see.
+0
+Jack Wallen // March 16, 2015, 7:02 PM PST
+The Android upgrade conundrum: Who's at fault
+Jack Wallen addresses how Lollipop perfectly illustrates how the Android upgrade process is broken.
+0
+Conner Forrest // March 27, 2015, 5:00 AM PST
+Photos: The 10 best consumer drones you can buy right now
+Drone technology has exploded. Here are the most popular commercially available drones.
+0
+Susan Harkins // June 11, 2008, 5:00 PM PST
+How to add a drop-down list to an Excel cell
+Drop-down lists can greatly facilitate data entry. Here's a look at how to use Excel's data validation feature to create handy lists within your worksheets.
+0
+Teena Hammond
+Research: 57% using or planning to use industry cloud services
+Industry cloud is a growing element within cloud computing. A recent Tech Pro Research survey revealed that 57% of respondents are either using, or planning to use, industry cloud services within the ...
+from Tech Pro Research
+Lyndsey Gilpin // March 30, 2015, 5:00 AM PST
+Power your devices with the sun: 11 great solar chargers
+It's spring and the sun is finally shining, so use its rays to power your smartphone or tablet. Here are 11 affordable solar chargers.
+0
+Chad Perrin // April 15, 2008, 1:47 PM PST
+List open ports and listening services
+You should turn off any services you don't actually need so that they will not become avenues of attack for security threats. Different systems will have different services running by default, even b...
+0
+Greg Shultz // May 23, 2012, 12:01 PM PST
+Windows 7 Files That Contain Icons
+As you know, when creating a shortcut you have the opportunity to choose a custom icon. When you do, you’ll see a list of 300 icons that come from the shell32.dll file. However, this isn’t the only na...
+0
+Editor's Picks
+Big data will help feed billions by 2050
+SwiftKey: The world's smartest keyboard
+Cloud sounds and the future of making music
+How 'PayPal Mafia' has redefined success
+Latest on Tech Pro Research
+Virtual reality spotlight: What can VR bring to the enterprise?
+Industry Cloud: Adoption, plans, decision factors, strategic results
+Secure Browser Usage Policy
+Job description: Identity access management specialist
+Explore
+Blogs
+Downloads
+Q&A
+Discussions
+Meet the Team
+Tech Pro Research
+Resource Library
+Photos
+Videos
+Services
+About Us
+Membership
+Newsletters
+RSS Feeds
+Site Map
+Site Help & Feedback
+FAQ
+Advertise
+Reprint Policy
+© 2015 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice | Terms of Use | Mobile User Agreement
+A ZDNet site | Visit other CBS Interactive sites:
+                        Select Site
+                        CBS Cares
+                        CBS Films
+                        CBS Radio
+                        CBS.com
+                        CBS Interactive
+                        CBSNews.com
+                        CBSSports.com
+                        CHOW
+                        Clicker
+                        CNET
+                        College Network
+                        GameSpot
+                        Last.fm
+                        MaxPreps
+                        Metacritic.com
+                        Moneywatch
+                        mySimon
+                        Radio.com
+                        Search.com
+                        Shopper.com
+                        Showtime
+                        SmartPlanet
+                        Tech Pro Research
+                        TechRepublic
+                        The Insider
+                        TV.com
+                        UrbanBaby.com
+                        ZDNet
+                       Providing IT professionals with a unique blend of original content, peer-to-peer advice from the largest community of IT leaders on the Web. width=device-width, initial-scale=1.0, minimum-scale=1.0 5601262769 TechRepublic summary_large_image TechRepublic TechRepublic - A Resource for IT Professionals TechRepublic - A Resource for IT Professionals Providing IT professionals with a unique blend of original content, peer-to-peer advice from the largest community of IT leaders on the Web. Providing IT professionals with a unique blend of original content, peer-to-peer advice from the largest community of IT leaders on the Web. http://www.techrepublic.com/ website /bundles/techrepubliccore/browserconfig.xml

@@ -1,0 +1,7 @@
+Welcome to FacebookCreate Account
+Email or Phone
+Password
+or
+Create New Account
+Forgot Password?
+Help Center  text/html; charset=UTF-8 origin-when-crossorigin Log into Facebook to start sharing and connecting with your friends, family, and people you know.

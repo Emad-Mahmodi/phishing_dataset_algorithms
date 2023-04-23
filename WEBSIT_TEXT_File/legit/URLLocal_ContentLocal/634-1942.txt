@@ -1,0 +1,184 @@
+yr.no – V?ret for Norge og verden fra NRK og Meteorologisk instituttyr.no er et samarbeid mellom Meteorologisk institutt og NRK
+S?k blant v?rvarsel i Norge og verden:
+Stedsnavn:
+Skriv stedsnavn, f.eks. Stavanger, R?st eller Beijing. Avansert s?k
+Mine steder
+Velg spr?k / Choose language:
+Bokm?l
+Nynorsk
+Kv??ni
+Davvis?megiella
+English
+  V?rkart
+Hav og kyst
+V?rradar
+Se skydekke
+Flomfare
+UV-varsel
+Sn?skredvarsel
+Fjellovergangar
+Siste observasjoner
+Varmest, kaldest, v?test
+Sn?dybder
+Klima i Norge og Verden
+Meteorologens v?rkart
+Tekstvarsel
+Meteorologileksikon
+Sp?r meteorologen
+Slik forst?r du varslene
+Kontakt og hjelp
+Gratis v?rdata
+Se hva andre har laget
+Nyheter om v?ret
+Spektakul?rt v?rfenomen gav supervarme
+G?rsdagens temperaturm?linger ?stafjells var skyh?ye. Her er forklaringen.
+Storm, sn? og regn i dagevis
+V?ret kommer sidelengs i Midt-Norge denne uka. Det er bare ? skalke lukene.
+P?skefl?rten ble et iskaldt mareritt
+Les om de 17 d?dsfallene som gav oss Fjellvettreglene.
+Finnes det midnattsm?ne?
+Alle har h?rt om middnattsol. Men finnes det ogs? en midnattsm?ne?
+Mildt og v?tt i mars
+Fersk statistikk viser at mars har v?rt unormalt varm og nedb?rsrik i hele landet.
+Hvorfor har vi skyer p? himmelen?
+Skyer kan v?re et mysterium b?de for barn og voksne.
+Gjenopplev den historiske solform?rkelsen
+.
+Flere nyheter fra yr.no
+?tvarar mot sterk UV-str?ling i p?ska
+Tvillingsykloner kan gi krefter til El Ni?o
+Sn?r det i verdensrommet?
+Se hva de svarte i nettm?tet!
+Nettm?te om p?skev?r og skredfare: Dette svarte de.
+Se alle solbildene!
+– Syklonen var som et monster
+Mot lysere tider i rykk og napp
+Norge Rundt-programleiar overraska av kjempeb?lge
+Kan bli mer t?ke p? Gardermoen
+Hvorfor smelter sn?en rundt treet?
+Sj?isen fortsetter ? smelte
+Europa er best i v?rvarsling
+Vinteren var mild og v?t
+Februar mye varmere enn normalt
+om.yr.no
+TIPS FOR BRUK AV YR – L?FT BLIKKET!
+13.03.2015
+Du har nok sett overskrifter som: «Dette m? du huske n?r du bruker p? yr!». Vi som jobber med yr blir sikkert litt vel ivrige noen ganger. N? skal jeg ikke g? i den [...]
+V?rradaren p? And?ya er ute av drift
+20.02.2015
+V?rradaren p? Trolltind ble satt ut av spill, da lynet slo ned i radaren i slutten av januar. Skadene er omfattende, s? det er uvisst n?r den er p? plass igjen. - Vi [...]
+Hvorfor Nina var s? vrang?
+15.01.2015
+Vi visste hun kom, vi visste n?r hun kom, men vi visste ikke hvor. Ekstremv?ret Nina kom l?rdag 10. januar og ble den kraftigste stormen i Hordaland p? 20 ?r. Forsik [...]
+yr.no p? Facebook
+Norge og verden
+Aktuelle varsel
+V?ret n?
+V?ret som var
+L?r om v?r
+Gratis v?rdata
+Norge
+Nord-Norge
+Finnmark
+Nordland
+Troms
+Tr?ndelag
+Nord-Tr?ndelag
+S?r-Tr?ndelag
+Vestlandet
+Hordaland
+M?re og Romsdal
+Rogaland
+Sogn og Fjordane
+?stlandet
+Akershus
+Buskerud
+Hedmark
+Oppland
+Oslo
+Telemark
+Vestfold
+?stfold
+S?rlandet
+Aust-Agder
+Vest-Agder
+Polaromr?dene
+Svalbard
+Jan Mayen
+Bouvet?ya
+Troll (Antarktis)
+Peter I ?y
+Hav og olje
+Hav og kyst
+Fiskebankene
+Oljeplattformene
+Sm?b?tvarsel
+Verden
+Norden
+Europa
+Asia
+Afrika
+Nord- og Mellom-Amerika
+S?r-Amerika
+Oseania
+Antarktis
+Tekstvarsel
+Hav og kyst
+UV-varsel
+Meteorologens v?rkart
+Fjelloverganger
+Vinter
+Skif?rekart
+Sn?dybder
+Alpinanlegg
+Sommer
+Pollenvarsel
+Skogbrannfare
+Nedb?r n?
+Skydekke n?
+Siste observasjoner
+Feriev?ret
+Varmest, kaldest og v?test
+M?lestasjoner
+Klimautviklingen siste 150 ?r
+Sp?r Meteorologen
+Meteorologileksikon
+Slik forst?r du varslene
+Slik forst?r du symbolene
+Hjelp
+Du kan f? sv?rt mye av innholdet p? yr.no gratis, til bruk i ulike applikasjoner og tjenester.
+Dersom du utvikler program, nettjenester eller annet med data fr? yr.no, oppfordrer vi deg til ? dele det du har laget med andre!
+Info og retningsliner
+Lag dine egne tjenester
+Vilk?r for bruk av innhold
+Hvorfor gratis v?rdata?
+Datakilder
+V?rvarsel i XML-format
+V?rvarsel i GRIB-format
+Observasjoner og klimastatistikk i XML-format
+Ferdige l?sninger
+Javascript-varsel
+V?rvarsel i PHP-format
+tillegg.yr.no
+Redakt?r: Ingrid St?ver Jensen
+Ansvarlig redakt?r: Thor Gjermund Eriksen
+Meteorologisk ansvarlig: Anton Eliassen
+yr.no er et samarbeid mellom NRK og Meteorologisk institutt, med data og innhold fra:
+Avinor,
+Bioforsk,
+Den europeiske meteorologiske satellittorganisasjonen EUMETSAT,
+Det europeiske v?rvarslingssenteret ECMWF,
+Geonames,
+Jernbaneverket,
+Kvensk institutt,
+Meteorologisk institutt,
+Norges vassdrags- og energidirektorat (NVE),
+Norsk Polarinstitutt,
+NRK,
+Den vitenskapelige komité for antarktisforskning (SCAR),
+Statens kartverk og
+NTNU Vitenskapsmuseet.
+Forsiden
+Om yr.no
+Kontakt og hjelp
+Opphavsrett © NRK og Meteorologisk institutt 2007-2014   1800 width=990 index,follow index,follow 1 Days V?rvarsel for 9,3 millioner steder i verden! NRK og Meteorologisk institutt NRK og Meteorologisk institutt Opphavsrett:NRK og Meteorologisk institutt © 2015 2015 yr.no

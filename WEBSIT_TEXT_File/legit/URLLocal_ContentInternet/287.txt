@@ -1,0 +1,112 @@
+XDA-Developers Android ForumsFORUMS
+Apps, ROMs, Customization
+ANALYSIS
+Editorials & Opinion
+LOGIN
+Jump back in
+REGISTER
+Takes just a sec!
+search plus
+  OnePlus 3T
+Galaxy S8
+3 Comments
+Three Actually-Hidden, Non-Clickbaity Tricks for Your New Galaxy S8 or S8+
+If you had pre-ordered a Samsung Galaxy S8 or Galaxy S8+, you likely woke up to your package tracker displaying a satisfying “DELIVERED TODAY BY 8:00PM.” We would know, as...
+Public Discussion on XDA Rules Regarding Sharing of Code
+Our new proposed forum rules look to better protect existing developers while encouraging sharing and open source. These will be open for public discussion for the next week before adoption,...
+LATEST XDA FEATURES
+6 Posts
+Pre-Alpha Build of Arch Linux Running Natively on the Google Pixel C
+XDA Member Samt434 was able to get Arch Linux natively running on their Google Pixel C. Then they released the required files and even wrote up a step by step guide so that you...
+April 19, 2017 2:30 PM
+Doug Lynch
+10 Posts
+How to Root the Google Pixel and Pixel XL Running Android O DP1
+XDA Member Sachi315 was able to get the first Developer Preview of Android O rooted on their Pixel phone, and now we see XDA Senior Member eqbirvin has put together a step by...
+April 19, 2017 2:00 PM
+Doug Lynch
+Master Raspberry Pi 3 with this Online Course
+The Raspberry Pi is the most popular microcomputer in the world. Start learning how to create and code projects with this all-inclusive bundle from the XDA Depot. This collection of online courses has over 21 hours of content. While this package is normally priced at $214, you can get this for only $19 right now. Here …
+A Word From Our Sponsors
+2 Posts
+How to Install ADB and Fastboot System Wide in Windows
+Setting up ADB and Fastboot tools are pretty straight forward as all you need to do is download the binary and extract it to any directory. However, not many people...
+April 19, 2017 1:00 PM
+Doug Lynch
+2 Comments
+LineageOS Week in Review: AOSP 7.1.2 Merge, April’s Security Patches and More
+The LineageOS team has been graciously providing the community a weekly summary of all the notable changes that have occurred with the successor of the most popular custom ROM in...
+April 19, 2017 12:26 PM
+Aamir Siddiqui
+50 Comments
+Xiaomi Launches the Mi 6 with Snapdragon 835, 6GB of RAM, Under-glass Fingerprint Sensor and No 3.5mm Headphone Jack
+Sticking to its yearly schedule, Xiaomi has launched the Mi 6 in China. The Mi 6 is the latest flagship from Xiaomi, and is their first device with the Qualcomm...
+April 19, 2017 11:31 AM
+Aamir Siddiqui
+0 Comments
+Report: LG to Start Producing Small and Medium-sized OLED Panels This Year
+LG Display’s OLED panels are quite popular within the TV industry. The company has been manufacturing their big panels and selling their OLED TVs for quite some time and many...
+April 19, 2017 10:20 AM
+Doug Lynch
+3 Comments
+Malicious JavaScript Code Can Steal PIN Codes via Motion Sensors
+The amount of data stored and accessible from our smartphones and tablets is generally ignored by most people. However, this becomes a treasure trove for hackers and security researchers and...
+April 19, 2017 10:00 AM
+Doug Lynch
+5 Comments
+Apex Launcher Devs Announce a New Update Coming Next Month
+There are a number of custom launchers available in the Play Store and each one generally has some features that make it stand out among the others. Apex Launcher was...
+April 19, 2017 9:43 AM
+Doug Lynch
+59 Comments
+Report: Samsung Galaxy S5 Remains Most Popular Samsung Device in USA as of February 2017
+The Samsung Galaxy S8 and S8+ are finally reaching the hands of consumers, and thanks to a lot of positive press, the device will likely be a popular choice for...
+April 18, 2017 5:45 PM
+Aamir Siddiqui
+14 Comments
+Google Announces Collaboration with PayPal for Android Pay Support
+Android Pay as a means of quick, cardless, and cashless payment faces heavy competition from the likes of Apple Pay and Samsung Pay. So it comes as no surprise that...
+April 18, 2017 5:33 PM
+Aamir Siddiqui
+17 Posts
+FolderMount Magisk Module Lets You Mount Internal SD Card Folders to External SD Folders
+The FolderMount Magisk Module from XDA Senior Member Codebucket lets you easily mount internal SD card folders to external SD folders. It creates a script in /system/bin for use in other scripts, and a future...
+April 18, 2017 4:15 PM
+Doug Lynch
+4 Posts
+Modded Magisk Module Template Allows You to Patch APKs On-the-fly to Create Magisk Modules
+XDA Recognized Contributor djb77 has released a mod that combines EvilTheme (which is a newer version of VRTheme) with Magisk to let you patch APK files on-the-fly and have them created as a Magisk Module.
+April 18, 2017 4:00 PM
+Doug Lynch
+1
+2
+3
+…
+1,182
+BEST POSTS THIS WEEK
+Nav Bar Customization was Hidden in Stock Nougat All Along…and it never needed Root
+50 Comments
+Show of hands here: how many of you are actually running the first Android O Developer Preview? Not only is the Developer Preview only available to a handful of Google…
+Opinion: Huawei CEO’s Wearable Confusion Explains Why They Botched the Huawei Watch 2
+45 Comments
+Throughout Android Wear’s life thus far, there have arguably been two products that really stood out from the rest as “iconic” devices: the original Moto 360, and the Huawei Watch. The 360…
+I/O Bug on OxygenOS 4 is Causing Deleted Files to Still Take up Space
+15 Comments
+You've just finished flashing a ROM update from our forums and want to clean up the installation files to save storage space. You open up MiXplorer by XDA Recognized Developer…
+If HMD Does Deliver a Nokia Flagship with Stock Android and Fast Updates, They Have My Money
+66 Comments
+Nokia is finally embracing Android in one of the most exciting twists in mobile technology’s recent history. After a rocky Lumia lineup and a fall from grace, the Nokia name…
+Remove All Ads from XDA
+    XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer?
+More info
+Contact
+Rules
+Suggest Content
+Security
+Privacy Policy
+XDA App
+Root Any Device
+
+Copyright © xda-developers. Hosted by Leaseweb
+We're Social  text/html; charset=UTF-8 width=device-width, initial-scale=1 #de7300 348072501301 en_US website XDA-Developers Android Forums https://www.xda-developers.com/ xda-developers https://www.xda-developers.com/wp-content/uploads/2014/04/xda-facebook-default.jpg summary XDA-Developers Android Forums @xdadevelopers https://www.xda-developers.com/wp-content/uploads/2014/04/xda-facebook-default.jpg @xdadevelopers 348072501301 #e67800 //forum.xda-cdn.com/images/2015/favicons/mstile-144x144.png //forum.xda-cdn.com/images/2015/favicons/browserconfig.xml

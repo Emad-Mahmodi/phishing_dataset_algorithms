@@ -1,0 +1,252 @@
+Super Usersign up log in tour help
+
+Super User
+Questions
+Tags
+Users
+Badges
+Unanswered
+Ask Question
+_
+Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute:
+
+Sign up
+Here's how it works:
+Anybody can ask a question
+Anybody can answer
+The best answers are voted up and rise to the top
+Explore Our Questions
+active
+8 featured
+hot
+week
+month
+windows-7linuxwindowsnetworkingmacosubuntumicrosoft-excelwindows-10windows-8hard-drive more tags
+0
+votes
+1
+answer
+11
+views
+Excel - Conditional Formatting: Why can't I format decimal rounding? Only Font, Border, Fill?
+microsoft-excel mac worksheet-function conditional-formatting microsoft-excel-2016
+modified 1 min ago Sir Adelaide 1,737
+0
+votes
+0
+answers
+4
+views
+How to backing up files and folders useing .bat
+backup batch xcopy
+asked 2 mins ago Holigan 1
+0
+votes
+2
+answers
+6
+views
+How to quickly switch to / locate a worksheet in many worksheets with long names in excel
+microsoft-excel microsoft-excel-2010
+answered 3 mins ago ExcelNovice 17
+0
+votes
+0
+answers
+7
+views
+Excel: Better alternative to large nested IF formula?
+microsoft-excel worksheet-function microsoft-excel-2016
+modified 6 mins ago amota 1
+1
+vote
+3
+answers
+6k
+views
+How do I get a new column from a Sharepoint list into Excel?
+microsoft-excel sharepoint
+modified 10 mins ago Community? 1
+0
+votes
+0
+answers
+3
+views
+How does one recover data from a “not initialized” drive that was part of a BitLocker encrypted USB RAID 1 array?
+external-hard-drive raid data-recovery bitlocker
+asked 15 mins ago user720288 1
+1
+vote
+2
+answers
+26
+views
+Are there performance differences between ping and ping6?
+networking macos ping ipv6 ipv4
+modified 22 mins ago damienc 106
+0
+votes
+1
+answer
+11
+views
+How to use ffmpeg to mute specific sections of a video
+audio video ffmpeg
+modified 24 mins ago occvtech 412
+0
+votes
+0
+answers
+4
+views
+Is there a master in dm mirror?
+software-raid mirroring
+asked 27 mins ago davidshen84 301
+-1
+votes
+1
+answer
+19
+views
+Windows 10 - Game Bar Record Screen Temporary Folder
+windows-10 recording
+modified 28 mins ago fixer1234 12.8k
+1
+vote
+2
+answers
+32
+views
+How do I transfer large amounts of data from an old external harddrive to a new one?
+windows-10 hard-drive external-hard-drive file-transfer
+answered 35 mins ago Stone 11
+7
+votes
+8
+answers
+76k
+views
+Email going into Junk Mail folder in Outlook despite turning off Junk Mail
+microsoft-outlook microsoft-outlook-2007 spam-prevention
+modified 40 mins ago Yang Yang 1
+-1
+votes
+1
+answer
+7
+views
+How do I restore quarantined files in Commodo Internet Security Premium 10?
+firewall comodo-firewall
+answered 45 mins ago Ramhound 9,074
+0
+votes
+3
+answers
+34
+views
+How to install a bootable Windows 10 Home to a flash drive?
+windows-10 bootable-media
+answered 47 mins ago spike_66 66
+Browse More Questions
+craftcms.stackexchange.com
+Possible to redirect elsewhere after saving an entry?
+– Lindsey D
+1 answer control-panel entry redirect
+Hot Network Questions
+What is python .. ("dot dot") notation syntax?
+Why do grape-flavored foods taste different than actual grapes?
+Which parties would try to stop Brexit from happening after the "snap election"?
+Disenchanted with Buddhism
+How do I rename a category in Steam?
+Why do all commercial aircraft have carpets?
+Wasn't Peter just trying to avoid getting caught when he denied Jesus three times?
+How to arrange 3x3 thumbnails when their number is less than 6?
+What do you do when your players guess your plots?
+Stable marriage with contracts: is it known?
+Draw single neural unit using tizk
+Did non-voters outnumber the supporters of each political party in the UK in 2010?
+GCD / LCM Polyglots!
+Why are radio buttons circles?
+A weapon(preferably hard scifi) that will limit velocity of space ships in a wide region temporarily
+Replace a set of vectors in a list from another set of vectors
+What characters are more common in my MD2 hash?
+What is the capitalist answer to automation?
+Shorten an absolute path
+How do you push a cable through a standard conduit inside the wall?
+Does a wolf have to hit in order to get the knockdown?
+How to handle a coworker pretending to be my boss?
+What's the worst thing anyone could do in a fast-food restaurant?
+'Back in 2000' vs 'In 2000'
+recent questions feed
+about us tour help blog chat data legal privacy policy work here advertising info mobile contact us feedback
+TECHNOLOGY LIFE / ARTS CULTURE / RECREATION SCIENCE OTHER
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+Cryptography
+Code Review
+Magento
+Signal Processing
+Raspberry Pi
+Programming Puzzles & Code Golf
+more (7)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (8)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Motor Vehicle Maintenance & Repair
+more (17)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (3)
+Meta Stack Exchange
+Stack Apps
+Area 51
+Stack Overflow Talent
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2017.4.19.25712  summary @super_user superuser.com website Q&A for computer enthusiasts and power users https://cdn.sstatic.net/Sites/superuser/img/apple-touch-icon@2.png?v=e869e4459439 Super User Q&A for computer enthusiasts and power users https://superuser.com/

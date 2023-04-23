@@ -1,0 +1,220 @@
+Slashdot: News for nerds, stuff that mattersSlashdot
+Stories
+Firehose
+All
+Popular
+Video new
+Jobs
+Deals
+Submit
+Search Slashdot
+Login
+or
+Sign up
+Topics:
+Devices
+Build
+Entertainment
+Technology
+Open Source
+Science
+YRO
+Follow us:
+RSS
+Facebook
+Google+
+Twitter
+Newsletter
+Catch up on stories from the past week (and beyond) at the Slashdot story archive
+  Nickname:
+Password:
+Public Terminal
+Forgot your password?
+Close
+Slashdot videos: Now with more Slashdot!
+View
+Discuss
+Share
+We've improved Slashdot's video section; now you can view our video interviews, product close-ups and site visits with all the usual Slashdot options to comment, share, etc. No more walled garden! It's a work in progress -- we hope you'll check it out (Learn more about the recent updates).
+Check out Videos
+×
+Anonabox Recalls Hundreds of Insecure 'Privacy' Routers 1
+Posted by Soulskill on Wednesday April 08, 2015 @08:57AM
+from the less-anona-and-more-box dept.
+Sparrowvsrevolution writes: It turns out all those critics of the controversial Tor router project Anonabox might have been on to something. Late last month, Anonabox began contacting the first round of customers who bought its tiny, $100 privacy gadget to warn them of serious security flaws in the device, and to offer to ship them a more secure replacement free of charge. While the miniature routers do direct all of a user's Internet traffic over Tor as promised, the company says that its first batch lacked basic password protection, with no way to keep out unwanted users in Wi-Fi range. And worse yet, the faulty Anonaboxes use the hardcoded root password 'admin,' which allows any of those Wi-Fi intruders to completely hijack the device, snooping on or recording all of a user's traffic.
+
+Anonabox's parent company, Sochutel, says that only 350 of the devices lacked that password protection, and that it's fixed the gaping security oversights in newer version of the router.
+
+The initial security criticisms of Anonabox helped to convince Kickstarter to freeze the proejct's $600,000 crowdfunding campaign in October. But Anonabox relaunched on Indiegogo and was later acquired by the tech firm Sochutel. Sochutel claims that the security flaws in the routers developed prior to its acquisition of Anonabox were out of its control, and that it's now hiring outside auditors to check its products' security.
+Read the 1 comment
+privacy security tor
+NASA's Chief Scientist Predicts Evidence For Life Beyond Earth By 2025 29
+Posted by Soulskill on Wednesday April 08, 2015 @08:15AM
+from the and-it'll-take-just-a-few-years-after-that-to-make-them-angry-at-us dept.
+An anonymous reader writes: Ellen Stofan, chief scientist at NASA, predicts we're not far off from finding evidence for alien life. At a panel discussion yesterday, she said, "I think we're going to have strong indications of life beyond Earth within a decade, and I think we're going to have definitive evidence within 20 to 30 years." She added, "We know where to look. We know how to look. In most cases we have the technology, and we're on a path to implementing it." Stofan thinks putting astronauts on Mars will be a big part of that goal. As efficient as robot missions are, she thinks it'll take humans digging and cracking rocks to find definitive evidence for life on other worlds.
+Read the 29 comments
+mars nasa science
+Heartbleed One Year Later: Has Anything Changed? 26
+Posted by Soulskill on Wednesday April 08, 2015 @05:18AM
+from the vulnerability-names-have-gotten-a-lot-more-annoying dept.
+darthcamaro writes: It was on April 7, 2014 that the CVE-2014-0160 vulnerability titled "TLS heartbeat read overrun" in OpenSSL was first publicly disclosed — but to many its a bug known simply as Heartbleed. A new report from certificate vendor Venafi claims that 76% of organizations are still at risk, though it's a statistic that is contested by other vendors as well as other statistics. Qualys' SSL Pulse claims that only 0.3 percent of sites are still at risk. Whatever the risk is today, the bottom line is that Heartbleed did change the security conversation — but did it change it for the better or the worse? A related article explores how Heartbleed could have been found earlier.
+Read the 26 comments
+security heartbleed vulnerability
+Feds Boost Goal To 75k New Solar Power Workers By 2020 27
+Posted by Soulskill on Wednesday April 08, 2015 @03:30AM
+from the fortunate-sun dept.
+An anonymous reader writes: The U.S. government has announced plans to help train 75,000 people to enter the solar workforce by 2020, including a number of veterans. The new goal is part of the U.S. Department of Energy (DOE) SunShot Initiative, which helps fund research, manufacturing and market creation. The SunShot Initiative's Solar Instructor Training Network works with 400 community colleges across the country for training, and claims to have already certified 1,000 solar instructors and nearly 30,000 students in the last five years. Ultimately, the SunShot Initiative has a goal for solar energy to reach price parity with conventional power sources in five years.
+Read the 27 comments
+business power usa
+Ask Slashdot: How Serious Is Hacking In Mobile Games? 45
+Posted by Soulskill on Wednesday April 08, 2015 @02:19AM
+from the going-for-the-high-score dept.
+Origen writes: As a developer contemplating trying out the mobile game scene, a GDC session about hacking/tampering looked interesting — but I wasn't able to attend. The presentation isn't available online, but it was paired with a whitepaper [contact details required], which can be downloaded. I'm surprised by some of the information presented and the potential for damage/mischief. Not so much that these issues are unheard of — they've existed for years on other platforms. What I find surprising is the lack of support at the OS level on mobile devices to defend from many of these types of hacks. Have we learned nothing from the pains of the past? How significant are the points about hacking/piracy in the mobile space that are discussed by this whitepaper?
+Read the 45 comments
+games mobile askslashdot
+Australian ISPs Must Hand Over Pirates' Info 96
+Posted by Soulskill on Wednesday April 08, 2015 @12:14AM
+from the making-more-lawyers-rich dept.
+wabrandsma sends this report from the BBC: An Australian court has ordered internet service providers to hand over details of customers accused of illegally downloading a U.S. movie. In a landmark move, the Federal Court told six firms to divulge names and addresses of those who downloaded The Dallas Buyers Club. ... The court said the data could only be used to secure "compensation for the infringements" of copyright. In the case, which was heard in February, the applicants said they had identified 4,726 unique IP addresses from which their film was shared online using BitTorrent, a peer-to-peer file sharing network. They said this had been done without their permission. Once they received the names of account holders, the company would then have to prove copyright infringement had taken place.
+Read the 96 comments
+court internet australia
+Today
+Yesterday
+The Cyberlearning Technologies Transforming Education 14
+Posted by Soulskill on Tuesday April 07, 2015 @10:11PM
+from the learning-to-learn-gooder dept.
+aarondubrow writes: The National Science Foundation funds basic cyberlearning research and since 2011 has awarded roughly 170 grants, totaling more than $120 million, to EdTech research projects around the country. However, NSF's approach to cyber-learning has been different from other public, private and philanthropic efforts. NSF funds compelling ideas, helps rigorously test them and then assists in transitioning the best ideas from research to practice. This article describes several examples of leading cyberlearning projects, from artificial intelligence to augmented reality, that are transforming education.
+Read the 14 comments
+education technology learning
+Years After Shutting Down, Tevatron Reveals Properties of Higgs Boson 47
+Posted by Soulskill on Tuesday April 07, 2015 @09:07PM
+from the only-collides-particles-if-you-throw-a-rock-at-it dept.
+sciencehabit writes: A U.S. atom smasher has made an important scientific contribution 3.5 years after it shut down. Scientists are reporting that the Tevatron collider in Batavia, Illinois, has provided new details about the nature of the famed Higgs boson — the particle that's key to physicists' explanation of how other fundamental particles get their mass and the piece in a theory called the standard model. The new result bolsters the case that the Higgs, which was discovered at a different atom smasher, exactly fits the standard model predictions.
+Read the 47 comments
+higgs physics science
+Why CSI: Cyber Matters 101
+Posted by Soulskill on Tuesday April 07, 2015 @08:09PM
+from the your-computer-is-broadcasting-an-IP-address dept.
+New submitter hypercard writes: CSI: Cyber has been the butt of many jokes in the infosec community since its inception. But in addition to facilitating lots of cyber bingo events and live tweets to call out technical errors, the show has real value in bringing awareness about infosec issues to the masses. Members of the Army Cyber Institute at West Point discuss the upside of CSI: Cyber in an article in the Cyber Defense Review. "Children all over the country have been inspired to be law enforcement agents by shows like Criminal Minds, NCIS, Bones, and CSI." One of CSI: Cyber's cast members, Shad Moss, has more followers than the entire top one thousand information security professionals on Twitter.
+Read the 101 comments
+security tv education
+Stack Overflow 2015 Developer Survey Reveals Coder Stats 268
+Posted by Soulskill on Tuesday April 07, 2015 @07:28PM
+from the nobody-loves-matlab dept.
+SternisheFan points out the results from 26,086 developers who answered Stack Overflow's annual survey. It includes demographic data, technology preferences, occupational information, and more. Some examples: The U.S. had the most respondents, followed by India and the UK, while small countries and several Nordic ones had the most developers per capita. The average age of developers in the U.S. and UK was over 30, while it was 25 in India and 26.6 in Russia. 92.1% of developers identified as male. Almost half of respondents did not receive a degree in computer science.
+
+The most-used technologies included JavaScript, SQL, Java, C#, and PHP. The most loved technologies were Swift, C++11, and Rust, while the most dreaded were Salesforce, Visual Basic, and Wordpress. 20.5% of respondents run Linux more than other OSes, and 21.5% rely on Mac OS X. Vim is almost 4 times more popular than Emacs, and both are used significantly less than NotePad++ and Sublime Text.
+
+45% of respondents prefer tabs, while 33.6% prefer spaces, though the relationship flips at higher experience levels. On average, developers who work remotely earn more than developers who don't. Product managers reported the lowest levels of job satisfaction and the highest levels of caffeinated beverages consumed per day.
+Read the 268 comments
+developers technology programming
+Mobile 'Deep Links' and the Fate of the Web 22
+Posted by Soulskill on Tuesday April 07, 2015 @07:10PM
+from the URLs-with-short-half-lives dept.
+An anonymous reader writes: Mobile developers call the links they're forging between apps "deep links," but so far the whole idea seems to be more about marketing than deepening understanding. This essay over at Backchannel argues that we still haven't delivered on the original promise of links online — the idea of enabling people to build and share "cathedrals of context." Quoting: "The people who invented the link saw it as a tool for relating ideas in illuminating ways—for making conceptual leaps and connecting disparate thoughts. If these visionaries had achieved their aim, the kind of tech-cultural amnesia represented by the recycling of the term 'deep links' shouldn't have been possible, two decades into the Web era. The links with true depth that they envisioned would have made sure of that."
+Read the 22 comments
+internet mobile context
+Smartphone-Enabled Replicators Are 3-5 Years Away, Caltech Professor Says 99
+Posted by Soulskill on Tuesday April 07, 2015 @06:46PM
+from the if-you-are-excited-about-replicating-hard-plastic dept.
+merbs writes: In just a few years, we could see the mass proliferation of DIY, smartphone-enabled replicators. At least, Caltech electrical engineering professor Ali Hajimiri and his team of researchers thinks so. They've developed a very tiny, very powerful 3D imager that can easily fit in a mobile device, successfully tested its prowess, and published the high-res results (PDF) in the journal Optics. Hajimiri claims the imager may soon allow consumers to snap a photo of just about anything, and then, with a good enough 3D printer, use it to create a real-life replica "accurate to within microns of the original object."
+Read the 99 comments
+cellphones technology build
+Privacy Commissioner of Canada Rules Bell's Targeted Ad Program Violates the Law 31
+Posted by Soulskill on Tuesday April 07, 2015 @06:05PM
+from the blames-the-maple-leafs'-management dept.
+An anonymous reader writes: The Privacy Commissioner of Canada has released the long-awaited decision on Bell's targeted ads program. The Commissioner's press release soft-pedals the outcome — "Bell advertising program raises privacy concerns" — but the decision is clear: Bell's so-called relevant ads program violates Canadian privacy law. As Michael Geist explains, the key issue in the case focused on whether Bell should be permitted to use an opt-out consent mechanism in which its millions of customers are all included in targeted advertising unless they take pro-active steps to opt-out, or if an opt-in consent model is more appropriate. The Commissioner ruled that opt-in consent is needed, but Bell is refusing to comply with the ruling.
+Read the 31 comments
+canada privacy bell
+Windows 10 Successor Codenamed 'Redstone,' Targeting 2016 Launch 167
+Posted by Soulskill on Tuesday April 07, 2015 @05:20PM
+from the please-just-call-it-windows-11 dept.
+MojoKid writes: Windows 10 isn't even out the door yet, so what better time than now to talk about its successor? Believe it or not, there's a fair bit of information on it floating around already, including its codename: "Redstone." Following in the footsteps of 'Blue' and 'Threshold', Redstone is an obvious tie-in to Microsoft's purchase of Minecraft, which it snagged from Mojang last year. Redstone is an integral material in the game, used to create simple items like a map or compass as well as logic gates for building electronic devices, like a calculator or automatic doors. The really important news is that we could see Windows Redstone sometime in 2016.
+Read the 167 comments
+os windows microsoft
+Google Let Root Certificate For Gmail Expire 95
+Posted by Soulskill on Tuesday April 07, 2015 @04:38PM
+from the happens-to-the-best-of-us dept.
+Gr8Apes writes: The certificate for Google's intermediate certificate authority expired Saturday. The certificate was used to issue Gmail's certificate for SMTP, and the expiration at 11:55am EDT caused many e-mail clients to stop receiving Gmail messages. While the problem affected most Gmail users using PC and mobile mail clients, Web access to Gmail was unaffected. I guess Google Calendar failed to notify someone.
+Read the 95 comments
+gmail google networking
+« Newer Older »
+Slashdot Deals
+Slashdot Poll
+Poll
+How do you contribute to open source projects?
+I don't I submit code I help with documentation/organization I help with testing/bug reports I donate money I localize I participate in the community I write passive aggressive tweets about minor annoyances
+Read the 0 comments
+Voted on 19 times.
+Featured Videos
+Latest Tech Jobs
+Senior .Net Developer-Multiple Roles
+Baltimore, MD
+Field Operations Manager
+North Bergen, NJ
+Manager- eCommerce & Portals- High Tech (TMT)
+Los Angeles, CA
+Web Developer/Systems Integration
+Cleveland, OH
+Network Engineer
+Parsippany, NJ
+Ab Initio Developer
+Chevy Chase, MD
+See All Jobs...
+Powered by
+Most Discussed
+557 comments Hugo Awards Turn (Even More) Political
+426 comments Planes Without Pilots
+326 comments How the Pentagon Wasted $10 Billion On Military Projects
+260 comments Stack Overflow 2015 Developer Survey Reveals Coder Stats
+258 comments LG Accidentally Leaks Apple iMac 8K Is Coming Later This Year
+Firehose
+Slashdot Japan becoming srad.jp
+NASA's Chief Scientists Predicts Evidence for Life Beyond Earth By 2025
+Google is too slow at clearing crap from the Chrome extension store
+Ask Slashdot: What would a constructed language have to be to replace English?
+One year since XP OEL.
+This Day on Slashdot
+2014 Mozilla CEO Firestorm Likely Violated California Law 1116 comments
+2010 iPhone OS 4.0 Brings Multitasking, Ad Framework For Apps 983 comments
+2009 CFLs Causing Utility Woes 859 comments
+2006 Cringely Predicts Apple to Ship OS X for Any PC 789 comments
+2004 Technology Spontaneously Combusts In Sicily 1010 comments
+Sourceforge Top Downloads
+VLC Media Player822M Downloads
+eMule683M Downloads
+Azureus/vuze539M Downloads
+Ares Galaxy338M Downloads
+Microsoft core fonts300M Downloads
+Powered By
+sf
+Slashdot
+Today
+Tuesday
+Monday
+Sunday
+Saturday
+Friday
+Thursday
+Wednesday
+Submit Story
+Don't be irreplaceable, if you can't be replaced, you can't be promoted.
+FAQ
+Story Archive
+Hall of Fame
+Advertising
+Jobs
+Terms
+Privacy
+Opt Out Choices
+About
+Feedback
+Slashdot Japan
+Mobile View
+Blog
+
+Trademarks property of their respective owners. Comments owned by the poster. Copyright © 2015 Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service.
+Close
+Close
+Slashdot
+Working...  text/html; charset=utf-8 100000696822412 267995220856 width=1000, user-scalable=yes, minimum-scale=0, maximum-scale=10.0 yes black http://slashdot.org/slashdot.xrds

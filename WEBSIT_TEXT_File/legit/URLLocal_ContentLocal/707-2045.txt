@@ -1,0 +1,114 @@
+Smashing Magazine — For Professional Web Designers and DevelopersBooks
+eBooks
+Workshops
+Job Board
+RSS
+Facebook
+Twitter
+Newsletter
+CODING
+DESIGN
+MOBILE
+GRAPHICS
+UX DESIGN
+WP
+Web Scraping With Node.js
+By Elliot Bonneville
+April 8th, 2015 JavaScriptNode.js 14 Comments
+Web scraping is the process of programmatically retrieving information from the Internet. As the volume of data on the web has increased, this practice has become increasingly widespread, and a number of powerful services have emerged to simplify it.
+Unfortunately, the majority of them are costly, limited or have other disadvantages. Instead of turning to one of these third-party resources, you can use Node.js to create a powerful web scraper that is both extremely versatile and completely free.
+Read more...
+Visual Test-Driven Development For Responsive Interface Design
+By Ivan Shubin
+April 7th, 2015 InterfacesResponsive Web DesignTesting 7 Comments
+Testing responsive websites is a laborious task. Until now, implementing a stable and maintainable automated solution for cross-browser and cross-device testing of a responsive layout has been nearly impossible. But what if we had an opportunity to write visual tests for responsive websites? What if we could describe the look and feel of an application and put this directly into our tests?
+Upon considering this question, I decided to also look at another interesting side of visual testing. For quite a long time I have been a fan of the test-driven development (TDD) methodology. It helps me in my daily programming work. TDD enables me to formalize the task and to make sure everything is implemented according to the requirements.
+Read more...
+Advertisement
+Advertise with us!
+AN INTERVIEW WITH TYPE DESIGNER AKIRA KOBAYASHI
+“Letters Do Not Stand By Themselves”
+By Iris Lje?njanin
+April 2nd, 2015 InterviewsTypography 6 Comments
+Customers and clients cannot physically touch the products that online designers create, nor can they smell, hear or taste them. One of the important factors in a customer’s decision of whether to use a product is usually the brand’s visual presence, which can help a product stand out from the rest of what the market has to offer. Upon taking a closer look, it doesn't take long to see that good typography is involved.
+Like all type designers, Akira Kobayashi believes that good typography reinforces the meaning of the text. He has a background in art and calligraphy and has been a freelance type designer for 18 years. Originally from Japan, Akira is a frequent speaker at type conferences and workshops in Europe, the Americas and Asia, and he has served as a judge in prestigious international type design competitions.
+Read more...
+That’s Real-Life Responsive Web Design: Meet The Brand New Smashing Book 5
+By Vitaly Friedman
+March 31st, 2015 Smashing Books 50 Comments
+Smart “responsive” workflows, effective responsive design/UX patterns and powerful front-end techniques — if you need a good book on smart responsive design, our brand new Smashing Book 5 is just what you need. Neatly packed in a gorgeous hardcover, it covers time-saving, practical techniques for crafting fast, maintainable and scalable responsive websites. 498 pages. Hardcover/eBook. Pre-order the book and save 25% today.
+Responsive design is a default these days, but we are all still figuring out just the right process and techniques to better craft responsive websites. That’s why we created a new book — to gather practical techniques and strategies from people who have learned how to get things done right, in actual projects with actual real-world challenges.
+Read more...
+Desktop Wallpaper Calendars: April 2015
+By The Smashing Editorial
+March 31st, 2015 Wallpapers 57 Comments
+We always try our best to challenge your artistic abilities and produce some interesting, beautiful and creative artwork, and as designers we usually turn to different sources of inspiration. As a matter of fact, we’ve discovered the best one—desktop wallpapers that are a little more distinctive than the usual crowd.
+This creativity mission has been going on for seven years now, and we are very thankful to all designers who have contributed and are still diligently contributing each month. This post features free desktop wallpapers created by artists across the globe for April 2015. Both versions with a calendar and without a calendar can be downloaded for free. It’s time to freshen up your wallpaper!
+Read more...
+Putting Mobile Back End As A Service Into Practice (Part 1)
+By David Tucker
+March 30th, 2015 AppsTechniquesWeb Development 9 Comments
+In a previous article I introduced mobile back end as a service (MBaaS) which aims at giving app developers the ability to create seamlessly new feature-complete cross-platform native and web applications.
+The next step is implementing a complete demo application using those ideas. Through this real working application, you will be able to see the areas in which MBaaS provides value. This first part will walk you through a messaging application demo powered by the Kinvey application and explore how to leverage user management, file storage and the data store.
+Read more...
+How To Keep Framework Development Simple And Bug-Free
+By Ben Gremillion
+March 27th, 2015 CSSFrameworksResponsive Web Design 16 Comments
+It's just like that for your product, too: people rely on our products to work. Bugs erode trust, which in turn loses customers. So when we began updating Foundation, a responsive CSS framework, we wanted to ensure everything worked. Thoroughly. We know that many people rely on our software for their work, and maintaining that trust is paramount.
+In this article you'll learn our methodology for testing responsively, not just on a case by case, page-from-PSD comp. See, we've developed a certain system to make sure that nothing's broken at launch on different devices.
+Read more...
+Assessing Mobile Usability With Google Webmaster Tools
+By Tim Jensen
+March 25th, 2015 SEOToolsUsability 15 Comments
+Back in 2013, Google officially announced that it would begin to penalize websites that provide a faulty user experience on mobile devices. Specific examples included redirecting inner URLs to a home page when viewed in a mobile version of a website, as well as showing 404 errors to people attempting to access pages on mobile.
+Toward the end of 2014, a Google spokesperson hinted that the mobile user experience would become a ranking factor. In January 2015, a number of website owners received messages warning about mobile usability issues on their websites, linking to a section of Webmaster Tools where they could review the problems.
+Read more...
+123456
+next »
+? Back to top
+Smashing Pages:
+Books
+eBooks
+Workshops
+Email Newsletter
+Job Board
+About us / Impressum
+Categories:
+Coding
+Design
+Mobile
+Graphics
+UX Design
+WP
+? Back to top
+Search on Smashing Magazine
+Search
+? Back to top
+Search on Smashing Magazine
+Search
+Advertisement
+Advertise with us!
+Smashing Newsletter
+Subscribe to our email newsletter for useful tips and valuable resources, sent out every second Tuesday.
+Subscribe
+Meet Smashing Book #5, our new book on real-life responsive design. With front-end techniques and patterns from actual projects, it's a playbook to master all the tricky facets and hurdles of responsive design. Save 25% today.
+Fixing RWD issues can be quite easy — once you understand exactly why they come up. The Mobile Web Handbook will help you understand technical issues on mobile and how to deal with them effectively.
+Hungry for more content? Over 60 eBooks are waiting to be discovered in our lovely Smashing Library. And guess what? You can watch Smashing Conference talks there, too.
+We are proudly hosted on
+Media Temple Dedicated Servers. Performance matters.
+Smashing Job Board
+Developer - Adonit Creative - (Austin, TX) - FullTime
+At Adonit, it is our belief that technology should enable the creative process, not hinder it. We build tools to make your ideas do more in the digital workspace....
+UX Designer, Senior (This position can be located in Salt Lake City, UT or Fairfax, VA) - Ellucian - (Salt Lake City, UT or Fairfax, VA) - FullTime
+Our software is making a difference for over 17 million students worldwide. Innovation and creativity are rewarded within the company, and the UXD team is a respe...
+View more job openings…
+SmashingConf isn't the eighth wonder of the world, but we are pretty close. Join us at at the shores of Santa Monica for SmashingConf LA on April 27–30 or at SmashingConf NYC on June 15–18. You won't be disappointed.
+Smashing Book 5
+With smart front-end techniques from real-life responsive projects. Learn more...
+The Smashing Library
+Grab all published and upcoming Smashing eBooks, in one swoop. Learn more...
+Smashing Workshops
+Join our hands-on full-day workshops, run by experts of the industry. Good stuff. Learn more...
+With a commitment to quality content for the design community.
+Founded by Vitaly Friedman and Sven Lennartz. 2006-2015.
+Made in Germany. ? Write for us – Contact us – Impressum.   Smashing Magazine is an online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. en_US website Smashing Magazine — For Professional Web Designers and Developers Smashing Magazine, an online magazine for professional web designers and developers. http://www.smashingmagazine.com Smashing Magazine https://www.facebook.com/smashmag http://media.mediatemple.netdna-cdn.com/wp-content/themes/smashing-magazine/images/logo.png OsdEeUmLBR57iIbbr9AywCox2 6E3AD52DC176461A3C81DD6E98003BC9 x8Gef-o0wXIZBVOLDRxF3x0YmO9MsN7naJHBRRBeBhA width=device-width, initial-scale=1.0 Smashing Magazine #e53b2c http://media.mediatemple.netdna-cdn.com/wp-content/themes/smashing-magazine/images/smashing-windows-icon-70-70.png http://media.mediatemple.netdna-cdn.com/wp-content/themes/smashing-magazine/images/smashing-windows-icon-150-150.png http://media.mediatemple.netdna-cdn.com/wp-content/themes/smashing-magazine/images/smashing-windows-icon-310-150.png http://media.mediatemple.netdna-cdn.com/wp-content/themes/smashing-magazine/images/smashing-windows-icon-310-310.png frequency=30;polling-uri1=http://notifications.buildmypinnedsite.com/?feed=http://www.smashingmagazine.com/feed/&id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://www.smashingmagazine.com/feed/&id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://www.smashingmagazine.com/feed/&id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://www.smashingmagazine.com/feed/&id=4;cycle=1

@@ -1,0 +1,178 @@
+Amazon Web Services (AWS) - Cloud Computing Services?
+Menu
+Click here to return to Amazon Web Services homepage
+Products
+More
+Create an AWS Account
+My Account
+English
+Explore AWS solutions and products
+Watch the Keynote Live Stream »
+GET STARTED WITH AWS
+Learn how to start using AWS in minutes
+AWS PRICING
+Optimize your spend for both variable or stable workloads
+AWS FREE TIER
+Gain hands-on experience with AWS free for 12 months
+COMPUTE: AWS BATCH
+Fully managed batch processing at any scale
+Explore Our Products
+Compute
+Storage
+Database
+Migration
+Networking & Content Delivery
+Developer Tools
+Management Tools
+Security, Identity & Compliance
+Analytics
+Artificial Intelligence
+Mobile Services
+Application Services
+Messaging
+Business Productivity
+Desktop & App Streaming
+Internet of Things
+Contact Center
+Game Development
+See All Products
+Engineered for the most Demanding Requirements
+Secure
+Comprehensive security capabilities to satisfy the most demanding information security requirements.
+Learn more »
+Compliant
+Rich controls, auditing and broad security accreditations.
+Learn more »
+Hybrid
+Build hybrid IT architectures that extend your on-premises infrastructure to the Cloud.
+Learn more »
+Supporting Virtually any Workload for Over a
+Million Active Customers in 190 Countries
+Web Applications
+Big Data & HPC
+Line of Business Apps
+Backup & Storage
+Disaster Recovery
+Media
+Gaming
+Healthcare & Life Sciences
+Build scalable, high performance websites with a broad set of services geared for modern web applications. Learn more »
+Customers running Web Applications on AWS
+
+
+
+
+
+
+Customer Success Stories from all Industries
+Enterprises Start-ups Public Sector
+View all Enterprise stories »
+
+
+Global Network of Regions and Edge Locations
+The AWS Cloud operates 42 Availability Zones within 16 geographic Regions around the world, with announced plans for eight more Availability Zones and three more Regions.
+Region & Number of Availability Zones
+AWS GovCloud (2)
+US West
+Oregon (3), Northern California (3)
+US East
+Northern Virginia (5), Ohio (3)
+Canada
+Central (2)
+South America
+S?o Paulo (3)
+Europe
+Ireland (3), Frankfurt (2), London (2)
+Asia Pacific
+Singapore (2), Sydney (3), Tokyo (3), Seoul (2), Mumbai (2)
+China
+Beijing (2)
+New Region (coming soon)
+Paris
+Ningxia
+Stockholm
+Learn More »
+AWS PARTNER NETWORK
+Join AWS Partner Network to build & grow your cloud business
+AWS MARKETPLACE
+Launch popular software on AWS in minutes
+2016 MAGIC QUADRANT
+AWS named leader for the 6th consecutive year. Get the Gartner report now
+AWS TRAINING
+On-demand resources to help you develop your skills
+Get Started for Free
+Create a Free Account
+ Twitter  Facebook  Google+  Twitch  AWS Blog  What's New? RSS  Subscribe to Updates
+AWS & Cloud Computing
+What is Cloud Computing?
+Products & Services
+Customer Success
+Economics Center
+Architecture Center
+Security Center
+What's New
+Whitepapers
+AWS Blog
+Events
+Sustainable Energy
+Press Releases
+AWS in the News
+Analyst Reports
+Legal
+Solutions
+Websites & Website Hosting
+Business Applications
+Backup & Recovery
+Disaster Recovery
+Data Archive
+DevOps
+Serverless Computing
+Big Data
+High Performance Computing
+Mobile Services
+Digital Marketing
+Game Development
+Digital Media
+Government & Education
+Health
+Financial Services
+Windows on AWS
+Resources & Training
+Developers
+Java on AWS
+JavaScript on AWS
+Mobile on AWS
+PHP on AWS
+Python on AWS
+Ruby on AWS
+Windows & .NET on AWS
+SDKs & Tools
+AWS Marketplace
+User Groups
+Support Plans
+Service Health Dashboard
+Discussion Forums
+FAQs
+Documentation
+Articles & Tutorials
+Test Drives
+AWS Business Builder
+Manage Your Account
+Management Console
+Billing & Cost Management
+Subscribe to Updates
+Personal Information
+Payment Method
+AWS Identity & Access Management
+Security Credentials
+Request Service Limit Increases
+Contact Us
+Amazon Web Services is Hiring.
+Amazon Web Services (AWS) is a dynamic, growing business unit within Amazon.com. We are currently hiring Software Development Engineers, Product Managers, Account Managers, Solutions Architects, Support Engineers, System Engineers, Designers and more. Visit our Careers page or our Developer-specific Careers page to learn more.
+Amazon Web Services is an Equal Opportunity Employer.
+An amazon.com company
+Language Deutsch English Espa?ol Français Italiano Português ??????? ??? ??? ?? (??) ?? (??)
+Site Terms
+|
+Privacy
+© 2017, Amazon Web Services, Inc. or its affiliates. All rights reserved.  text/html; charset=UTF-8 width=device-width, initial-scale=1.0 IE=edge,chrome=1 Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. index, follow summary Amazon Web Services (AWS) -  Cloud Computing Services Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. https://a0.awsstatic.com/main/images/logos/aws_logo_179x109.gif @awscloud Amazon Web Services (AWS) -  Cloud Computing Services company //aws.amazon.com/ https://a0.awsstatic.com/main/images/logos/aws_logo_179x109.gif Amazon Web Services, Inc. XHghG81ulgiW-3EylGcF48sG28tBW5EH0bNUhgo_DrU 6F92E52A288E266E30C2797ECB5FCCF3 R7xqsRgAio

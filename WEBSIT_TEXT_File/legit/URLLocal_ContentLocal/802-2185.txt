@@ -1,0 +1,69 @@
+StripeHome
+Features
+Pricing
+More
+Checkout
+Subscriptions
+Connect
+Apple Pay
+Bitcoin
+Gallery
+Blog
+About
+Jobs
+Documentation
+Help & Support
+Sign in
+Previous Next
+Web and mobile payments, built for developers
+A set of unified APIs and tools that instantly enables businesses to accept and manage online payments.
+Learn more about Stripe Sign up
+Checkout
+A beautiful, optimized, cross-device payment form, with support for single click payments.
+Explore Checkout Documentation
+Payments for platforms
+Marketplaces and platforms can use Stripe Connect to let sellers around the world get paid.
+Explore Connect Documentation
+Payments infrastructure for the internet
+Whether you’re building a marketplace, mobile app, online storefront, or subscription service, Stripe has the features you need.
+Explore the Stripe stack Sign up
+Stripe goes global
+Businesses in Australia, the US, Canada, the UK, Ireland, and more can now use Stripe to accept payments from around the world.
+Learn more about Stripe Sign up
+Accept Bitcoin today. Instantly enable Bitcoin payments from customers around the world. Get started
+Feature-packed payments
+Card storage, subscriptions, and more.
+See all features
+Simple pricing
+Leave complex fee structures behind.
+Learn more
+Natively web & mobile
+JavaScript & native libraries available.
+View documentation
+© Stripe
+United States
+Australia
+Canada
+United Kingdom
+Ireland
+United States
+Austria Beta
+Belgium Beta
+Denmark Beta
+Finland Beta
+France Beta
+Germany Beta
+Italy Beta
+Luxembourg Beta
+Netherlands Beta
+Norway Beta
+Spain Beta
+Sweden Beta
+Switzerland Beta
+Stripe is expanding, more countries coming soon
+Status
+Blog
+About
+Jobs
+Contact
+Privacy & Terms   IE=edge text/html; charset=utf-8 f0LCrdI6z4Fo8zld4sHCgo5SiUE4EYYRUa6KVeX3Mw8 Stripe is a suite of APIs that powers commerce for businesses of all sizes. https://stripe.com/img/open-graph/logo.png?2 width=device-width, initial-scale=1, maximum-scale=1

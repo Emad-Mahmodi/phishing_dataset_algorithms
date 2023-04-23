@@ -1,0 +1,52 @@
+GTmetrix | Website Speed and Performance OptimizationFeatures Resources Blog GTmetrix PRO
+Log In Sign Up
+Analyze your site’s speed and make it faster.
+GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
+Analyze
+Latest News
+View Changes
+We show you how to optimize your images, step-by-step, in our practical guide! Get started here:… https://t.co/ycAEyc9ffi
+April 20, 2017
+If you've been having issues testing on Chrome / Chrome Android, give it a try now!
+April 17, 2017
+PayPal Spotify GoDaddy Nordstrom Nike Travelocity HP NBC ASOS
+176,043,880 pages analyzed so far.
+Join thousands of people and companies around the world committed to making the web consistently fast.
+GTmetrix tells you a lot about your website performance.
+Our Report gives you the full picture on how your site loads and helps you detect where bottlenecks are.
+Get more insight on the inner workings of your site.
+Additional features give you details and data beyond an initial glance.
+Monitor Pages
+Schedule GTmetrix to test your pages daily, weekly or monthly to ensure your site stays optimized.
+GTmetrix PRO users get access to hourly monitoring.
+Set up Monitored Alerts
+Get alerts if your page triggers a certain condition!
+Set numerous conditions based on PageSpeed/YSlow score, Page load time, Total Page size, etc, and get an e-mail notification whenever any are triggered.
+Test from Multiple Regions
+Analyze the loading of your site from different regions around the world to see how users in the area would see it.
+12 servers in 7 different areas globally gives you a wide geographic reach for analyzing your sites.
+Analyze with Mobile
+See your page performance on an actual Android phone (only available at our Vancouver region)!
+GTmetrix visits your page through an Android phone to get real world performance data on your page load.
+Video Capture
+Record a video of your page loading and pinpoint exactly where bottlenecks occur!
+Slow your playback up to 4 times the original speed, jump to major page load milestones, and get a filmstrip view that gives you a different visualization of your page load.
+Take advantage of all of the powerful tools GTmetrix has to offer.
+See additional features
+Analyze your site now and see how well it performs!
+Take advantage of all the features GTmetrix has to offer and make your site the fastest it can be!
+Try it for FREE!
+Need to use GTmetrix in a professional capacity? Check out GTmetrix PRO!
+Frequently Asked Questions
+Top 1000 Sites
+Test Server Locations
+GTmetrix REST API
+Contact Us
+About the Developer
+GTmetrix was developed by GT.net as a tool for our managed hosting customers to easily determine the performance of their sites.
+Learn more about GT.net »
+Come and Follow Us
+Follow us on Twitter @gtmetrix
+Like us on Facebook
+Check us out on Google+
+Terms of Service  |  © 2017 GT.net  IE=edge width=device-width, initial-scale=1, user-scalable=no GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them.

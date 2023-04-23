@@ -1,0 +1,69 @@
+Codrops | Useful resources and inspiration for creative mindsCodrops
+Tutorials Playground Blueprints Collective CSS Reference
+Developer/Designer Page Layout Concept
+In Playground by Mary Lou Apr 18
+An experimental page layout concept with a developer/designer theme and a special image reveal effect.
+READ MORE
+LATEST ARTICLES
+Inspiration for Grid Loading Animations
+In Playground by Mary Lou Apr 11, 2017 10 Comments
+Experimental 3D Room Exhibition Layout
+In Playground by Mary Lou Mar 30, 2017 9 Comments
+Expanding Bar Navigation Concept
+In Playground by Mary Lou Mar 23, 2017 19 Comments
+Stack Motion Hover Effects
+In Playground by Mary Lou Mar 15, 2017 8 Comments
+Freebie: Hand-drawn Geek’s Treasure Chest (AI, EPS, PDF, SVG, PNG)
+In Freebies by Tatiana Lapina Mar 3, 2017 2 Comments
+First Person Sunglasses Try-On Experiment
+In Playground by Mary Lou Feb 27, 2017 9 Comments
+Inspiration for Search UI Effects
+In Playground by Mary Lou Feb 8, 2017 30 Comments
+Freebie: Drone Icons (AI, Sketch, SVG, PNG, Iconjar)
+In Freebies by Round Icons Jan 24, 2017 5 Comments
+Freebie: Smoothies Icon Set (AI, SVG, PNG)
+In Freebies by Manuela Langella Jan 20, 2017 4 Comments
+Little Fragments: Creating a Simple Image Poster Effect
+In Tutorials by Mary Lou Jan 19, 2017 11 Comments
+Mirror Effect
+In Playground by Mary Lou Jan 4, 2017 7 Comments
+VIEW ALL
+CSS Reference
+ALL ENTRIES
+LATEST WEB DESIGN & DEVELOPMENT NEWS:
+Collective #307
+Wednesday, April 19, 2017
+React Move * Pink Trombone * Better Git configuration * Super Tiny Social Icons * CSS Grid Cheat Sheet * Pure ...
+Collective #306
+Saturday, April 15, 2017
+CodeSandbox * WebVR Experiments * RAGrid * Teaching Machines to Draw * zeroheight * Plug & Paid * Building Blo...
+Collective #305
+Wednesday, April 12, 2017
+JavaScript Basics course * Boilrplate * LabWorm * The History of the Web * React Conf 2017 * AutoDraw * Griddy...
+VIEW ALL
+LATEST BLUEPRINTS
+Multi-Level Menu
+Page Stack Navigation
+Zoom Slider
+VIEW ALL
+NEWS & UPDATES:
+A Look Back at 2016: Round-up of Codrops Resources
+A Look Back at 2015: Round-up of Codrops Resources
+VIEW ALL
+Advertisement
+Check out our deals & offers!
+Find great discounts for many useful services and resources on our Deals & Offers page!
+Hot on Codrops:
+Inspiration for Search UI Effects
+Block Reveal Effects
+Interactive Musical Instruments
+Tilt Hover Effects
+Advertisement
+Tutorials Articles Playground Blueprints CSS Reference
+News Giveaways Freebies Collective
+About Contact Archives Deals
+Advertise Privacy Policy License Credits
+© Codrops 2017 by
+Tympanus
+Content delivered by
+Content Distribution Network   IE=edge,chrome=1 width=device-width, initial-scale=1.0 #2b5797 https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/themes/codropstheme03/favicons/mstile-144x144.png /codrops/wp-content/themes/codropstheme03/favicons/browserconfig.xml Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. noodp en_US website Codrops Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. https://tympanus.net/codrops/ Codrops 100014481997949 https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2017/04/codrops-logo_300x300.png WordPress 4.7.3

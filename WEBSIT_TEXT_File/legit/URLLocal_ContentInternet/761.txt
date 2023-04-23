@@ -1,0 +1,88 @@
+MySQLContact MySQL  | 
+Login  |  Register
+The world's most popular open source database
+MySQL.com Downloads Documentation Developer Zone
+Products Cloud Services Partners Customers Why MySQL? News & Events How to Buy
+MySQL Enterprise Edition
+Learn More »
+MySQL for OEM/ISVs
+Learn More »
+Oracle MySQL Cloud Service
+Learn More »
+Free Webinars
+Better DevOps (IT and Business Alignment) with MySQL
+On Demand
+New MySQL Enterprise Backup 4.1: Better Very Large Database Backup & Recovery and More!
+On Demand
+Discover MySQL Cluster 7.5
+On Demand
+More »
+White Papers
+MySQL for the Internet of Things
+What’s New in MySQL 5.7
+Executive Guide: Enabling Digital Transformation with Oracle MySQL Cloud Service
+Guide to MySQL High Availability
+Guide to Scaling Web Databases with MySQL Cluster
+More »
+MySQL Engineering Blogs
+More Metadata Is Written Into Binary Log
+New monitoring replication features and more!
+MySQL 8.0.1: Japanese collation for utf8mb4
+MySQL 8.0.1: Accent and case sensitive collations for utf8mb4
+MySQL InnoDB Cluster GA is Available Now!
+CONTACT SALES
+USA: +1-866-221-0634
+Canada: +1-866-221-0634
+
+Germany: +49 89 143 01280
+France: +33 1 57 60 83 57
+Italy: +39 02 249 59 120
+UK: +44 207 553 8447
+
+Japan: 0120-065556
+China: 10800-811-0823
+India: 0008001005870
+
+More Countries »
+Contact Us Online »
+PRODUCTS
+MySQL Enterprise Edition
+MySQL Standard Edition
+MySQL Classic Edition
+MySQL Cluster CGE
+MySQL Embedded (OEM/ISV)
+
+SERVICES
+Training
+Certification
+Consulting
+Support
+DOWNLOADS
+MySQL Community Server
+MySQL NDB Cluster
+MySQL Shell
+MySQL Router
+MySQL Workbench
+
+ABOUT MYSQL
+Contact Us
+How to Buy
+Partners
+Job Opportunities
+Site Map
+DOCUMENTATION
+MySQL Reference Manual
+MySQL Workbench
+MySQL NDB Cluster
+MySQL Connectors
+Topic Guides
+
+LEGAL
+Legal Policies
+Your Privacy Rights
+Terms of Use
+Trademark Policy
+Contributor Agreement
+Cookie Preferences
+  © 2017, Oracle Corporation and/or its affiliates
+( Deutsch | Français | Italiana | ?? )   width=device-width, initial-scale=1.0 en

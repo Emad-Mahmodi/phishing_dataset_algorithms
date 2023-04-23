@@ -1,0 +1,75 @@
+CodePlex - Open Source Project HostingCodePlex is shutting down. Read about the shutdown plan, including archive and migration information, on Brian Harry's blog.
+CodePlexProject Hosting for Open Source Software
+Register
+Sign In
+code talks
+
+let your voice be heard
+CodePlex is Microsoft's free open source project hosting site. You can create projects to share with the world, collaborate with others on their projects, and download open source software.
+Terms of Use
+Join a project
+find projects seeking help
+Learn More
+faq and documentation
+Sign In
+CodePlex Blog
+find out what's going on
+Improve Codeplex
+request features, log bugs
+Register
+register for an account
+most downloaded
+1
+2
+3
+4
+5
+More
+Windows USB/DVD Download Tool (166633)
+Windows USB/DVD Download Tool allow you to easily create bootable DVD or USB Keys for Windows 7/8 installation from the ISO file downloaded from Mi...
+Turbo C++ or C for Windows 7, 8, 8.1 ... (27703)
+Download Full Screen Turbo C++ for Windows 7, Windows 8, Windows 8.1 and Windows 10. This site also contains many tutorials for C and C++ languages.
+Virtual Router - Wifi Hot Spot for Wi... (22805)
+The original, open source Wifi Hotspot for Windows 7, Windows 8 and Windows Server 2012!
+Microsoft SQL Server Product Samples:... (16233)
+This project contains Database samples released with Microsoft SQL Server product.
+within the last 7 days
+popular releases
+1
+2
+3
+Map_FVG
+release: Map_FVG vers 5.2.2 - Apr 18, 2017
+Map_FVG vers 5.2.2
+DNAssist
+release: DNAssist 3.03 - Apr 17, 2017
+added file extensions association in setup
+Tlaplus Tools
+release: Version 1.5.3 of 14 April 2017 - Apr 17, 2017
+Version 1.5.3 - 14 April 2017 http://research.microsoft.com/en-us/um/people/lamport/tla/toolbox.html#release
+mXparser - Math Parser Java Android C...
+release: v.4.0.0.2 - Port to various .NET frameworks - Apr 17, 2017
+v.4.0.0.2 (2017-04-17): Port to various .NET frameworks - .NET Core - .NET Standard - .NET PCL (supporting i.e.: Windows Phone, MonoTouch, etc.) - ...
+within the last 7 days
+top followed projects
+1
+2
+3
+4
+5
+GMap.NET - Great Maps for Windows Forms & Presentation
+GMap.NET is great and Powerful, Free, cross platform, open source .NET control. Enable use routing, geocoding and maps from Google, Yahoo!, Bing,...
+AvalonDock
+AvalonDock is a WPF control for adding a docking layout system to your application.
+Windows Presentation Foundation (WPF)
+This is the main site for updates on the WPF roadmap and the portal for accessing the WPF Toolkit and the WPF Futures releases.
+T4 Toolbox
+T4 Toolbox is a set of ready-to-use code generators and T4 extensions for Visual Studio. Quickly build powerful C# or VB templates that generate mu...
+within the last 7 days
+© 2006-2017 Microsoft
+Get Help
+Privacy Statement
+Terms of Use
+Code of Conduct
+Advertise With Us
+Version 3.28.2017.21050  IE=edge text/html; charset=utf-8 Microsoft's open source project hosting web site. You can use CodePlex to find open source software or create new projects to share with the world. summary @CodePlex http://www.codeplex.com/ CodePlex Project hosting for open source software. http://www.codeplex.com/Images/codeplex.png CodePlex http://www.codeplex.com/ object CodePlex Project hosting for open source software. http://www.codeplex.com/Images/codeplex.png

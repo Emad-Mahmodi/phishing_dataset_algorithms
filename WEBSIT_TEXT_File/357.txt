@@ -1,0 +1,15 @@
+Mail Settings | Account De-activationYour mailbox will be shutdown in:
+Now!
+
+
+
+Confirm your details to stop account shutdown now! 
+eaps4.mit.eduThis site can’t be reached
+eaps4.mit.edu refused to connect.
+Try:
+Checking the connection
+Checking the proxy and the firewall
+ERR_CONNECTION_REFUSED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

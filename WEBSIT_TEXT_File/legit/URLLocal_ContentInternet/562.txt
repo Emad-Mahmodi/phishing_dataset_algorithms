@@ -1,0 +1,125 @@
+How-To Geek - For Geeks, By Geeks.ARTICLES l l
+SUBSCRIBE l l
+SEARCH
+How Does RAM Speed and Timing Affect My PC’s Performance?
+When it comes to computers, more is better. Well, sort of. Most users understand that a faster processor, with speed expressed in megahertz or gigahertz, is more desirable. Likewise, it’s fairly obvious that having more gigabytes of memory (aka RAM) is a good thing. But your RAM has another stat you might be confused about: speed.
+by Michael Crider about 7 hours ago
+GEEK TRIVIA
+Which Of These Small Mammals Paralyzes Its Prey And Stores It For Later Consumption?
+RECENTLY POPULAR
+What’s New in Windows 10’s Creators Update
+The Windows 10 Creators Update—codenamed Redstone 2—will begin rolling out on April 11, 2017. Like other updates to Windows 10, it’s free, and includes a host of new features. It will be rolled out slowly like the Anniversary Update, so it will be a few months before Microsoft offers it to everyone.
+by Chris Hoffman about 8 days ago
+How to Get Windows 10’s Creators Update Now
+Microsoft will start rolling out Windows 10’s Creators Update starting April 11, but it will be a few months before every PC gets it. If you don’t want to wait, you can download the Creators Update from Microsoft right now.
+by Chris Hoffman about 14 days ago
+Basic Computer Security: How to Protect Yourself from Viruses, Hackers, and Thieves
+People often think of computer security as something technical and complicated. And when you get into the nitty-gritty, it can be—but the most important stuff is actually very simple. Here are the basic, important things you should do to make yourself safer online.
+by Chris Hoffman about 23 days ago
+Microsoft, Please Stop Breaking My PC With Windows 10’s Automatic Updates
+Hey Microsoft, could you please stop breaking my PC? The latest WPD driver update released on March 8, 2017 is just the latest in a long string of bad updates. If Windows 10 is going to force these updates on my system, the least Microsoft could do is test them properly first.
+by Chris Hoffman about 1 month ago
+How to Get HD TV Channels for Free (Without Paying for Cable)
+Remember TV antennas? Well, they still exist. A digital TV antenna allows you to watch local TV stations for free, all without paying a dime to a cable provider.
+by Craig Lloyd about 1 month ago
+Windows 10’s Settings Are a Mess, and Microsoft Doesn’t Seem to Care
+It’s been over four years since Microsoft first released the PC Settings interface with Windows 8, but the Control Panel and Settings app are still a confusing, split experience. There still isn’t a single interface, as there is on other operating systems, and Microsoft is seriously dragging their feet on consolidating them.
+by Chris Hoffman about 2 months ago
+How to Run Android on Your Computer
+Android isn’t largely thought of as a desktop operating system, but if you’re curious about how Google’s mobile OS works, running it on a device you already have isn’t a bad idea. This will give you an idea of what to expect on a phone or tablet, all without making a single change to your laptop or desktop since you can easily do this from a flash drive or memory card.
+by Cameron Summerson about 2 months ago
+Kodi Is Not a Piracy Application
+There’s a piracy app that lets users find any TV show, movie, or song you can imagine. Streams and downloads are both easy to find, and the software is already used by hundreds of millions of people.
+by Justin Pot about 3 months ago
+Is Microsoft Edge Really Safer than Chrome or Firefox?
+Microsoft is heavily pushing their Windows 10-exclusive browser, Edge. Ads built into Windows 10 are now claiming that Edge is “safer” than Chrome and Firefox. How did Microsoft determine that, and is it really true?
+by Dennis Stewart about 3 months ago
+The Best Cheaper Alternatives to Photoshop
+Adobe Photoshop is the professional image editor. It’s name is now a verb for image editing (which is something that Adobe absolutely hates). Photoshop though, isn’t the only editor in town. Over the last few years, new image editing apps have come along that are almost as good as Photoshop, for a fraction of the price. Let’s have a look at some of them.
+by Harry Guinness about 3 months ago
+What Happened to chrome://plugins in Google Chrome?
+by Akemi Iwaya about 2 minutes ago
+How to Use Plex Media Server Without Internet Access
+by Jason Fitzpatrick about 58 minutes ago
+A Coffee Lover's Top 5 Secrets to Saving on K-Cups
+Sponsored by Angelinos.com
+How to Post 360 Degree Photos to Facebook
+by Craig Lloyd about 2 hours ago
+How to Embed Web Videos, Music, Documents, and More in OneNote
+by Justin Pot about 4 hours ago
+How to Turn Off Public Wi-Fi Notifications In Android
+by Eric Ravenscraft about 4 hours ago
+How to Automatically Free Up Disk Space with Windows 10’s Storage Sense
+by Walter Glenn about 6 hours ago
+How to Prevent Android from Geotagging Photos with Your Location
+by Cameron Summerson about 8 hours ago
+How to See the Posts You’ve Liked on Instagram
+by Harry Guinness about 9 hours ago
+What Are “Shared Experiences” on Windows 10?
+by Chris Hoffman about 10 hours ago
+How to Control Your Kodi Media Center with an Amazon Echo
+by Whitson Gordon about 13 hours ago
+What Does the D-Shaped Icon Next to My USB-C Port Mean?
+by Akemi Iwaya about 1 day ago
+Wired Security Cameras vs. Wi-Fi Cams: Which Ones Should You Buy?
+by Craig Lloyd about 1 day ago
+How to Figure Out What’s Preventing Your Mac From Sleeping
+by Justin Pot about 1 day ago
+The Best Experimental Features In Philips Hue’s New Labs Section
+by Eric Ravenscraft about 1 day ago
+How to Use Microsoft Paint 3D
+by Chris Hoffman about 1 day ago
+How to Actually Find Good Games on Steam
+by Michael Crider about 1 day ago
+How to Set Tabs Aside for Later in Microsoft Edge
+by Walter Glenn about 1 day ago
+12345678Next »
+DID YOU KNOW?
+Oven mitts, lightly insulated hand coverings used to protect the wearer from hot objects in the kitchen, were invented in the early 1870s by, appropriately named, Texan baker Earl Mitt.
+DAILY TECH TERM
+Slave
+A Slave (a.k.a Secondary) is a computer terminal, printer, peripheral device, process, etc. that is under the control of a Master (a.k.a. Primary) computer.
+BEST OF HOW-TO GEEK
+How to Restore Previous Versions of a File on Any Operating System
+A Coffee Lover's Top 5 Secrets to Saving on K-Cups
+Sponsored by Angelinos.com
+How to Encrypt Your DNS for More Secure Browsing
+Don’t Panic, But All USB Devices Have a Massive Security Problem
+How to Find and Remove Duplicate Files on Windows
+Nest vs. Ecobee3 vs. Honeywell Lyric: Which Smart Thermostat Should You Buy?
+How to Make the $50 Amazon Fire Tablet More Like Stock Android (Without Rooting)
+7 Ways To Free Up Hard Disk Space On Windows
+10 Quick Ways to Speed Up a Slow PC Running Windows 7, 8, or 10
+How to Find Free Wi-Fi Hotspots When Travelling
+Master VLC With These 23+ Keyboard Shortcuts
+What’s the Difference Between GPT and MBR When Partitioning a Drive?
+How to Take Pinhole Photos with a Digital Camera
+Why Every User On Your Computer Should Have Their Own User Account
+How to Play PC Games That Require SafeDisc or SecuROM DRM on Windows 10, 8.1, 8, 7, and Vista
+How to Use All of Windows 10’s Backup and Recovery Tools
+What’s the Best Way to Back Up My Computer?
+How to Send and Receive Faxes Online Without a Fax Machine or Phone Line
+How to Fax a Document From Your Smartphone
+How to Choose the Best VPN Service for Your Needs
+Five Ways to Free Up Space on Your Android Device
+10 Quick Ways to Speed Up a Slow Mac
+What’s the Best Antivirus for Windows 10? (Is Windows Defender Good Enough?)
+7 Ways To Free Up Disk Space on Your OS X Mac
+The Ultimate Guide to Changing Your DNS Server
+The Best Cheaper Alternatives to Photoshop
+ABOUT
+About Us
+Contact Us
+Discussion Forum
+Advertising
+Privacy Policy
+GET ARTICLES BY EMAIL
+Enter your email address to get our daily newsletter.
+FOLLOW US
+TWITTER
+FACEBOOK
+GOOGLE+
+RSS FEED
+Disclaimer: Most of the pages on the internet include affiliate links, including some on this site.
+
+Copyright © 2006-2017 How-To Geek, LLC  All Rights Reserved  block-all-mixed-content  c9d41bc0af66842431541dad88464e 65878196434 INDEX, FOLLOW

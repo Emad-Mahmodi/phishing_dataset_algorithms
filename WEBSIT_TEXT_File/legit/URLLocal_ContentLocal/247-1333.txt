@@ -1,0 +1,77 @@
+MySQL :: The world's most popular open source databaseSkip navigation links
+The world's most popular open source database
+Contact MySQL | Login | Register
+             MySQL.com
+Downloads
+Documentation
+Developer Zone
+Products
+Services
+Partners
+Customers
+Why MySQL?
+News & Events
+How to Buy
+  MySQL Enterprise Edition
+Learn More »
+Free Webinars
+What’s New in MySQL Cluster 7.4
+Thursday, April 09, 2015
+MySQL Security, What’s New
+Thursday, April 23, 2015
+Even Better MySQL & Java Applications: Advice from a MySQL Connector/J User and Developer
+Wednesday, May 20, 2015
+More »
+MySQL for OEM/ISVs
+Learn More »
+White Papers
+MySQL Cluster 7.4 - New Features
+MySQL Cluster - Optimizing Performance
+MySQL Cluster Evaluation Guide
+A Guide to MySQL and PCI Data Security Standard Compliance
+MySQL Workbench Migration Wizard - Migrating from Microsoft Access to MySQL
+More »
+MySQL Cluster CGE
+Learn More »
+MySQL Engineering Blogs
+InnoDB ???? : MeCab Parser
+New MySQL Enterprise Firewall – Prevent SQL Injection Attacks
+Deprecating Weaker Encryption Functions
+InnoDB ???? : N-gram Parser
+InnoDB?????N-gram Parser
+Products
+MySQL Enterprise Edition
+MySQL Standard Edition
+MySQL Classic Edition
+MySQL Cluster CGE
+MySQL Embedded (OEM/ISV)
+Downloads (GA)
+MySQL Server
+MySQL Cluster
+MySQL Fabric
+MySQL Utilities
+MySQL Workbench
+Documentation
+MySQL Reference Manuals
+MySQL Workbench
+Expert Guides
+Topic Guides
+MySQL Cluster
+Services
+Training
+Certification
+Consulting
+Support
+About MySQL
+Contact Us
+How to Buy
+Partners
+Job Opportunities
+Site Map
+Legal
+Legal Policies
+Your Privacy Rights
+Terms of Use
+Trademark Policy
+Contributor Agreement
+  © 2015, Oracle Corporation and/or its affiliates  

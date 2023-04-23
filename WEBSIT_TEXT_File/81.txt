@@ -1,0 +1,14 @@
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.zonacentrala.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.zonacentrala.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+This website is currently unavailable.The website you were trying to reach is temporarily unavailable.
+Please check back soon.
+If you are the owner of this website, please log in for additional
+information or contact us as soon as possible.  text/html; charset=utf-8

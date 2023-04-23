@@ -1,0 +1,114 @@
+SourceForge - Download, Develop and Publish Free Open Source SoftwareSourceForge
+Browse Enterprise Blog Deals Help
+Create
+Log In or Join
+SOLUTION CENTERS
+Resources Newsletters Cloud Storage Providers Business VoIP Providers Internet Speed Test Call Center Providers
+Find, Create, and Publish Open Source software for free
+THIS WEEK:
+33,394,774 DOWNLOADS
+14,147 CODE COMMITS
+2,352 FORUM POSTS
+1,155 BUGS TRACKED
+MORE DETAILS
+Advertisement
+Advertisement - Report
+Audio & Video
+Business & Enterprise
+Communications
+Development
+Home & Education
+Games
+Graphics
+Science & Engineering
+Security & Utilities
+System Administration
+@sourceforge
+Pandora FMS, the flexible, enterprise-ready monitoring system is back as a Project of the Week! https://t.co/posimImdWT #pandora #potw
+Get a load of this week's great lineup of Projects of the Week! https://t.co/LI9lTRRCWy #potw #opensource
+Advertisement - Report
+Projects Of The Month
+Staff Choice Bulk Crap Uninstaller
+Remove large amounts of unwanted applications quickly.
+Download
+Windows
+Community Choice Liferay Portal
+The world's leading open source portal
+Download
+Windows BSD Mac Linux
+Editor's Choice
+OPTOSS NG-NetMS
+OptOSS Next Gen Network Management System (NG-NetMS)
+Download
+MinGW - Minimalist GNU for Windows
+A native Windows port of the GNU Compiler Collection (GCC)
+Download
+The FreeDOS Project
+FreeDOS is a free DOS-compatible operating system.
+Download
+SharpDevelop
+A free IDE for C#, VB.NET, & Boo projects on Microsoft's .NET platform
+Download
+Featured
+gretl
+A cross-platform statistical package for econometric analysis
+Download
+Freeplane
+Application for Mind Mapping, Knowledge and Project Management
+Download
+antergos
+A modern, elegant and powerful operating system based on Arch Linux.
+Download
+grepwin
+A powerful and fast search tool using regular expressions
+Download
+VICE
+Versatile Commodore Emulator
+Download
+DxWnd
+Window hooker to run fullscreen programs in window and much more...
+Download
+TeXworks
+A simple interface for working with TeX documents
+Download
+Pandora FMS: Flexible Monitoring System
+Open Source Monitoring System for performance and availability.
+Download
+movistartv
+Movistar+ Deco Virtual - Software decodificador
+Download
+From the Blog
+Today in Tech – 1957
+On this day in 1957, the first FORTRAN program was run. Back in 1953, IBM computer scientist John W. Backus proposed to his superiors that a more practical language be developed for programming their IBM 704 mainframe computer. He along with a team of programmers later invented FORTRAN, a “high-level” programming language that greatly simplified […]
+Read more…
+Projects of the Week, April 17, 2017
+Here are the featured projects for the week, which appear on the front page of SourceForge.net: movistartv Kodi Movistar+ TV es un ADDON para XBMC/ Kodi que permite disponer de un decodificador de los servicios IPTV de Movistar integrado en uno de los mediacenters mas populares. El proyecto no trata solo de replicar los servicios […]
+Read more…
+Advertisement - Report
+Advertisement - Report
+
+
+
+
+
+SourceForge
+About
+Site Status
+@sfnet_ops
+Find and Develop Software
+Create a Project
+Software Directory
+Top Downloaded Projects
+Community
+Blog
+@sourceforge
+Resources
+Help
+Site Documentation
+Support Request
+© 2017 Slashdot Media. All Rights Reserved.
+Terms Privacy Cookie Preferences Opt Out Choices Advertise
+Get latest updates about Open Source Projects, Conferences and News.
+Sign up for the SourceForge newsletter:
+I agree to receive quotes, newsletters and other information from sourceforge.net and its partners regarding IT services and products. I understand that I can withdraw my consent at any time. Please refer to our Privacy Policy or Contact Us for more details
+No, thanks    Free, secure and fast downloads from the largest Open Source applications and software directory - SourceForge.net Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software 0279349BB9CF7ACA882F86F29C50D3EA width=device-width, initial-scale=1.0

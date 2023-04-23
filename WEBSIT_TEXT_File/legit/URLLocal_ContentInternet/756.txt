@@ -1,0 +1,105 @@
+CodePen - Front End Developer Playground & Code Editor in the BrowserCodePen
+Pens Projects Posts Collections Spark Jobs
+Create
+Log In
+Sign Up
+CodePen is a playground for the front end web.
+Show off your latest creation and get feedback. Build a test case for that pesky bug. Find example design patterns and inspiration for your projects.
+Find out more Sign me up
+Background by yoksel
+CodePen for
+TEAMS
+CodePen for
+EDUCATION
+CodePen for
+PRIVACY
+CodePen for
+WRITING
+Picked Pens
+VIEW MORE PENS
+Super Rockin' Awesome RGB Color Guessing Game
+Rita Bradley   PRO
+362 0 8
+Apple Music Bubble UI
+CJ Gammon
+333 0 6
+Camera flow
+Louis Hoebregts   PRO
+403 1 15
+Hex-a-portal (Dynamic + RGB)
+Varun Vachhar   PRO
+372 2 16
+A Pen by Berrak Nil
+Berrak Nil   PRO
+347 0 5
+Day 37 Laptop #dailycssimages
+Emily Shirley
+382 1 7
+Next
+Picked Projects
+VIEW MORE PROJECTS
+React GSAP Animation
+Simple animation made for a talk at university
+Lisi
+1,278 1 16
+Progressbar when scroll
+Progressbar circle when scroll
+Maruf-Al Bashir
+1,519 0 10
+Picked Posts
+VIEW MORE POSTS
+The Danger Crew RPG: Lessons Learned
+The day is finally here. The Danger Crew, an RPG game built with React and Redux, is ready to play!
+I made a Celebration Pen for it:
+The Danger Crew Celebration Dance Party
+Intro...
+Drew Conley   PRO
+6,659 8 87
+All-CSS Switch from #OrlandoCodePen
+At the #OrlandoCodePen meetup tonight, one of the demos was an iOS-inspired toggle switch made with a couple of divs, some CSS, and a little bit of javascript.
+It got me thinking about solving the...
+Marcus Burnette   PRO
+7,182 10 188
+Maintaining Legend And Zoom State In ZingChart With Local Storage
+Local Storage
+This is a small post to show ZingChart users how to use local storage with our charts. The main reason you would use local storage with ZingChart is to preserve the graph interactions...
+Nick   PRO
+518 0 1
+Picked Collections
+VIEW MORE COLLECTIONS
+47 PENS
+The Game of Life
+Less than 2 or greater than 3 neighbors, die. 2 or 3 neighbors, remain alive. Exactly 3 neighbors, become alive.
+Chris Coyier   PRO
+3,599 19
+13 PENS
+Navigation
+Responsive navigation patterns
+Elizabeth Hansen
+9,031 92
+20 PENS
+Basic CSS Themes
+Testing and building different themes for http://staticresource.com/basic.css
+Github Gist: https://gist.github.com/tomhodgins/e330ec1826d1cde2b8b0
+Usage
+Add this stylesheet to...
+Tommy Hodgins   PRO
+8,668 46
+Sponsor
+Lookin' Good
+Free shipping, anywhere in the world, on T-Shirts.
+CodePen Radio
+An inside look from Team CodePen on what it's like running a web business. Everything from server infrastructure, to day-to-day operations, to new feature development.
+Podcast Home
+Subscribe on:   iTunes  ·  Android
+You can sponsor an episode too!
+CodePen: A Playground for the Web.
+Show off your latest creation and get feedback. Build a test case for that pesky bug. Find example design patterns and inspiration for your projects.
+Find out more!
+or Sign up here!
+CodePen About Blog Podcast Advertising Docs Support Shop
+Community Jobs Meetups Teams Patterns Code of Conduct
+Social Twitter Facebook Flickr Instagram
+CodePen
+©2017 CodePen
+Demo or it didn't happen.   width=device-width authenticity_token +CVPhJwI4rkFAsl3se0tK4+7SPw2YD/V+chMq33tJMuGUIUWY6UVz3dtow5fTuiY40nFARoZS4TiDo0D03902A== #603cba /favicons/mstile-144x144.png /favicons/browserconfig.xml https://production-assets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png CodePen A front end web development playground.

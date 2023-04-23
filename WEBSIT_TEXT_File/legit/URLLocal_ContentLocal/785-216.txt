@@ -1,0 +1,95 @@
+SourceForge - Download, Develop and Publish Free Open Source SoftwareSourceForge
+Browse Enterprise Blog Help Jobs
+Log In or Join
+Solution Centers
+Go Parallel
+Resources Newsletters
+Find, Create, and Publish Open Source software for free
+This Week:
+30,952,208 Downloads
+16,044 Code Commits
+1,813 Forum Posts
+6,615 Bugs Tracked
+More Details
+Audio & Video
+Business & Enterprise
+Communications
+Development
+Home & Education
+Games
+Graphics
+Science & Engineering
+Security & Utilities
+System Administration
+@sourceforge
+Migrate from Google Code to @SourceForge! We support Git, Mercurial, &amp; SVN repos! http://t.co/0g2ak8klXy http://t.co/p1QZULNVnR
+Follow the @eXoPlatform team and learn how they drive their project to success with #SourceForge! http://t.co/BQXfk3kecT
+Projects Of The Month
+Staff Choice GNS3
+A graphical network simulator to design and configure virtual networks
+Download
+Windows BSD Mac Linux
+Community Choice simutrans
+A free transportation simulator game
+Download
+BSD Windows Mac Linux
+Editor's Choice
+BIRT iHub F-Type
+Free report server for creating data-driven apps
+Download
+Windows
+eXo Platform - Social Collaboration
+The open source, enterprise social platform
+Download
+Windows Mac Linux
+Bonita BPM
+A Business Process Mangement (BPM) Suite and workflow engine
+Download
+Windows Solaris Linux
+GroundWork Monitor
+GET FREE SUPPORT: http://www.gwos.com/register-core
+Download
+Featured
+CaesarIA (openCaesar3)
+Remake of the classic Caesar III game
+Download
+antiX-Linux
+antiX is a fast, lightweight and easy to install linux live CD distribution based on Debian Testing for Intel-AMD x86 compatible systems.
+Download
+ConEmu - Windows console with tabs
+Windows Console Emulator, Far Manager plugins
+Download
+DjVuLibre
+DjVu is a web-centric format for distributing documents and images. DjVu was created at AT&T Labs-Research and later sold to LizardTech Inc. ...
+Download
+XBian
+XBian is a small, fast and lightweight media center linux distro
+Download
+Alt-F
+a free alternative firmware for the DLink DNS-320/320L/321/323/325
+Download
+SMPlayer
+Free media player with support for Youtube
+Download
+Pinguy OS
+Pinguy OS an out-of-the-box working operating system for everyone, not just geeks.
+Download
+Eclipse Tomcat Plugin
+Simple handling of a tomcat server in Eclipse IDE
+Download
+From the Blog
+Project of the Week, April 6, 2015
+Here are the featured projects for the week, which appear on the front page of SourceForge.net: GNS3 GNS3 is a graphical network simulator that allows you to design complex network topologies. You may run simulations or configure devices ranging from simple workstations to powerful Cisco routers. It is based on Dynamips, Pemu/ Qemu and Dynagen. […] Read more…
+April 2015, “Staff Pick” Project of the Month – GNS3
+For our April “Staff Pick” Project of the Month, we selected GNS3, a graphical network simulator that allows you to design complex network topologies. The GNS3 team shared their thoughts about the project’s history, purpose, and direction. SourceForge (SF): Tell me about the GNS3 project please. GNS3 Team: GNS3 is a network emulation platform used […] Read more…
+SourceForge
+About Site Status @sfnet_ops
+Find and Develop Software
+Create a Project Software Directory Top Downloaded Projects
+Community
+Blog @sourceforge Job Board Resources
+Help
+Site Documentation Support Request Real-Time Support
+Copyright © 2015 Dice. All Rights Reserved.
+SourceForge is a Dice Holdings, Inc. service.
+Terms Privacy Opt Out Choices Advertise SourceForge.JP Performance   {"event_id": "b08577b6-dc24-11e4-92bd-0200ac1d1d9c", "non_clicker": 0.8634093148841028, "active_tests": ["psp_redirect_immersion"], "clicker": 0.13854359498733232} Free, secure and fast downloads from the largest Open Source applications and software directory - SourceForge.net Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software 0279349BB9CF7ACA882F86F29C50D3EA width=device-width, initial-scale=1.0

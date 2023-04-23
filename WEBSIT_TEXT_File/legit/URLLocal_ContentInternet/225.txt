@@ -1,0 +1,293 @@
+TechCrunch - The latest technology news and information on startupsNews
+Video
+Events
+Crunchbase
+SEARCH
+
+DISRUPT NYThe Action-Packed Agenda For Disrupt NY Is Live Save $1000 On Tickets Now
+Live from F8
+Virtual reality, augmented reality, Messenger, cameras, bots and copying Snapchat. Read all our coverage from F8 right here.
+Read More
+Announcing the Disrupt NY 2017 agenda
+by Matthew Panzarino, Chrystine L. Villarreal
+Juicero users find that man trumps machine
+by John Biggs
+Xiaomi launches its new Mi6 smartphone
+by Jon Russell
+Everything Facebook launched at F8 and why
+by Josh Constine
+LATEST
+POPULAR
+Behind Facebook's new Camera Effects
+1 minute ago
+At F8, Facebook launches it's augmented reality platform, Camera Effects. Yesterday, the first effects become available inside Facebook’s Camera feature. TechCrunch talked to the team and tested out some of the new augmented reality filters that have been built so far.
+All News Episodes
+Apps
+Planned Parenthood enrolls in 500 startups’ seed program
+11 minutes ago
+by Sarah Buhr
+Planned Parenthood has been threatened repeatedly with defunding in several states since Trump became our 45th president. But has also, as a consequence, received a serious spike in donations (40 times its normal rate, according to the Guardian). The organization’s leaders are now looking to 500 startups’ seed program to help them capitalize on the recent surge and harness… Read More
+0
+Apps
+Microsoft to shut down Wunderlist in favor of its new app, To-Do
+13 minutes ago
+by Sarah Perez
+Microsoft acquired the popular mobile to do list application Wunderlist back in 2015, and now it’s preparing users for its eventual demise with the release of its new application “To-Do,” announced today. The new app was built by the team behind Wunderlist, and will bring in the favorite elements of that app in the months ahead, Microsoft says. The company also added that… Read More
+1
+Europe
+The world of Minority Report is about to be unlocked, and the key is inside your phone
+14 minutes ago
+by Mike Butcher
+Remember that scene in Minority Report where Tom Cruise’s character walks into a Gap and an AI voice asks him if he’s still enjoying the trousers he bought last week? That vision was dreamt up by MIT consultants to the film many years ago, and as of today it would be entirely possible to reproduce, given we all now walk around with smartphones which could be alerted in such a manner. Read More
+0
+Facebook’s augmented future could involve brain implants, but it’s not ‘1984’ yet
+19 minutes ago
+by Lucas Matney
+Facebook’s augmented reality future may be taking the form of selfie filters today, but in the future the company wants to let you interact with the world only by using your brain. Regina Dugan, who leads Facebook’s Building 8 group, gave a remarkable marketing spiel on the company’s efforts in shaping the future of human-computer interaction and imagining a future where… Read More
+0
+Europe
+Twitter is reviewing whether to store some user data in Russia
+35 minutes ago
+by Natasha Lomas
+Twitter is considering localizing the storage of some of its Russian users’ personal data in order to comply with data localization laws, TechCrunch has learned. Read More
+0
+Artificial Intelligence
+Facebook is building brain-computer interfaces for typing, and hearing via skin
+56 minutes ago
+by Josh Constine
+Today at F8, Facebook revealed it has a team of 60 engineers working on building a brain-computer interface that will let you type with just your mind without invasive impants. The team plans to use optical imaging to scan your brain a hundred times per second to detect you speaking silently in your head, and translate it into text. Regina Dugan, the head of Facebook’s R&D… Read More
+0
+Latest videos
+All videos >
+Facebook's F8 keynote recap
+Facebook Launches Camera Effects Platform | Crunch Report
+Samsung Galaxy S8 and S8+ review
+Artificial Intelligence
+Facebook is improving the 360 video experience by predicting where you will look
+1 hour ago
+by John Mannes
+From the stage of F8, Joaquin Quinonero, Facebook’s Director of Applied Machine Learning, described a new technique the company is using to improve the watching experience for 360 videos. The format is challenging to deliver because of its size, but Facebook is using machine learning to reduce the number of pixels that have to be rendered at any one time. By predicting where a viewer… Read More
+0
+Apps
+Figure 1, a knowledge-sharing app for doctors, launches sponsored content
+1 hour ago
+by Lora Kolodny
+Since its launch in 2013, Figure 1, a photo- and knowledge-sharing app for medical professionals, has focused on “traction” that is winning over new users and keeping them around. The app now boasts registered users in 190 countries, with three-quarters of U.S. med students using Figure 1. Today, the Toronto- and New York-based startup revealed how it has begun to generate revenue. Read More
+0
+Enterprise
+Facebook will license its new 360 cameras that capture in six degrees of freedom
+1 hour ago
+by John Mannes
+On day two of Facebook’s F8 conference, Mike Schroepfer, Facebook’s CTO showed off designs for two new 360 cameras that the company is going to help push to market. The x24, with 24 cameras, and its little brother the x6, with six cameras, can each capture in six degrees of freedom for more immersive 360 content. Facebook plans to license the designs of the two cameras to… Read More
+0
+ADVERTISEMENT
+Have a tip, pitch or guest column? Send us a tip.
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Want some TechCrunch gear? Shop here.
+ADVERTISEMENT
+CrunchBoard
+Job Listings
+DevOps. Engineer (Linux) at W.W. Norton (New York, NY, United States)
+Senior Software Engineer at Patientco (Atlanta)
+Senior Software Development Engineer @ Microsoft at Microsoft (San Francisco, CA, United States)
+Sr. Security Engineer at Moat (New York )
+Product Manager at Moat (New York )
+More from CrunchBoard
+Startups
+A Slack integration is Magic’s next act
+1 hour ago
+by Jonathan Shieber
+Remember the text message-based service on-demand company, Magic Assistant? In a whirlwind two months after the service’s launch on Product Hunt Magic went viral based on its claims to deliver anything; promptly raised a rumored $12 million from Sequoia Capital (with Sir Michael Moritz, KBE joining the board); and then went into hiding as it figured out an actual business… Read More
+0
+Media
+Hulu’s live TV service to launch by mid-May, sources say
+1 hour ago
+by Sarah Perez
+Hulu has publicly said that its new live TV streaming service will launch sometime this spring, but the company is now telling staff internally that the launch date being targeted is the first week of May, sources tell TechCrunch. The launch will additionally coincide with the arrival of Hulu’s new user experience, shown off earlier this year at CES. However, we understand that… Read More
+0
+Media
+Twitch expands subscriptions with new $9.99 & $24.99 tiers for serious fans
+1 hour ago
+by Sarah Perez
+Confirming an earlier leak, the Amazon-owned live streaming service Twitch is today announcing an expanded lineup of subscription offerings, which introduces two new levels beyond the original $4.99 per month plan. Now, Twitch’s partnered content creators can offer $9.99 and $24.99 subscriptions that will give viewers additional ways to support their favorite creators. The new… Read More
+0
+Automotive
+Watch Cruise’s self-driving car take a night ride through San Francisco
+1 hour ago
+by Darrell Etherington
+Cruise has a new release in its video series of drives completed by its autonomous test vehicles in San Francisco. If you’ve lived in the city, you’ve likely seen one of these by now – the white Chevrolet Bolt EVs stand out, especially with their autonomous sensor suite. The vehicles are running their routes mostly in autonomous mode, racking up driverless miles driven… Read More
+0
+Facebook’s millimeter-wave radio tech hits new bandwidth records
+1 hour ago
+by Frederic Lardinois
+Augmented Reality
+Snap’s anti-developer attitude is an augmented liability
+1 hour ago
+by Josh Constine
+Facebook just invited outside developers to help it build an augmented reality content platform. Snapchat banned outside developers in 2015 and has never had a real platform. Read More
+0
+Advertising Tech
+An NBA team is turning their scoreboard into an AR basketball game
+2 hours ago
+by Fitz Tepper
+Yo dawg, I heard you like basketball, so we built an AR basketball game you can play while you’re at a basketball game. Ok fine, this isn’t how the reigning NBA Champion Cleveland Cavaliers announced their new Augmented Reality game. But they should have. Launching today, Deep in the Q (named after Cleveland’s Quicken Loans arena) is an AR basketball game launching just… Read More
+0
+Automotive
+Media company Axel Springer takes a stake in Uber
+2 hours ago
+by Darrell Etherington
+Uber has a new shareholder very different from its usual institutional backers: Axel Springer, the German media company that owns Business Insider, and Germany’s largest newspaper Bild, among other publications. Neither Uber nor the media giant are getting specific about how much money was invested, or exactly when, but Axel Springer did clarify to German tech news site t3n.de (via… Read More
+0
+Nokia delivers big update to its OZO VR creative products
+2 hours ago
+by Lucas Matney
+Nokia may not be a company that you’ve thought about much since the company sold its handset division to Microsoft in 2014, but since then, the company has invested most of its time into growing out its communication businesses across the globe. They’ve also been throwing some early efforts behind high-end VR capture through its oddly beautiful $40k OZO virtual reality… Read More
+0
+Gadgets
+Juicero users find that man trumps machine
+2 hours ago
+by John Biggs
+FADE IN: EXT. BOHEMIAN GROVE – NIGHT Two VCs are wearing feathered headdresses and leather breeches. One, Anton, is drinking Soylent 3.0 from a bag, the other, Brad, Chateau Margaux 2009 Balthazar from a bark cup. Another younger VC, Chase, crushes a Juicero with a golf club in the firelight. ANTON:
+He’s taking it really hard. BRAD:
+Who? What? ANTON:
+Chase over there. That’s… Read More
+2
+1
+2
+...
+NEXT
+TechCrunch Events
+Sessions: Justice
+San Francisco, CA: June 6, 2017
+Disrupt NY Hackathon 2017
+New York City, NY: May 13 - 14, 2017
+F8 2017
+San Jose McEnery Convention Center | San Jose, California: April 18 - 19, 2017
+Sessions: Robotics
+Cambridge, MA: July 17, 2017
+Disrupt NY 2017
+New York City, NY: May 15 - 17, 2017
+BUY TICKETS
+Disrupt SF 2017
+San Francisco, CA: September 18 - 20, 2017
+More Events
+Follow Our Writers
+Meet the whole staff
+Boeing’s new spacesuit up close
+Apr 12, 2017 | 2:26
+Popular Videos
+Boeing's new spacesuit up close
+Apr 12, 2017 | 2:26
+History of Apple I and Steve Jobs' personal computer
+Apr 17, 2017 | 4:26
+Inside Purple's massive new mattress factory
+Apr 13, 2017 | 3:56
+Doug plays God with his Windows settings
+Apr 14, 2017 | 2:55
+Marble delivery robot
+Apr 12, 2017 | 2:14
+Tech tackling homelessness | Bullish
+Apr 11, 2017 | 9:13
+Samsung Galaxy S8 and S8+ review
+yesterday | 2:21
+Avegent debuts its light field enabled mixed reality headset
+Apr 7, 2017 | 3:24
+Contraline is looking to make non-surgical male birth control a reality
+Apr 12, 2017 | 1:17
+Ford built a baby bed
+Apr 12, 2017 | 0:38
+Facebook's F8 keynote recap
+20 hours ago | 2:28
+Eniac Ventures closes $100 million fund
+Apr 13, 2017 | 2:50
+How Osmo dreams up new tech toys
+Apr 6, 2017 | 2:50
+Qualtrics founder Ryan Smith on the company's future
+Apr 10, 2017 | 5:09
+Doug mounts a phone in his car's CD player
+Apr 7, 2017 | 3:02
+Apple offers dead simple video editing with Clips
+Apr 5, 2017 | 1:34
+Boeing and ULA show off their emergency rocket rescue zipline
+Apr 5, 2017 | 1:56
+Sally the salad making robot
+Apr 3, 2017 | 2:00
+lofree mechanical Bluetooth keyboard
+Mar 31, 2017 | 0:43
+Doug Cuts the Cord and Saves $100 a Month on Cable
+Mar 31, 2017 | 4:52
+British entrepreneur builds an Iron Man-like flight suit
+Mar 31, 2017 | 0:57
+Why Soft Robotics turned octopus-inspired robots into industrial grippers
+Mar 28, 2017 | 3:27
+SpaceX re-launches Falcon 9 rocket
+Mar 31, 2017 | 0:39
+Recent Funding Data by
+Synpromics Ltd
+5.2M GBP Venture
+HQ: Edinburgh, Edinburgh, City of
+Categories: Biotechnology, Therapeutics, Genetics, Medical
+Investors: Not available
+Preferhired
+Not available Round
+HQ: Tampa, Florida
+Categories: Not available
+Investors: Not available
+Perform One
+$100K Angel
+HQ: Not available
+Categories: Not available
+Investors: Not available
+Dejbox
+2.0M EUR Seed
+HQ: Lille, Nord-Pas-de-Calais
+Categories: Food Processing
+Investors: Not available
+All recent fundings
+ADVERTISEMENT
+TechCrunch
+News
+Video
+Events
+Crunchbase
+TechCrunch Store
+About
+Staff
+Contact Us
+Advertise With Us
+Event & Editorial Calendar
+Send Us A Tip
+Activations Blog
+International
+China
+Europe
+Japan
+Follow TechCrunch
+Facebook
+Twitter
+Google+
+LinkedIn
+Youtube
+Pinterest
+Tumblr
+Instagram
+StumbleUpon
+Feed
+TechCrunch Apps
+iOS
+Android
+Windows 8
+Subscribe to The Daily Crunch
+Latest headlines delivered to you daily
+Enter Email Address
+SUBSCRIBE
+© 2013-2017 AOL Inc. All rights reserved. Aol Tech Privacy Policy About Our Ads Anti Harassment Policy Terms of Service Powered by WordPress.com VIP Fonts by  IE=Edge  6189ff68ce30e30f12b40b3b40873027 True 320 initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0 on TechCrunch NOYDIR,NOODP 4U1OC1LwZlFHAehLhCV4rt3YzWI_AyF7Gb0XqlaVEhE 5ABD8A078F3356F3A6A8C8643C31FB8F 187288694643718 543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188 WordPress.com 1.10.2 TechCrunch social.techcrunch.com TechCrunch TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news. https://img.vidible.tv/prod/2017-04/19/58f7af97b90afb2ed03f9c7e/58f7b02358415c68e9d16304_o_U_v1.jpg?w=764&h=400 http://social.techcrunch.com/ website Josh Constine 1478888 TechCrunch tc_river_video https://techcrunch.com/video/behind-facebooks-new-camera-effects/58f7af97b90afb2ed03f9c7e/ 2017-04-19 11:50:49   https://img.vidible.tv/prod/2017-04/19/58f7af97b90afb2ed03f9c7e/58f7b02358415c68e9d16304_o_U_v1.jpg?w=150&h=150 TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news. TechCrunch width=device-width;height=device-height Startup and Technology News name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16 follow, index

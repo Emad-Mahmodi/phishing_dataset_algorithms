@@ -1,0 +1,17 @@
+Vi-view Image ViewerTotally new image engine; display speed raised by 70%
+Cool interface deco; over 50 awesome graphics
+Optimized display of long images; short loading time
+Vi-View Image Viewer: official version released!
+powerful image engine
+supports 67 formats
+clear & simple thumbnails
+clear image display
+Image Manager, manages images on your computer
+Simplified viewer mode, focused on fluent display
+Upgraded functions, high speed and low resource usage
+Smart & smooth zoom tech: smooth visual experience
+Original smart & smooth zoom technology provides image zoom quality comparable to camera lenses. Experience even more fluent display!
+Supports 67 image formats
+Vi-View image viewer supports more image formats than traditional image viewers. Apart from common formats such as BMP/PNG/JPG, it's also compatible with specialized formats such as PSD/RAW. In total, 67 formats are supported.
+About|Privacy Policy|Eula|Uninstall Instructions
+Copyright 2012-2015 Flyingbird Technology Limited. All Rights Reserved  text/html; charset=utf-8

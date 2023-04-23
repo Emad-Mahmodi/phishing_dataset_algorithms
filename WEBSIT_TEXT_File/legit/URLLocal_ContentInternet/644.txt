@@ -1,0 +1,52 @@
+Fast, Free Image Hosting - ImageBamMulti-Upload
+Zip-Upload
+Basic Upload
+Video Upload
+Register
+Login
+
+Adblock Plus breaks the upload functionality. Please disable it.
+Fast, Free Image Hosting - ImageBam
+FREE image hosting, galleries and photo sharing for Twitter, forums, blogs, eBay, Craigslist, Facebook and more.
+Features:
+10 MB File Size Limit NEW
+Unlimited Uploads
+Unlimited Downloads
+Fast, Reliable Servers
+Easy To Use
+Register for more functionality:
+Photo Management Tools
+Organize your Images and Galleries
+Add Title and Descriptions to Galleries
+It won't take long and is 100% FREE.
+Multi Image Upload
+Filename
+Size
+Status
+Select Files After clicking the add files button you can select multiple files
+Select Type: (required)
+               SELECT
+               ADULT content
+               FAMILY SAFE content
+           
+
+Thumbnail Options:
+               100x100 pixel
+               150x150 pixel
+               180x180 pixel
+               250x250 pixel
+               300x300 pixel
+               350x350 pixel
+            
+               square
+               keep aspect ratio
+            
+               GIF
+               JPEG
+           
+
+Gallery Option:
+create a gallery from uploaded images
+UPLOAD NOW!
+Help | API | Widget | Report Abuse | Terms & Privacy
+Powered by dedicated Linux servers.  text/html; charset=UTF-8 ImageBam.com Free Image Hosting and photo sharing. Create an online album with bulk upload tools and share with family and friends. image hosting, free image hosting, photo sharing, upload photo, free photo gallery, photo host, image gallery follow 1 days 3433880

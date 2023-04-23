@@ -1,0 +1,95 @@
+jQueryjQuery
+jQuery UI
+jQuery Mobile
+Sizzle
+QUnit
+Plugins
+Contribute
+Events
+Support
+jQuery Foundation
+jQuery
+Download
+API Documentation
+Blog
+Plugins
+Browser Support
+search
+Search jQuery
+Download jQuery
+v3.2.1
+View Source on GitHub ?
+How jQuery Works ?
+Lightweight Footprint
+Only 32kB minified and gzipped. Can also be included as an AMD module
+CSS3 Compliant
+Supports CSS3 selectors to find elements as well as in style property manipulation
+Cross-Browser
+Chrome, Edge, Firefox, IE, Safari, Android, iOS, and more
+What is jQuery?
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+Corporate Members
+Support from our corporate members makes it possible for the jQuery Foundation to continue our work on our JavaScript libraries and pushing the open web forward with events and participation in the standards process. View our members page for a full list of corporate and individual members.
+Other jQuery Foundation Projects
+jQueryUI
+jQuery Mobile
+QUnit
+Sizzle
+Resources
+jQuery Core API Documentation
+jQuery Learning Center
+jQuery Blog
+Contribute to jQuery
+About the jQuery Foundation
+Browse or Submit jQuery Bugs
+Try jQuery
+A Brief Look
+DOM Traversal and Manipulation
+Get the <button> element with the class 'continue' and change its HTML to 'Next Step...'
+1
+$( "button.continue" ).html( "Next Step..." )
+Event Handling
+Show the #banner-message element that is hidden with display:none in its CSS when any button in #button-container is clicked.
+1
+2
+3
+4
+var hiddenBox = $( "#banner-message" );
+$( "#button-container button" ).on( "click", function( event ) {
+  hiddenBox.show();
+});
+Ajax
+Call a local script on the server /api/getWeather with the query parameter zipcode=97201 and replace the element #weather-temp's html with the returned text.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+$.ajax({
+  url: "/api/getWeather",
+  data: {
+    zipcode: 97201
+  },
+  success: function( result ) {
+    $( "#weather-temp" ).html( "<strong>" + result + "</strong> degrees" );
+  }
+});
+BOOKS
+Learning jQuery Fourth Edition
+Karl Swedberg and Jonathan Chaffer
+jQuery in Action
+Bear Bibeault, Yehuda Katz, and Aurelio De Rosa
+jQuery Succinctly
+Cody Lindley
+Learning Center
+Forum
+API
+Twitter
+IRC
+GitHub
+Copyright 2017 The jQuery Foundation. jQuery License
+Web hosting by Digital Ocean | CDN by StackPath   IE=edge jQuery Foundation - jquery.org jQuery: The Write Less, Do More, JavaScript Library width=device-width WordPress 4.5.2

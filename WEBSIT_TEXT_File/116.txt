@@ -1,0 +1,13 @@
+404 Not FoundNot Found
+The requested URL /jod-fooos1/foo-autenticazione.php was not found on this server.
+Apache/2.4.7 (Ubuntu) Server at securelogin-poss3te-it-securrzza008-2017.dynamic-dns.net Port 80 
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.pesteledeaut.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.pesteledeaut.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

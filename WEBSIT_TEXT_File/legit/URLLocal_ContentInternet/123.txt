@@ -1,0 +1,127 @@
+W3Schools Online Web Tutorialsw3schools.com
+THE WORLD'S LARGEST WEB DEVELOPER SITE
+TUTORIALS
+REFERENCES
+EXAMPLES
+?
+?
+HTML and CSS
+Learn HTML
+Learn CSS
+Learn W3.CSS
+Learn Colors
+Learn Bootstrap
+Learn Icons
+Learn Graphics
+Learn How To
+JavaScript
+Learn JavaScript
+Learn W3.JS
+Learn jQuery
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn JSON
+Learn AJAX
+Server Side
+Learn SQL
+Learn PHP
+Learn ASP
+Web Building
+Web Templates
+Web Statistics
+Web Certificates
+XML Tutorials
+Learn XML
+Learn XML AJAX
+Learn XML DOM
+Learn XML DTD
+Learn XML Schema
+Learn XSLT
+Learn XPath
+Learn XQuery
+
+
+
+
+
+
+HTML
+The language for building web pages
+LEARN HTML HTML REFERENCE
+HTML Example:
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+Try it Yourself »
+CSS Example:
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+Try it Yourself »
+CSS
+The language for styling web pages
+LEARN CSS CSS REFERENCE
+
+
+
+
+
+
+
+
+
+
+JavaScript
+The language for programming web pages
+LEARN JAVASCRIPT JAVASCRIPT REFERENCE
+JavaScript Example:
+<script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "25px";
+    x.style.color = "red";
+}
+</script>
+
+<button onclick="myFunction()">Click Me!</button>
+Try it Yourself »
+SQL
+A language for accessing databases
+LEARN SQL
+PHP
+A web server programming language
+LEARN PHP
+jQuery
+A JavaScript library for developing web pages
+LEARN JQUERY
+W3.CSS
+A modern CSS framework for faster and better responsive web sites
+LEARN W3.CSS
+Color Picker
+Bootstrap
+Bootstrap is a CSS framework for designing better web pages
+LEARN BOOTSTRAP
+
+Web Templates
+Browse our selection of free responsive HTML Templates
+BROWSE TEMPLATES
+WEB CERTIFICATES
+FORUM | ABOUT
+W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.
+Copyright 1999-2017 by Refsnes Data. All Rights Reserved.   width=device-width, initial-scale=1 HTML,CSS,JavaScript,DOM,jQuery,PHP,SQL,XML,Bootstrap,Web,W3CSS,W3C,tutorials,programming,development,training,learning,quiz,primer,lessons,reference,examples,source code,colors,demos,tips,w3c

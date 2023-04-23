@@ -1,0 +1,1 @@
+match text html charset UTF 8 width device-width initial-scale 1.0 maximum-scale 1.0 user-scalable 0 1 0 1 0 

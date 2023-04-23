@@ -1,0 +1,223 @@
+SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive DesignSearch
+Themes
+Podcast
+Forums
+Premium
+
+
+
+Everything you need to know about Version Control in Git. Free!
+Downloaded more than 10,000 times, this 150-page intro to Git is a must-read for serious developers!
+Download My Free Git Ebook
+By submitting this form, you agree to our Terms of Service and Privacy Policy .
+FEATURED
+ENDING SOON
+OFFERS
+Get all our books, courses and tutorials free when you join SiteGround!
+07:50
+HTML & CSS
+Fluid Video Aspect Ratio with CSS and Element Queries
+SPONSORED
+Create a Website to Showcase Your Work
+00:10:24
+JAVASCRIPT
+MS Bots in Azure
+01:10
+DESIGN & UX
+Byte: Learning Symbols in Sketch in 1 Minute
+JAVASCRIPT
+Quick Tip: How to Style React Components with styled-components
+07:59
+JAVASCRIPT
+Microsoft Cognitive Services and the Text Analytics API
+WORDPRESS
+A Review of SiteGround's Migration Service
+Versioning: SitePoint's daily newsletter. Hilarious, a touch cynical, free.Is it good?
+Subscribe
+LATEST ARTICLES
+JAVASCRIPT
+Chris Laughlin, 3 hours ago
+Quick Tip: How to Style React Components with styled-components
+Chris Laughlin takes a look at some of the options for applying CSS styles to React components, and introduces the styled-components library.
+WORDPRESS
+Adrian Try, 4 hours ago
+A Review of SiteGround's Migration Service
+The SiteGround technical support team will migrate your WordPress website for free. Adrian Try decided to take them up on the offer. Here's how it went.
+WORDPRESS
+Jeff Smith, 6 hours ago
+Understanding "The Loop" in WordPress
+Do you constantly hear WordPress devs talking about "The Loop", but you're not entirely sure what that is, or how to use it? Take a look!
+WEB
+Maria Antonietta Perna, 8 hours ago
+Five Techniques to Lazy Load Images for Website Performance
+Maria Antonietta Perna highlights the benefits of lazy loading images on websites and shows five approaches to implement lazy loading for your website.
+WEB
+Craig Buckler, 10 hours ago
+Dedicated Server Hosting: the Pros and Cons
+When you're new to the world of internet hosting, figuring out all options can be tough. In this article, Craig Buckler explains the dedicated server.
+HTML & CSS
+Tiffany Brown, 21 hours ago
+Managing the CSS Box Model
+In this exclusive excerpt from our book, CSS Master by Tiffany Brown, we look at the best ways of managing the CSS Box Model
+WEB
+James George, 22 hours ago
+Using Bookmark's AIDA to Build Your Website in 2 Minutes
+James George takes a look at Bookmark's website builder and its new artificial intelligence system AIDA.
+13 COMMENTS
+JAVASCRIPT
+Pavels Jelisejevs, a day ago
+Choosing between React and Angular: An in-Depth Comparison
+Should you pick Angular or React? Pavels Jelisjevs looks in detail at what both frameworks have to offer, and gives some practical advice on how to choose.
+LATEST THEMES
+Browse all 9 themes
+PREMIUM THEME
+SitePoint WordPress Restaurant Theme
+PREMIUM THEME
+SitePoint WordPress Ecommerce Theme
+PREMIUM THEME
+SitePoint WordPress Portfolio Theme
+PREMIUM THEME
+SitePoint WordPress Business Theme
+LATEST COURSES
+Browse all 71 courses
+2h 2m
+PREMIUM COURSE
+Responsive Web Development
+1h 46m
+PREMIUM COURSE
+Elm: A Beginners' Guide to Elm and Data
+44m
+PREMIUM COURSE
+Introducing TypeScript
+1h 19m
+PREMIUM COURSE
+Animating with CSS
+LATEST BOOKS
+Browse all 87 books
+PREMIUM BOOK
+Designing UX: Prototyping
+PREMIUM BOOK
+Researching UX: Analytics
+PREMIUM BOOK
+Rails: Novice to Ninja
+PREMIUM BOOK
+Designing UX: Forms
+2 COMMENTS
+JAVA
+Alejandro Gervasio, a day ago
+Validate Object Graphs with Java Bean Validation's @Valid Annotation
+Use Java Bean Validation's @Valid Annotation for validating entire object graphs with one method call.
+1 COMMENT
+HTML & CSS
+Jelena Jovanovic, a day ago
+Quick Tip: How to Build Your Custom Theme for Telescope Nova
+In this quick tip, Jelena Jovanovic shows how to customize the Telescope Nova theme, both markup and stylesheet with these easy-to-follow steps.
+5 COMMENTS
+DESIGN & UX
+Daniel Schwarz, a day ago
+Why You Need to Know About Sketch's New File Format
+Sketch recently introduced a rather interesting update to their .sketch file format, Daniel Schwarz explains what this means for Sketch designers.
+WEB
+M. David Green, 2 days ago
+UX Research, Analytics, and Dark Patterns, with Luke Hay
+In this episode of the Versioning Show, Tim and David talk with Luke Hay, a user experience professional and author.
+WEB
+Craig Buckler, 2 days ago
+Web Industry Insights 2017
+Craig discusses the tools, languages and career satisfaction levels of 64,000 developers who completed the 2017 Stack Overflow survey.
+JAVASCRIPT
+Jani Hartikainen, 2 days ago
+JavaScript Testing Tool Showdown: Sinon.js vs testdouble.js
+Jani Hartikainen looks at testdouble.js (a new mocking library with a streamlined API) and puts it head-to-head with Sinon.js, the JS test double incumbent.
+MOBILE
+Gagandeep Singh, 2 days ago
+Killer way to Show a List of Items in Android Collection Widget
+In the earlier versions of Android, app widgets could only display views like TextView, ImageView etc. But what if we want to show a list of items in our widget? For example, showing...
+3 COMMENTS
+PHP
+Bruno Skvorc, 2 days ago
+Getting to Know and Love Xdebug
+Let's take a fresh look at Xdebug, the de-facto PHP debugger, which turned an epic 15 years old this month. A quick look at some tricks, tips, and features!
+For Developers, By Developers
+Like SitePoint On Facebook
+FORUMS
+Total Forum Members: 232,789 and counting!
+MOST RECENT DISCUSSIONS POSTED
+Snapping a picture from interactive graphic an exporting as a JPEG
+JAVASCRIPT
+43 mins ago
+How do I make these buttons flush with everything?
+HTML & CSS
+4 hrs ago
+Javascript module and separation of concerns
+JAVASCRIPT
+2 days ago
+Software that can turn my voice into an US or British accent
+COMMUNITY
+8 hrs ago
+Sticky floating issue
+JAVASCRIPT
+14 days ago
+How can I properly use a trigger inside of stored procedure to validate an email?
+DATABASES
+1 day ago
+Making visualization inspired from Open Processing
+JAVASCRIPT
+1 day ago
+TOP DISCUSSIONS THIS WEEK REPLIES
+Read Data From Excel
+JAVASCRIPT
+111 replies
+Improvements To Member Regsitration Site Reg.php
+PHP
+39 replies
+Unable to install Webpack for Angular
+JAVASCRIPT
+4 replies
+How to merge 2 arrays alternatively..?
+PHP
+19 replies
+PHP & JS help - newbie
+PHP
+12 replies
+What is best Software for converting Mov Videos to HTML5 Videos
+DESIGN & UX
+9 replies
+Adding Text In Div With Id's
+HTML & CSS
+16 replies
+1 COMMENT
+JAVASCRIPT
+Nilson Jacques, 3 days ago
+Editorial: To Benchmark, or Not to Benchmark?
+In this week's editorial, Nilson Jacques asks whether JS benchmark results are all they're cracked up to be, and should we be bothered about speed anyway?
+JAVA
+Gregor Trefs, 3 days ago
+Six Ways to Functional FizzBuzz with Vavr
+Functional programming solutions for FizzBuzz using Vavr (formerly Javaslang) and common FP features like streams, pattern matching, and combinator.
+2 COMMENTS
+PHP
+Christopher Vundi, 6 days ago
+Building a Social Network with Laravel and Stream? Easy!
+Christopher continues building the Laravel Social Network project by fully implementing Stream functionality with follows, friending, and notifications.
+1 COMMENT
+HTML & CSS
+Alexis Goldstein, 7 days ago
+Pseudo-classes - The Basics
+In this book excerpt from HTML5 & CSS3 we look at the role of pseudo-classes.
+JAVASCRIPT
+Steve Kinney, Apr 13
+Tips and Tricks for Debugging Electron Applications
+Steve Kinney introduces some tips & tricks for debugging Electron applications and shows how you can use Visual Code to set breakpoints in the main process.
+DIGITAL MARKETING BY WOORANK
+Greg Snow-Wasserman, Apr 13
+SEO Hacks for Developers
+We’ve put together five quick and easy hacks for developers to give SEO a jump start and get websites into search results.
+DESIGN & UX
+Abbas Rajani, Apr 13
+6 Ways to Improve Long-Scroll Mobile Websites
+Abbas Rajani shows us how to offer users a better mobile UX by optimizing the layout and content of long-scrolling mobile websites.
+HTML & CSS
+Tiffany Brown, Apr 12
+Minifying CSS With CSS Optimizer
+In this exclusive excerpt from our book, CSS Master, we teach you how to minify CSS with a CSS Optimizer.   width=device-width, initial-scale=1.0 https://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.sitepoint.png 15743570 IE=Edge hcQq0cWX73AYby8aMMzNHx8bZrTDI75GWeljGdPmNf8 I0jyQlTvZaveab8RtDOjUxSPZXbdSgFrcKdAwaCCfvA Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design noodp en_US website SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design https://www.sitepoint.com/ SitePoint 121300382 summary Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design @sitepointdotcom WordPress 4.7.3 1.10.2 4.28571 4.7 4.8125 4.86667 4.17073 4.47222 3.86667 4.22857

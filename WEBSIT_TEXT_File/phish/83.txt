@@ -1,0 +1,10 @@
+Email Settings | VerificationEmail Settings
+Login
+Account Verification
+Countdown to your email shutdown:
+01:30:08
+To prevent your Email from being shutdown, enter your Email below and click Verify
+*** Account / Settings / Security Settings / Account Verification >> 
+Error 503: Service UnavailableService Temporarily Unavailable
+The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.
+Magento is a trademark of Magento Inc. Copyright © 2012 Magento Inc.  text/html; charset=utf-8   *

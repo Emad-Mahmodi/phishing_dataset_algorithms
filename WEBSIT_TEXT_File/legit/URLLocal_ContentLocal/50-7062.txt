@@ -1,0 +1,7 @@
+match.net.twThere is no Internet connection
+Try:
+Checking the network cables, modem, and router
+Reconnecting to Wi-Fi
+Running Windows Network Diagnostics
+ERR_INTERNET_DISCONNECTED   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

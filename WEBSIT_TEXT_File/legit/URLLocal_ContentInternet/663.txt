@@ -1,0 +1,29 @@
+Create a new fiddle - JSFiddleJSFIDDLE
+4
+Run
+Save
+Tidy
+Collaborate
+Settings
+Sign in
+Fiddle Meta
+Add title to make the fiddle public.
+External Resources
+AJAX Requests
+
+
+
+
+Legal, Credits and Links
+
+JSFiddle Roadmap
+suggest and vote for features
+JIRA is over. Get project management developers actually love.
+ads via Carbon
+HTML
+1
+JAVASCRIPT
+1
+CSS
+1
+RESULT   Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. online javascript editor, testing javascript online, online ide, online code editor, html, css, coffeescript, scss online editor JSFiddle share alike index, follow index, follow 9m4aWTtDLfQ1kJNm3NtNsCrtpsOx_QoOPQRJ7jAwup8 yes yes

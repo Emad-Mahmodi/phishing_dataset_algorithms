@@ -1,0 +1,416 @@
+BibleGateway.com: A searchable online Bible in over 150 versions and 50 languages.BIBLE
+STUDY
+APP
+STORE
+LOG IN
+BibleGateway
+Search
+—Amuzgo de Guerrero (AMU)—
+Amuzgo de Guerrero (AMU)
+ 
+—ÇáÚÑÈíÉ (AR)—
+Arabic Bible: Easy-to-Read Version (ERV-AR)
+Ketab El Hayat (NAV)
+ 
+—???? (AWA)—
+Awadhi Bible: Easy-to-Read Version (ERV-AWA)
+ 
+—????????? (BG)—
+1940 Bulgarian Bible (BG1940)
+Bulgarian Bible (BULG)
+Bulgarian New Testament: Easy-to-Read Version (ERV-BG)
+??????, ??? ?????? ?? ???????????? ????? (? ????????????? ?????) (CBT)
+??????, ????????? ??????? (BOB)
+??????, ?????????? ??????? (BPB)
+ 
+—Chinanteco de Comaltepec (CCO)—
+Chinanteco de Comaltepec (CCO)
+ 
+—Cebuano (CEB)—
+Ang Pulong Sa Dios (APSD-CEB)
+ 
+—??? ????? (CHR)—
+Cherokee New Testament (CHR)
+ 
+—Cakchiquel Occidental (CKW)—
+Cakchiquel Occidental (CKW)
+ 
+—?e?tina (CS)—
+Bible 21 (B21)
+Slovo na cestu (SNC)
+ 
+—Cymraeg (CY)—
+Beibl William Morgan (BWM)
+ 
+—Dansk (DA)—
+Bibelen p? hverdagsdansk (BPH)
+Dette er Biblen p? dansk (DN1933)
+ 
+—Deutsch (DE)—
+Hoffnung für Alle (HOF)
+Luther Bibel 1545 (LUTH1545)
+Neue Genfer ?bersetzung (NGU-DE)
+Schlachter 1951 (SCH1951)
+Schlachter 2000 (SCH2000)
+ 
+—English (EN)—
+21st Century King James Version (KJ21)
+American Standard Version (ASV)
+Amplified Bible (AMP)
+Amplified Bible, Classic Edition (AMPC)
+BRG Bible (BRG)
+Christian Standard Bible (CSB)
+Common English Bible (CEB)
+Complete Jewish Bible (CJB)
+Contemporary English Version (CEV)
+Darby Translation (DARBY)
+Disciples’ Literal New Testament (DLNT)
+Douay-Rheims 1899 American Edition (DRA)
+Easy-to-Read Version (ERV)
+English Standard Version (ESV)
+English Standard Version Anglicised (ESVUK)
+Expanded Bible (EXB)
+1599 Geneva Bible (GNV)
+GOD’S WORD Translation (GW)
+Good News Translation (GNT)
+Holman Christian Standard Bible (HCSB)
+International Children’s Bible (ICB)
+International Standard Version (ISV)
+J.B. Phillips New Testament (PHILLIPS)
+Jubilee Bible 2000 (JUB)
+King James Version (KJV)
+Authorized (King James) Version (AKJV)
+Lexham English Bible (LEB)
+Living Bible (TLB)
+The Message (MSG)
+Modern English Version (MEV)
+Mounce Reverse-Interlinear New Testament (MOUNCE)
+Names of God Bible (NOG)
+New American Bible (Revised Edition) (NABRE)
+New American Standard Bible (NASB)
+New Century Version (NCV)
+New English Translation (NET Bible)
+New International Reader's Version (NIRV)
+New International Version (NIV)
+New International Version - UK (NIVUK)
+New King James Version (NKJV)
+New Life Version (NLV)
+New Living Translation (NLT)
+New Revised Standard Version (NRSV)
+New Revised Standard Version, Anglicised (NRSVA)
+New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)
+New Revised Standard Version Catholic Edition (NRSVCE)
+New Testament for Everyone (NTE)
+Orthodox Jewish Bible (OJB)
+Revised Standard Version (RSV)
+Revised Standard Version Catholic Edition (RSVCE)
+Tree of Life Version (TLV)
+The Voice (VOICE)
+World English Bible (WEB)
+Worldwide English (New Testament) (WE)
+Wycliffe Bible (WYC)
+Young's Literal Translation (YLT)
+ 
+—Espa?ol (ES)—
+La Biblia de las Américas (LBLA)
+Dios Habla Hoy (DHH)
+Jubilee Bible 2000 (Spanish) (JBS)
+Nueva Biblia al D?a (NBD)
+Nueva Biblia Latinoamericana de Hoy (NBLH)
+Nueva Traducci?n Viviente (NTV)
+Nueva Versi?n Internacional (NVI)
+Nueva Versi?n Internacional (Castilian) (CST)
+Palabra de Dios para Todos (PDT)
+La Palabra (Espa?a) (BLP)
+La Palabra (Hispanoamérica) (BLPH)
+Reina Valera Actualizada (RVA-2015)
+Reina Valera Contempor?nea (RVC)
+Reina-Valera 1960 (RVR1960)
+Reina Valera 1977 (RVR1977)
+Reina-Valera 1995 (RVR1995)
+Reina-Valera Antigua (RVA)
+Spanish Blue Red and Gold Letter Edition (SRV-BRG)
+Traducci?n en lenguaje actual (TLA)
+ 
+—Suomi (FI)—
+Raamattu 1933/38 (R1933)
+ 
+—Français (FR)—
+La Bible du Semeur (BDS)
+Louis Segond (LSG)
+Nouvelle Edition de Genève – NEG1979 (NEG1979)
+Segond 21 (SG21)
+ 
+—????? (GRC)—
+1550 Stephanus New Testament (TR1550)
+1881 Westcott-Hort New Testament (WHNU)
+1894 Scrivener New Testament (TR1894)
+SBL Greek New Testament (SBLGNT)
+ 
+—????? (HE)—
+Habrit Hakhadasha/Haderekh (HHH)
+The Westminster Leningrad Codex (WLC)
+ 
+—?????? (HI)—
+Hindi Bible: Easy-to-Read Version (ERV-HI)
+ 
+—Ilonggo (HIL)—
+Ang Pulong Sang Dios (HLGN)
+ 
+—Hrvatski (HR)—
+Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI)
+Knijga O Kristu (CRO)
+ 
+—Krey?l ayisyen (HT)—
+Haitian Creole Version (HCV)
+ 
+—Magyar (HU)—
+Hungarian K?roli (KAR)
+Hungarian Bible: Easy-to-Read Version (ERV-HU)
+Hungarian New Translation (NT-HU)
+ 
+—Hawai‘i Pidgin (HWC)—
+Hawai‘i Pidgin (HWP)
+ 
+—?slenska (IS)—
+Icelandic Bible (ICELAND)
+ 
+—Italiano (IT)—
+La Bibbia della Gioia (BDG)
+Conferenza Episcopale Italiana (CEI)
+La Nuova Diodati (LND)
+Nuova Riveduta 1994 (NR1994)
+Nuova Riveduta 2006 (NR2006)
+ 
+—Jacalteco, Oriental (JAC)—
+Jacalteco, Oriental (JAC)
+ 
+—Kekchi (KEK)—
+Kekchi (KEK)
+ 
+—Latina (LA)—
+Biblia Sacra Vulgata (VULGATE)
+ 
+—M?ori (MI)—
+Maori Bible (MAORI)
+ 
+—?????????? (MK)—
+Macedonian New Testament (MNT)
+ 
+—????? (MR)—
+Marathi Bible: Easy-to-Read Version (ERV-MR)
+ 
+—Mam, Central (MVC)—
+Mam, Central (MVC)
+ 
+—Mam, Todos Santos (MVJ)—
+Mam de Todos Santos Chuchumat?n (MVJ)
+ 
+—Plautdietsch (NDS)—
+Reimer 2001 (REIMER)
+ 
+—?????? (NE)—
+Nepali Bible: Easy-to-Read Version (ERV-NE)
+ 
+—N?huatl de Guerrero (NGU)—
+N?huatl de Guerrero (NGU)
+ 
+—Nederlands (NL)—
+Het Boek (HTB)
+ 
+—Norsk (NO)—
+Det Norsk Bibelselskap 1930 (DNB1930)
+En Levende Bok (LB)
+ 
+—????? (OR)—
+Oriya Bible: Easy-to-Read Version (ERV-OR)
+ 
+—?????? (PA)—
+Punjabi Bible: Easy-to-Read Version (ERV-PA)
+ 
+—Polski (PL)—
+Nowe Przymierze (NP)
+S?owo ?ycia (SZ-PL)
+Updated Gda?sk Bible (UBG)
+ 
+—Nawat (PPL)—
+Ne Bibliaj Tik Nawat (NBTN)
+ 
+—Português (PT)—
+Almeida Revista e Corrigida 2009 (ARC)
+Nova Tradu??o na Linguagem de Hoje 2000 (NTLH)
+Nova Vers?o Internacional (NVI-PT)
+O Livro (OL)
+Portuguese New Testament: Easy-to-Read Version (VFL)
+ 
+—Quichua (QU)—
+Mushuj Testamento Diospaj Shimi (MTDS)
+ 
+—Quiché, Centro Occidenta (QUT)—
+Quiché, Centro Occidental (QUT)
+ 
+—Român? (RO)—
+Cornilescu 1924 - Revised 2010, 2014 (RMNN)
+Nou? Traducere ?n Limba Român? (NTLR)
+ 
+—??????? (RU)—
+New Russian Translation (NRT)
+????????? ??????? (????????? ???????) (CARS)
+????????? ??????? (????????? ???????), ?????? ??? ???????????? (CARST)
+????????? ??????? (????????? ???????), ?????? ? «???????» (CARSA)
+Russian New Testament: Easy-to-Read Version (ERV-RU)
+Russian Synodal Version (RUSV)
+ 
+—Sloven?ina (SK)—
+N?dej pre kazdého (NPK)
+ 
+—Somali (SO)—
+Somali Bible (SOM)
+ 
+—Shqip (SQ)—
+Albanian Bible (ALB)
+ 
+—?????? (SR)—
+Serbian New Testament: Easy-to-Read Version (ERV-SR)
+ 
+—Svenska (SV)—
+Nya Levande Bibeln (SVL)
+Svenska 1917 (SV1917)
+Svenska Folkbibeln (SFB)
+Svenska Folkbibeln 2015 (SFB15)
+ 
+—Kiswahili (SW)—
+Neno: Bibilia Takatifu (SNT)
+ 
+—????? (TA)—
+Tamil Bible: Easy-to-Read Version (ERV-TA)
+ 
+—??????? (TH)—
+Thai New Contemporary Bible (TNCV)
+Thai New Testament: Easy-to-Read Version (ERV-TH)
+ 
+—Tagalog (TL)—
+Ang Bagong Tipan: Filipino Standard Version (FSV)
+Ang Dating Biblia (1905) (ADB1905)
+Ang Salita ng Diyos (SND)
+Magandang Balita Biblia (MBBTAG)
+ 
+—Twi (TWI)—
+Nkwa Asem (NA-TWI)
+ 
+—?????????? (UK)—
+Ukrainian Bible (UKR)
+Ukrainian New Testament: Easy-to-Read Version (ERV-UK)
+ 
+—ÇÑÏæ (UR)—
+Urdu Bible: Easy-to-Read Version (ERV-UR)
+ 
+—Uspanteco (USP)—
+Uspanteco (USP)
+ 
+—Tiêng Viêt (VI)—
+1934 Vietnamese Bible (VIET)
+B?n D?ch 2011 (BD2011)
+New Vietnamese Bible (NVB)
+Vietnamese Bible: Easy-to-Read Version (BPT)
+ 
+—?? (ZH)—
+Chinese Contemporary Bible (CCB)
+Chinese New Testament: Easy-to-Read Version (ERV-ZH)
+Chinese New Version (Simplified) (CNVS)
+Chinese New Version (Traditional) (CNVT)
+Chinese Standard Bible (Simplified) (CSBS)
+Chinese Standard Bible (Traditional) (CSBT)
+Chinese Union Version (Simplified) (CUVS)
+Chinese Union Version (Traditional) (CUV)
+Chinese Union Version Modern Punctuation (Simplified) (CUVMPS)
+Chinese Union Version Modern Punctuation (Traditional) (CUVMPT)
+A A A A A
+Bible Book List
+×
+Do you wish you knew the Bible better? Bible Gateway Plus makes it easy. Try it free today.
+Verse of the Day
+“Where, O death, is your victory? Where, O death, is your sting?” The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ.
+1 Corinthians 15:55-57 NIV
+Today's passage is from the New International Version. Read by Max McLean. Provided by The Listener's Audio Bible.
+Have the Verse of the Day delivered to your inbox each morning.
+SUBSCRIBE
+By submitting your email address, you understand that you will receive email communications from Bible Gateway, a division of The Zondervan Corporation, 3900 Sparks Drive SE, Grand Rapids, MI 49546 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway’s emails at any time. If you have any questions, please review our Privacy Policy or email us at privacy@biblegateway.com.
+Bible Gateway Plus
+Bible Gateway Plus is the best way to experience Bible Gateway!Try it free for 30 days.
+TRY IT FREE
+Our Blog
+Daily Bible-focused news, articles, interviews, and insights.
+READ IT NOW
+Scripture Engagement
+Deepen your experience of the Bible with these practical reading exercises.
+EXPLORE
+Create Your Account
+Sync notes and deepen your Bible study experience with a personal account.
+LOG IN
+LATEST FROM BIBLE GATEWAY
+The Biography of Christianity: An Interview with Ian Shaw
+How well do you know the story of Christianity from its birth and infancy among a handful of followers of Jesus Christ, through its years of development into a global religious movement, spanning continents and cultures and transcending educational and social backgrounds? View this post ?
+The Forgotten Jesus: An Interview with Robby Gallaty
+How can knowing about ancient Jewish idioms, traditions, and culture deepen Christians’ relationship with Jesus? How can readers of the Bible better understand Scripture passages by being sensitive to Hebrew heritage? View this post ?
+The Jesus Storybook Bible: An Interview with Sally Lloyd-Jones
+The Jesus Storybook Bible has reached a milestone of two million copies sold. A Bible like no other, it invites children (and adults) to join in the greatest of all adventures: to discover for themselves that Jesus is at the center of God’s great story of salvation—and at the center of their own story too! View this post ?
+The Forty Days Between Jesus’ Resurrection and Ascension: An Interview with D. Michael MacKinnon
+A 79-year-old frail man tells a story to his granddaughter that he’s kept a secret for decades: witnessing first-hand the last 40 days Jesus walked the earth. View this post ?
+BIBLE GATEWAY RECOMMENDS
+NIV Life Application Study Bible, Large Print, Bonded Leather, Burgundy, Thumb Indexed
+Retail: $89.99
+Our Price: $52.99
+Save: $37.00 (41%)
+BUY NOW
+The Circle Maker: Praying Circles Around Your Biggest Dreams and Greatest Fears
+Retail: $16.99
+Our Price: $8.99
+Save: $8.00 (47%)
+BUY NOW
+VIEW MORE
+BIBLE GATEWAY RECOMMENDS
+The Daniel Prayer: Prayer That Moves Heaven and Changes Nations
+Retail: $22.99
+Our Price: $12.99
+Save: $10.00 (43%)
+BUY NOW
+NIV Cultural Backgrounds Study Bible, Hardcover
+Retail: $49.99
+Our Price: $27.99
+Save: $22.00 (44%)
+BUY NOW
+VIEW MORE
+Bible Gateway
+HELP
+FAQs/Tutorials
+Contact us/Feedback
+Why We Advertise
+Use Bible Gateway On Your Site
+Advertise with Us
+How to Support Bible Gateway
+LINKS
+Bible Gateway Plus
+Bible Gateway Store
+ChurchSource
+FaithGateway
+Gospel.com
+HarperCollins Christian Publishing
+Reverend Fun
+StudyGateway
+Thomas Nelson
+WestBow Press
+Zondervan.com
+ABOUT
+Bible Gateway Blog
+Newsletters
+Statement of Faith
+About Bible Gateway
+Newsroom
+Site map
+Privacy policy
+Your Ad Choices
+Site: Terms of use
+Widget: Terms of use
+En Espa?ol
+Preferences   width=device-width, initial-scale=1 https://static6-a.akamaihd.net/assets/images/logos/logo_bg-sharing.png?fe2b40b7 https://static6-a.akamaihd.net/assets/images/logos/logo_bg-sharing.png?fe2b40b7 image/png 200 200 Tztv-FFmacpWvInYUMRCj6SxB6u2teUnrdRLfBGRCrY Read, hear, and study Scripture at the world's most-visited Christian website. Grow your faith with devotionals, Bible reading plans, and mobile apps. app-id=506512797, affiliate-data=bg-home IE=edge BibleGateway A searchable online Bible in over 100 versions and 50 languages / name=Passage Lookup;action-uri=https://www.biblegateway.com/passage/;icon-uri=/favicon.ico name=Keyword Search;action-uri=https://www.biblegateway.com/keyword/;icon-uri=/favicon.ico name=Topical Index;action-uri=https://www.biblegateway.com/topical/;icon-uri=/favicon.ico name=Reading Plans;action-uri=https://www.biblegateway.com/reading-plans/;icon-uri=/favicon.ico

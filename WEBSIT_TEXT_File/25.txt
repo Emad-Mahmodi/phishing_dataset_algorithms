@@ -1,0 +1,11 @@
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.ofpb4msmjuvpspngjkwonmlebgs3ufhzkx1eajqj4bymrcj1mfeqiqujwdcg.zonacentrala.for-our.infoThis site can’t be reached
+postesecurelogin.posta.it.bancaposta.foo-autenticazione.ofpb4msmjuvpspngjkwonmlebgs3ufhzkx1eajqj4bymrcj1mfeqiqujwdcg.zonacentrala.for-our.info’s server DNS address could not be found.
+Try:
+Checking the connection
+Checking the proxy, firewall, and DNS configuration
+Running Windows Network Diagnostics
+ERR_NAME_NOT_RESOLVED
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no
+Online Banking - Tesco Bank  text/html; charset=iso-8859-1 Web Page Maker

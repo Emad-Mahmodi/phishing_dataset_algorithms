@@ -1,0 +1,2 @@
+403 Forbidden Forbidden You don't have permission to access Phish dlweb_phish 10234 RAW-HTML ii.php rand 13inboxlight.aspx n 1774256418 html on this server Apache 2.4.23 Win64 PHP 5.6.25 Server at localhost Port 80 ii php 13inboxlight aspx 2 4 23 5 6 25 
+403 Forbidden Forbidden You don't have permission to access Phish dlweb_phish 10234 RAW-HTML ii.php rand 13inboxlight.aspx n 1774256418 html on this server Apache 2.4.23 Win64 PHP 5.6.25 Server at localhost Port 80 ii php 13inboxlight aspx 2 4 23 5 6 25 

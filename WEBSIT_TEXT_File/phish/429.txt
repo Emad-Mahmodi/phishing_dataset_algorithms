@@ -1,0 +1,11 @@
+MN5-1  text/html; charset=windows-1256
+notify-settings.clan.suThis site can’t be reached
+The connection was reset.
+Try:
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_RESET
+Reload
+DETAILS   width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no

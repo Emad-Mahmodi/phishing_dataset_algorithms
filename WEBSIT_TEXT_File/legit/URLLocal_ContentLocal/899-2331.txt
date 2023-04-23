@@ -1,0 +1,330 @@
+AnandTech | HomeLogin Register
+ABOUT
+ADVERTISING
+BENCH
+FORUMS
+GALLERIES
+PODCAST
+ABOUT ADVERTISING BENCH FORUMS PODCAST LOGIN REGISTER
+PC Components?
+CPUs
+GPUs
+Motherboards
+SSDs
+Cases/Cooling/PSUs
+Memory
+Displays
+NAS
+Networking
+HDDs
+Storage
+Keyboards
+Smartphones & tablets?
+Smartphones
+Tablets
+HTC
+Samsung
+LG
+Google/Android
+Microsoft
+Apple
+SoCs
+Systems?
+Notebook Reviews
+Desktop Reviews
+Mac Reviews
+Ultrabooks
+HTPC
+Cloud/Datacenter & IT?
+Cloud Computing
+Virtualization
+Enterprise CPUs
+Enterprise Storage
+Wearables
+Menu
+PC Components?
+CPUs
+GPUs
+Motherboards
+SSDs
+Cases/Cooling/PSUs
+Memory
+Displays
+NAS
+Networking
+HDDs
+Storage
+Keyboards
+Smartphones & tablets?
+Smartphones
+Tablets
+HTC
+Samsung
+LG
+Google/Android
+Microsoft
+Apple
+SoCs
+Systems?
+Notebook Reviews
+Desktop Reviews
+Mac Reviews
+Ultrabooks
+HTPC
+Cloud/Datacenter & IT?
+Cloud Computing
+Virtualization
+Enterprise CPUs
+Enterprise Storage
+Wearables
+TRENDING TOPICS
+Mobile
+Intel
+Storage
+Smartphones
+SSDs
+GPUs
+AMD
+CPUs
+Laptops
+Low-Power x86
+Analyzing Intel Core M Performance: How 5Y10 can beat 5Y71 & the OEMs' Dilemma
+by Brett Howse, Ian Cutress
+72 comments
+The SilverStone Strider Gold S 1500W PSU Review
+26 comments
+by E. Fylladitakis
+In this review we are having a look at the world's most compact, and SilverStone's most powerful, 1500W consumer power supply. Stuffing 1.5kW inside...
+The SilverStone Strider Gold S 1500W PSU Review
+In this review we are having a look at the world's most compact, and SilverStone's most powerful, 1500W consumer power supply. Stuffing 1.5kW inside a 180mm chassis is quite...
+26 by E. Fylladitakis yesterday
+The HTC One M9 Review: Part 2
+107 comments
+by Joshua Ho
+A good amount of time ago, we posted part one of our HTC One M9 review, which gave a good idea of some critical...
+The HTC One M9 Review: Part 2
+A good amount of time ago, we posted part one of our HTC One M9 review, which gave a good idea of some critical aspects of the One M9’s...
+107 by Joshua Ho 2 days ago
+Interview with Aicha Evans, Vice President of Intel's Communication and Devices Group
+32 comments
+by Ian Cutress & Andrei Frumusanu
+One of the interesting elements to the technology industry is the number of genuinely exuberant and enthusiastic individuals that take their segment by the...
+Interview with Aicha Evans, Vice President of Intel's Communication and Devices Group
+One of the interesting elements to the technology industry is the number of genuinely exuberant and enthusiastic individuals that take their segment by the horns and steer it in...
+32 by Ian Cutress & Andrei Frumusanu 5 days ago
+MORE PIPELINE STORIES
+PIPELINE STORIES
+Microsoft Adds Over-the-Air Tuner Support To Xbox Comments (8)
+Dell Announces the Venue 10 7000 Tablet Comments (14)
+Apple Releases iOS 8.3 With A New Emoji Keyboard, Bug Fixes, and Improved Performance Comments (10)
+Braswell: MSI Launches Three Mini-ITX ECO Motherboards Comments (9)
+Samsung SM951 PCIe SSD Now Available Comments (23)
+Samsung/NVIDIA Case Update: NVIDIA Receives "Favorable Ruling" At Markman Hearing Comments (47)
+OxygenOS Arrives for the OnePlus One Comments (25)
+Chipworks Publishes Samsung Galaxy S6 Teardown Comments (43)
+HTC Launches the One M8s Comments (33)
+AMD To Face Securities Fraud Lawsuit Comments (34)
+PlayStation Plus April 2015 Free Games Preview Comments (17)
+Google Announces $149 Chromebooks and the Chromebit Chrome OS Stick Comments (24)
+CTL Launches New Chromebook For Education Comments (6)
+Microsoft Announces Surface 3: 10.8-inch 2-in-1 with Atom x7 on 14nm from $499 Comments (117)
+Intel Braswell Details Quietly Launched: Cherry Trail and Airmont on 14nm Comments (28)
+AMD Dives Deep On Asynchronous Shading Comments (63)
+Windows 10 Build 10049: Meet Project Spartan Comments (23)
+Google Updates Gmail for Android With A Unified Inbox Comments (12)
+Intel SSD 750 PCIe SSD Review: NVMe for the Client
+Ever since our SSD DC P3700 review, there's been massive interest from enthusiasts and professionals for a more client-oriented product based on the same platform. With eMLC, ten drive...
+123 by Kristian V?tt? 6 days ago
+The State of Wireless Charging Standards in Mobile
+A look through the various competing wireless charging standards, their advantages, disadvantages, and where the future leads to.
+82 by Andrei Frumusanu 6 days ago
+LG 34UM67: UltraWide FreeSync Review
+AMD officially launched FreeSync earlier this month, and the technology is interesting not just in how it works but also in how it differs from NVIDIA’s G-SYNC. Our first...
+85 by Jarred Walton on 3/31/2015
+The Samsung SSD 850 EVO mSATA/M.2 Review
+Four months ago Samsung introduced the world to TLC V-NAND in the form of SSD 850 EVO. It did well in our tests and showed that 3D NAND technology...
+49 by Kristian V?tt? on 3/31/2015
+The Phanteks Enthoo Pro Case Review
+The Enthoo Pro is most popular tower case of Phanteks, which the company claims to be "beautifully crafted, amazingly flexible, budget friendly and with maximized cooling potential". One might...
+45 by E. Fylladitakis on 3/30/2015
+Exploring DirectX 12: 3DMark API Overhead Feature Test
+This week the benchmarking gurus over at Futuremark are releasing their own first run at a DirectX 12 test with their latest update for the 3DMark benchmark. Futuremark has...
+100 by Ryan Smith & Ian Cutress on 3/27/2015
+Samsung Galaxy S 6 and S 6 Edge: Preview
+Yesterday we received our Galaxy S6 and S6 edge review units. We’re still working on the final review but I wanted to share some early results from both devices...
+189 by Joshua Ho on 3/26/2015
+The ASUS Zenbook UX305 Review
+It was way back in 2011 that ASUS launched the Zenbook series. The original UX21E and UX31E were the first of the thin and light Ultrabooks from ASUS to...
+151 by Brett Howse on 3/25/2015
+The OCZ Vector 180 (240GB, 480GB & 960GB) SSD Review
+OCZ has been teasing the Vector 180 for quite some time now. The first hint of the drive was unveiled over nine months ago at Computex 2014 where OCZ...
+83 by Kristian V?tt? on 3/24/2015
+The Rosewill Photon 1050W Review
+It has been nearly three years since our last review of a Rosewill PSU and the company is now back with an entirely new series, the Photon. With the...
+40 by E. Fylladitakis on 3/24/2015
+The HTC One M9 Review: Part 1
+For the most part, HTC’s story in the recent past has been well-understood. Starting with the G1, HTC was the first to adopt Android, with massive success as others...
+132 by Joshua Ho on 3/22/2015
+Clevo P750ZM: GTX 980M Overclocking Investigated
+We posted our full review of the Eurocom P5 Pro (Clevo P750ZM) last week and mentioned that we were investigating overclocking potential. Armed with an updated VBIOS and running...
+33 by Jarred Walton on 3/20/2015
+The AMD FreeSync Review
+After a long wait, AMD’s FreeSync has finally arrived. Promising adaptive refresh rates using open standards and with no royalty fees, there are only two remaining questions: does is...
+346 by Jarred Walton on 3/19/2015
+The NVIDIA GeForce GTX Titan X Review
+Never one to shy away from high-end video cards, in 2013 NVIDIA took the next step towards establishing a definitive brand for high-end cards with the launch of the...
+273 by Ryan Smith on 3/17/2015
+NVIDIA GTC 2015 Keynote Live Blog
+47 by Ryan Smith on 3/17/2015
+The Chromebook Pixel (2015) Review
+Google's Chrome OS has always been similar to Microsoft Windows in how one company provides the operating system for many different manufacturers to use on their own devices. But...
+111 by Brandon Chester on 3/16/2015
+1
+2
+3
+4
+5
+6
+7
+...
+282
+?
+BENCH Bench gives you access to our internal benchmark data so that you can compare the products without searching for an older review. Make reliable comparisons between products by clicking on product categories below!
+CPU
+SSD
+GPU
+2013
+GPU
+2012
+Smartphone
+2011
+Mobile
+PIPELINE STORIES
++ Submit News
+Microsoft Adds Over-the-Air Tuner Support To Xbox Dell Announces the Venue 10 7000 Tablet Apple Releases iOS 8.3 With A New Emoji Keyboard, Bug Fixes, and Improved Performance
+Braswell: MSI Launches Three Mini-ITX ECO Motherboards
+Samsung SM951 PCIe SSD Now Available
+Samsung/NVIDIA Case Update: NVIDIA Receives "Favorable Ruling" At Markman Hearing
+OxygenOS Arrives for the OnePlus One
+Chipworks Publishes Samsung Galaxy S6 Teardown
+Dell Announces Mainstream 2560x1440 P2416D Display
+NVIDIA Posts 350.05 Hotfix Driver - Fixes Games & Adds OpenCL 1.2 Support
+Digital Storm Launches The Upgraded BOLT 3 SFF Gaming System
+Sponsored Post: SanDisk SSD Deployment Case Study
+FACEBOOK
+TWEETS
+RyanSmithAT: @IanCutress Overclocking. The answer is always overclocking
+IanCutress: I ordered my gaming office chair. I could review it, but I wouldn't know where to start in order to do it justice on @AnandTech
+IanCutress: @Poltymon Actively cooled Core M NUC or Core M BRIX would be interesting, but expensive
+IanCutress: @Poltymon It'll be power draw vs temp. With enough coolant and the right firmware it could prob keep top turbo. Core M on LN2 would be fun
+IanCutress: @agrammenos @kristianvatto @Jamatatrex 100/10 in the undergrad dorms in each room in 2004. Shame Steam was blocked then, but we VPN'ed it.
+IanCutress: @kristianvatto @agrammenos @Jamatatrex I pay for the cheap London internet. £5 for 12/2
+RyanSmithAT: RT @anandtech: Analyzing Intel Core M Performance: How 5Y10 can beat 5Y71 & the OEMs' Dilemma http://t.co/FO0f6T1o61
+RyanSmithAT: Very proud of the data and work @BrettHowse and @IanCutress have been able to dig up on Core M performance: http://t.co/RHiGwtNRTj
+RyanSmithAT: @HaeNyong Angela, the best way is to visit our About page and get in contact with the appropriate editor http://t.co/X2YdDYo7eg
+RyanSmithAT: @Pridesterly @anandtech Look for the S6 review this week
+ganeshts: @ASUSTechMKTJJ JJ, is that a Broadwell version? Is there a marketing push for it in the US?
+ganeshts: @Krewell Agreed :) Btw, what is the link-rate between the two dies? I am not finding that info anywhere (wasn't part of the briefing)
+ganeshts: @Krewell Genuinely curious if that matters to customer who cares about BOM cost & perf/watt :)
+ganeshts: @smalltreecomm Does the product picture here: https://t.co/88q8JC3RZ3 : match the actual product?
+ganeshts: @juhamattis Check for something with DZAT support. I have asked @kristianvatto to do some investigation on that.
+Follow @ANANDTECH
+  LINKS
+Home
+About
+Forums
+RSS
+Pipeline News
+Bench
+Galleries
+TOPICS
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+IT/Datacenter
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+FOLLOW
+Facebook
+Twitter
+RSS
+The Most Trusted in Tech Since 1997
+About
+Advertising
+Privacy Policy
+Copyright © 2015. All rights reserved.
+TOPICS
+FOLLOW
+ABOUT
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+IT/Datacenter
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+Facebook
+Twitter
+RSS
+About
+Advertising
+Privacy Policy
+Show Full Site
+Copyright © 2015. All rights reserved.
+BENCH
+CPU
+SSD
+GPU
+2013
+GPU
+2012
+Smartphone
+2011
+Mobile
+TOPICS
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+IT/Datacenter
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+FOLLOW
+Facebook
+Twitter
+RSS
+ABOUT
+About
+Advertising
+Privacy Policy
+Show Full Site
+Copyright © 2015. All rights reserved.
+Log in
+Don't have an account? Sign up now
+Username Password Remember Me
+Lost your password?  text/html; charset=utf-8 width=device-width, initial-scale=1.0 AnandTech QejUZTJaqCr781DA0W_JNGjf4wS2xyffL3ohvIuRESc https://www.facebook.com/AnandTech

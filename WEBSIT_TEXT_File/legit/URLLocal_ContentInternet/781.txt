@@ -1,0 +1,221 @@
+Slashdot: News for nerds, stuff that mattersStories
+Polls
+Deals
+Submit
+Search Slashdot
+Login
+or
+Sign up
+Topics:
+Devices
+Build
+Entertainment
+Technology
+Open Source
+Science
+YRO
+Follow us:
+RSS
+Facebook
+Google+
+Twitter
+Newsletter
+Become a fan of Slashdot on Facebook
+
+DEAL: For $25 - Add A Second Phone Number To Your Smartphone for life! Use promo code SLASHDOT25. Also, Slashdot's Facebook page has a chat bot now. Message it for stories and more. Check out the new SourceForge HTML5 Internet speed test!
+×
+Canada Rules To Uphold Net Neutrality (www.cbc.ca)
+11
+Posted by BeauHD on Thursday April 20, 2017 @10:05PM from the equally-treated-data-traffic dept.
+According to a new ruling by Canada's telecommunications regulator, internet service providers should not be able to exempt certain types of content, such as streaming music or video, from counting toward a person's data cap. The ruling upholds net neutrality, which is the principle that all web services should be treated equally by providers. CBC.ca reports:
+"Rather than offering its subscribers selected content at different data usage prices, Internet service providers should be offering more data at lower prices," said Jean-Pierre Blais, chairman of the CRTC in a statement. "That way, subscribers can choose for themselves what content they want to consume." The decision stems from a 2015 complaint against the wireless carrier Videotron, which primarily operates in Quebec. Videotron launched a feature in August of that year, enabling customers to stream music from services such as Spotify and Google Play Music without it counting against a monthly data cap as a way to entice people to subscribe to Videotron's internet service. The decision means that Videotron cannot offer its unlimited music streaming plan to subscribers in its current form -- nor can other internet providers offer similar plans that zero-rate other types of internet content, such as video streaming or social media.
+
+business canada court
+Apple Forces Recyclers To Shred All iPhones and MacBooks (vice.com)
+34
+Posted by BeauHD on Thursday April 20, 2017 @09:25PM from the annual-grandstanding-effort dept.
+An anonymous reader quotes a report from Motherboard:
+Apple released its Environmental Responsibility Report Wednesday, an annual grandstanding effort that the company uses to position itself as a progressive, environmentally friendly company. Behind the scenes, though, the company undermines attempts to prolong the lifespan of its products. Apple's new moonshot plan is to make iPhones and computers entirely out of recycled materials by putting pressure on the recycling industry to innovate. But documents obtained by Motherboard using Freedom of Information requests show that Apple's current practices prevent recyclers from doing the most environmentally friendly thing they could do: Salvage phones and computers from the scrap heap. Apple rejects current industry best practices by forcing the recyclers it works with to shred iPhones and MacBooks so they cannot be repaired or reused -- instead, they are turned into tiny shards of metal and glass.
+"Materials are manually and mechanically disassembled and shredded into commodity-sized fractions of metals, plastics, and glass," John Yeider, Apple's recycling program manager, wrote under a heading called "Takeback Program Report" in a 2013 report to Michigan Department of Environmental Quality. "All hard drives are shredded in confetti-sized pieces. The pieces are then sorted into commodities grade materials. After sorting, the materials are sold and used for production stock in new products. No reuse. No parts harvesting. No resale."
+apple hardware iphone
+Sponsored Content ?
+Voxox Cloud Phone Includes Outbound Calling to Mexico
+  Posted by Slashdot
+Outbound and inbound calls to Mexico have been added to the minutes pool of all Voxox Cloud Phone bundled plans – all at no additional cost.
+Voxox acknowledged that the United States and Mexico sustain a dynamic business environment that is suitable for small businesses with partners, employees, and clients across the border. Their geographic proximity is a competitive advantage for both US and Mexican entrepreneurs. This is why they have started including outbound calls to Mexico in their bundled minute plans – a move that is not typical of cloud communication service providers.
+Learn More
+Subway Sues Canada Network Over Claim Its Chicken Is 50 Percent Soy (yahoo.com)
+86
+Posted by BeauHD on Thursday April 20, 2017 @08:45PM from the tastes-like-chicken dept.
+jenningsthecat writes:
+As reported here back in February, the CBC, (Canada's national broadcaster), revealed DNA test results which indicated the chicken used in Subway Restaurants' sandwiches only contained about 50% chicken. Now, Subway is suing the public broadcaster for $210 million, because "its reputation and brand have taken a hit as a result of the CBC reports." The suit claims that "false statements [...] were published and republished, maliciously and without just cause or excuse, to a global audience, which has resulted in pecuniary loss to the plaintiffs."
+
+Personally, my working assumption here is that the CBC report is substantially correct. It will be interesting to see how the case plays out -- but should this have happened at all? Regulatory agencies here in Canada seem to be pretty good when it comes to inspecting meat processing facilities. Should they also be testing the prepared foods served by major restaurant chains to ensure that claims regarding food content are true and accurate?
+
+canada court food
+Tesla Recalls 53,000 Model S, Model X Cars For Stuck Parking Brakes (cnet.com)
+44
+Posted by BeauHD on Thursday April 20, 2017 @08:05PM from the better-safe-than-sorry dept.
+Tesla has issued a voluntary recall for approximately 53,000 Model S and Model X cars, which may be susceptible to having stuck parking brakes. The company hasn't received any reports of the parking brake system failing, but decided to issue a recall for precautionary reasons. According to CNET, the recall affects 31,000 Model S and Model X cars in the U.S., "and all affected vehicles carry build dates between February and October 2016." From the report:
+The problem lies with the electric parking brakes that help secure the vehicles when placed in Park. The parking brakes contain a small gear that might fracture, which would prevent the parking brake from releasing. Thus, a car that enters Park may not be able to move again. This has no bearing on the vehicles' regular brakes, and Tesla has received no reports of the parking brake system failing to hold a car in place. Tesla estimates that about 2 percent of the vehicles recalled contain the improperly manufactured gear. It should be noted that the parking brake assembly is from a third-party supplier, as well.
+
+hardware tesla technology
+Google Home Now Recognizes Specific Users' Voices, Gains Support For Multiple Accounts (phonedog.com)
+29
+Posted by BeauHD on Thursday April 20, 2017 @07:20PM from the full-potential-reached dept.
+Google has issued a long-awaited feature for Google Home: support for multiple users. In an update rolling out today, up to six people will be able to connect their Google account to a Google Home, and the unit will try to distinguish each person's voice from the other users connected to the device. Therefore, each person will be able to get access to their schedule, playlists, and more. PhoneDog reports:
+Support for multiple users is rolling out in the U.S. now and will be available in the U.K. in the coming months. To know if the feature is available to you, launch the Google Home app and look for a card that says "Multi-user is available." You can also click the icon in the upper right corner, find your Google Home, and select "Link your account." From there, you'll train the Google Assistant to recognize your voice so that it knows it's you when you're talking and not the other people with connected accounts. You'll say "Ok Google" and "Hey Google" twice each.
+
+google hardware privacy
+FCC Takes First Step Toward Allowing More Broadcast TV Mergers (theverge.com)
+44
+Posted by BeauHD on Thursday April 20, 2017 @06:40PM from the less-is-more dept.
+An anonymous reader quotes a report from The Verge:
+In a divided vote today, the Federal Communications Commission took steps that could lead to more consolidation among TV broadcasters, reducing the number of sources of local news. Today's changes revolve around the media ownership cap -- a limit on how many households a TV or radio broadcaster is allowed to reach. The rules are meant to promote diversity of media ownership, giving consumers access to different content and viewpoints. The cap currently prevents a company from reaching no more than 39 percent of U.S. households with broadcast TV. Large broadcasters hate the cap because it prevents them from getting even bigger. And since Trump took office and Ajit Pai was named chairman of the FCC, they've been lobbying to have it revised. The FCC's vote today starts to do that. First, it reinstates a rule known as the "UHF discount," which lets broadcasters have a bigger reach in areas where they use a certain type of technology. And second, it starts plans to revisit and raise the media ownership cap.
+
+business fcc internet
+Airbnb Fires Back, Accuses Hotel Industry Of Punishing the Middle-Class (thehill.com)
+50
+Posted by msmash on Thursday April 20, 2017 @06:00PM from the shots-fired dept.
+According to a legal documents, the American Hotel and Lodging Association (lobbying group for hotels in the U.S.) kicked off a plan last year to fight back Airbnb and other home-sharing services with a $5.6 million annual budget. Airbnb has responded to the revelation. From a report:
+The company's head of policy, Christopher Lehane, accused hoteliers of price-gouging customers and called their fight against Airbnb a "campaign to punish the middle-class" in a letter. It's only the latest salvo in a long fight between Airbnb and the American Hotel and Lodging Association (AHLA), which believes the startup is cutting into its business. [...] In a letter to the AHLA, Airbnb accused the group of trying to hurt middle-class property owners. The Airbnb head of policy argued that "we ought to be able to agree that the middle-class family that shares their home while traveling is not a commercial operator running a business." In its minutes, the AHLA alleged that many of the listings on Airbnb are operated by commercial entities. Lehane also accused the AHLA of being inconsistent on homesharing. He said the group's board meeting showed support for "the rights of property owners to occasionally rent out a room or their home."
+
+business money airbnb
+CC'ing the Boss on Email Makes Employees Feel Less Trusted, Study Finds (hbr.org)
+91
+Posted by msmash on Thursday April 20, 2017 @05:20PM from the psychology-of-work dept.
+Do you ever loop your boss when having a conversation with a colleague when his or her presence in the thread wasn't really necessary? Turns out, many people do this, and your colleague doesn't find it helpful at all. From an article:
+My collaborators and I conducted a series of six studies (a combination of experiments and surveys) to see how cc'ing influences organizational trust. While our findings are preliminary and our academic paper is still under review, a first important finding was that the more often you include a supervisor on emails to coworkers, the less trusted those coworkers feel (alternative link). In our experimental studies, in which 594 working adults participated, people read a scenario where they had to imagine that their coworker always, sometimes, or almost never copied the supervisor when emailing them. Participants were then required to respond to items assessing how trusted they would feel by their colleague. ("In this work situation, I would feel that my colleague would trust my 'competence,' 'integrity,' and 'benevolence.'") It was consistently shown that the condition in which the supervisor was "always" included by cc made the recipient of the email feel trusted significantly less than recipients who were randomly allocated to the "sometimes" or "almost never" condition. Organizational surveys of 345 employees replicated this effect by demonstrating that the more often employees perceived that a coworker copied their supervisor, the less they felt trusted by that coworker. To make matters worse, my findings indicated that when the supervisor was copied in often, employees felt less trusted, and this feeling automatically led them to infer that the organizational culture must be low in trust overall, fostering a culture of fear and low psychological safety.
+
+it science technology
+China's First Cargo Spacecraft Launch a 'Crucial Step' To Space Station (cnn.com)
+13
+Posted by msmash on Thursday April 20, 2017 @04:40PM from the making-progress dept.
+Earlier today, China launched its first unmanned cargo spacecraft on a mission to dock with the country's space station, marking further progress in the ambitious Chinese space program. Chinese state media Xinhua described the event as a "crucial step for China's plan to have an operational space station by 2020." From a report:
+The Tianzhou-1 took off from the Wenchang Space Launch Center in China's southern Hainan province, on track to dock with the orbiting space lab Tiangong-2. The launch was the latest in a series of major announcements by the Chinese space program, which celebrated its longest-ever space mission in November.
+
+china space spacestation
+File System Improvements To the Windows Subsystem for Linux (microsoft.com)
+70
+Posted by msmash on Thursday April 20, 2017 @04:00PM from the moving-forward dept.
+An anonymous reader shares a new article published on MSDN:
+In the latest Windows Insider build, the Windows Subsystem for Linux (WSL) now allows you to manually mount Windows drives using the DrvFs file system. Previously, WSL would automatically mount all fixed NTFS drives when you launch Bash, but there was no support for mounting additional storage like removable drives or network locations. Now, not only can you manually mount any drives on your system, we've also added support for other file systems such as FAT, as well as mounting network locations. This enables you to access any drive, including removable USB sticks or CDs, and any network location you can reach in Windows all from within WSL.
+
+linux os windows
+Amazon Cloud Chief Jabs Oracle: 'Customers Are Sick of It' (cnbc.com)
+57
+Posted by msmash on Thursday April 20, 2017 @03:20PM from the tussle-continues dept.
+It's no secret that Amazon and Oracle don't see eye to eye. But things are far from improving, it appears. From a report:
+On Wednesday, two months after Oracle co-CEO Mark Hurd called Amazon's cloud infrastructure "old" and claimed his company was gaining share, Amazon Web Services chief Andy Jassy slammed Oracle for locking customers into painfully long and expensive contracts. "People are very sensitive about being locked in given the experience they've had the last 10 to 15 years," Jassy said on Wednesday on stage at Amazon's AWS Summit in San Francisco. "When you look at cloud, it's nothing like being locked into Oracle." Jassy was addressing a cultural shift in the way technology is bought and sold. No longer does the process involve the purchase of heavy proprietary software with multi-year contracts that include annual maintenance fees. Now, Jassy says, it's about choice and ease of use, including letting clients turn things off if they're not working.
+
+amazon cloud oracle
+Mastercard is Building Fingerprint Scanners Directly Into Its Cards (fastcompany.com)
+76
+Posted by msmash on Thursday April 20, 2017 @02:40PM from the shape-of-things-to-come dept.
+Mastercard said on Thursday it's beginning trials of its "next-generation biometric card" in South Africa. In addition to the standard chip and pin, the new cards have a built-in fingerprint reader that the user can use to authenticate every purchase. From a report:
+Impressively, the new card is no thicker or larger than your current credit and debit cards.
+
+apple privacy security
+Microsoft Says It Will Release Two Feature Updates Per Year For Windows 10, Office (petri.com)
+48
+Posted by msmash on Thursday April 20, 2017 @02:00PM from the better-predictability dept.
+Microsoft is making a few changes to how it will service Windows, Office 365 ProPlus and System Center Configuration Manager. From a report:
+Announced today, Microsoft will be releasing two feature updates a year for Windows 10 in March in September and with each release, System Center Configuration Manager will support this new aligned update model for Office 365 ProPlus and Windows 10, making both easier to deploy and keep up to date. This is a big change for Microsoft as Windows will now be on a more predictable pattern for major updates and by aligning it with Office 365 Pro Plus, this should make these two platforms easier to service from an IT Pro perspective. The big news here is also that Microsoft is announcing when Redstone 3 is targeted for release. The company is looking at a September release window but it is worth pointing out that they traditionally release the month after the code is completed.
+
+it os windows
+President Trump Misses 90-Day Deadline To Appoint a Cybersecurity Team After Alleged Russian Hacking (politico.com)
+272
+Posted by msmash on Thursday April 20, 2017 @01:23PM from the reality-check dept.
+From a report:
+President-elect Donald Trump was very clear: "I will appoint a team to give me a plan within 90 days of taking office," he said in January, after getting a U.S. intelligence assessment of Russian interference in last year's elections and promising to address cybersecurity. Thursday, Trump hits his 90-day mark. There is no team, there is no plan, and there is no clear answer from the White House on who would even be working on what. It's the latest deadline Trump's set and missed -- from the press conference he said his wife would hold last fall to answer questions about her original immigration process to the plan to defeat ISIS that he'd said would come within his first 30 days in office. Since his inauguration, Trump's issued a few tweets and promises to get to the bottom of Russian hacking -- and accusations of surveillance of Americans, himself included, by the Obama administration.
+
+politics security usa
+Discovery May Help Decipher Ancient Inca String Code (nationalgeographic.com)
+36
+Posted by msmash on Thursday April 20, 2017 @12:40PM from the mystery-intensifies dept.
+A discovery made in a remote mountain village high in the Peruvian Andes suggests that the ancient Inca used accounting devices made of knotted, colored strings for more than accounting. From a report on National Geographic:
+The devices, called khipus (pronounced kee-poos), used combinations of knots to represent numbers and were used to inventory stores of corn, beans, and other provisions. Spanish accounts from colonial times claim that Inca khipus also encoded history, biographies, and letters, but researchers have yet to decipher any non-numerical meaning in the cords and knots. Now a pair of khipus protected by Andean elders since colonial times may offer fresh clues for understanding how more elaborate versions of the devices could have stored and relayed information. "What we found is a series of complex color combinations between the cords," says Sabine Hyland, professor of anthropology at University of St Andrews in Scotland and a National Geographic Explorer. "The cords have 14 different colors that allow for 95 unique cord patterns. That number is within the range of symbols in logosyllabic writing systems." Hyland theorizes that specific combinations of colored strings and knots may have represented syllables or words.
+
+science history people
+« Newer Older »
+  by Taboola 
+Sponsored Links 
+Sponsored Content
+10 interesting bars you might want to visit while in Berlin
+Spaceonplanet.com
+6 High Pay Clean Energy Jobs That Are In Demand Now
+WomensArticle.com
+They Took The Same Picture For 40 Years. Don't Cry When You See The Last!
+fannntastic-woman
+Slashdot Deals
+Slashdot Poll
+Which voice assistant do you think is the best?
+Google Assistant
+Siri
+Cortana
+Alexa
+Other (specify in comments)
+They're all equally bad
+They're all equally good
+vote now
+Read the 97 comments | 6281 votes
+Sponsored Links 
+From The Web
+Top 10 Exclusive Cars For The Richest People
+Topmanfun
+They Took The Same Picture For 40 Years. Don't Cry when You See The Last One!
+fannntastic-woman
+10 Delicious Foods To Burn More Calories!
+Crazy Freelancer
+Top 10 wearable gadgets from smart watches to smart T-shirts
+gadgets.feedbox.info
+  by Taboola 
+Most Discussed
+419 Scientists Invent Ultrasonic Dryer That Uses Sound To Dry Your Clothes
+373 95% Engineers in India Unfit For Software Development Jobs: Report
+331 Silicon Valley's $400 Juicer May Be Feeling the Squeeze
+278 First Evidence For Higher State of Consciousness Found
+269 President Trump Misses 90-Day Deadline To Appoint a Cybersecurity Team After Alleged Russian Hacking
+Hot Comments
+Ugh spreadsheets (5 points, Interesting) by athmanb on Thursday April 20, 2017 @11:38AM attached to The Biggest Time Suck at the Office Might Be Your Computer
+Your working assumption makes an ass out of you... (5 points, Informative) by fractalrock on Thursday April 20, 2017 @09:09PM attached to Subway Sues Canada Network Over Claim Its Chicken Is 50 Percent Soy
+Pew Researchers.. no shit sherlock (5 points, Insightful) by brxndxn on Thursday April 20, 2017 @08:16AM attached to No, Millennials Aren't a Bunch of Job-Hopping Flakes
+Re:Gen X are even greater job-hopping flakes! (5 points, Insightful) by jeff4747 on Thursday April 20, 2017 @10:15AM attached to No, Millennials Aren't a Bunch of Job-Hopping Flakes
+Not this again (5 points, Funny) by 93 Escort Wagon on Thursday April 20, 2017 @12:48PM attached to Discovery May Help Decipher Ancient Inca String Code
+This Day on Slashdot
+2016 Utah Governor: 'Porn Is a Public Health Crisis'
+822
+2010 Gizmodo Blows Whistle On 4G iPhone Loser
+853
+2009 Oracle Buys Sun
+906
+2005 Congress Declares War on File Leakers
+1345
+2004 Reasonable Salary for Entry Level Programmers?
+1525
+Sourceforge Top Downloads
+VLC Media Player
+822M Downloads
+eMule
+683M Downloads
+Azureus/vuze
+539M Downloads
+Ares Galaxy
+338M Downloads
+Microsoft core fonts
+300M Downloads
+Powered By
+sf
+Today
+Wednesday
+Tuesday
+Monday
+Sunday
+Saturday
+Friday
+Thursday
+Submit Story
+"The number of Unix installations has grown to 10, with more expected." -- The Unix Programmer's Manual, 2nd Edition, June, 1972
+FAQ Story Archive Hall of Fame Advertising Terms Privacy Cookie Preferences Opt Out Choices About Feedback Mobile View Blog
+
+Trademarks property of their respective owners. Comments owned by the poster. Copyright © 2017 SlashdotMedia. All Rights Reserved.  IE=edge,chrome=1 IE=edge,chrome=1 text/html; charset=utf-8 Slashdot: News for nerds, stuff that matters. Timely news source for technology related news with a heavy slant towards Linux and Open Source issues. Slashdot: News for nerds, stuff that matters Slashdot: News for nerds, stuff that matters. Timely news source for technology related news with a heavy slant towards Linux and Open Source issues. 100000696822412 267995220856 width=1000, user-scalable=yes, minimum-scale=0, maximum-scale=10.0 yes black
